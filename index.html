@@ -3,99 +3,217 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Madlords AI</title>
+    <title>AI Blog — MAD LORDS</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
+
     <nav>
-        <div class="logo">madlords<span class="ai-badge">.ai</span></div>
-        <div class="nav-links">
-            <a href="#features">Features</a>
-            <a href="#about">About</a>
-            <a href="#contact" class="btn-nav">Contact</a>
+        <div class="nav-inner">
+            <a href="https://www.madlords.com" class="back-link">&larr; madlords.com</a>
+            <div class="logo">MAD LORDS <span class="logo-ai">AI</span></div>
+            <div class="nav-links">
+                <a href="#articles">Articles</a>
+                <a href="#categories">Categories</a>
+                <a href="#newsletter">Newsletter</a>
+            </div>
         </div>
     </nav>
 
-    <section class="hero">
-        <div class="hero-glow"></div>
-        <div class="hero-content">
-            <span class="tag">Intelligence Artificielle</span>
-            <h1>L'IA au service de<br><span class="gradient-text">votre ambition</span></h1>
-            <p class="subtitle">Madlords AI transforme vos donnees en decisions. Analytics, automation et intelligence predictive pour accelerer votre croissance.</p>
-            <div class="cta-group">
-                <a href="#contact" class="btn-primary">Demarrer</a>
-                <a href="#features" class="btn-secondary">En savoir plus</a>
-            </div>
+    <header class="hero">
+        <span class="hero-label">Le Blog</span>
+        <h1>L'intelligence artificielle<br>au service du <em>luxe</em></h1>
+        <p class="hero-subtitle">Tendances, analyses et perspectives sur l'IA dans l'univers de la mode et du lifestyle.</p>
+    </header>
+
+    <section class="featured">
+        <div class="container">
+            <article class="featured-post">
+                <div class="featured-img">
+                    <div class="img-placeholder">
+                        <span>Featured</span>
+                    </div>
+                </div>
+                <div class="featured-content">
+                    <span class="post-category">Tendances</span>
+                    <h2>Comment l'IA redefinit l'experience client dans le luxe</h2>
+                    <p>De la recommandation personnalisee a la creation assistee, l'intelligence artificielle transforme profondement la relation entre les maisons de luxe et leurs clients. Analyse d'une revolution silencieuse.</p>
+                    <div class="post-meta">
+                        <span>31 Mars 2026</span>
+                        <span class="meta-sep">&middot;</span>
+                        <span>8 min de lecture</span>
+                    </div>
+                    <a href="#" class="read-more">Lire l'article &rarr;</a>
+                </div>
+            </article>
         </div>
-        <div class="hero-visual">
-            <div class="orbit">
-                <div class="orbit-ring ring-1"></div>
-                <div class="orbit-ring ring-2"></div>
-                <div class="orbit-ring ring-3"></div>
-                <div class="orbit-core"></div>
+    </section>
+
+    <section id="articles" class="articles">
+        <div class="container">
+            <div class="section-header">
+                <h2>Derniers articles</h2>
+                <div class="filter-tags">
+                    <button class="filter-tag active">Tous</button>
+                    <button class="filter-tag">Tendances</button>
+                    <button class="filter-tag">Tech</button>
+                    <button class="filter-tag">Business</button>
+                    <button class="filter-tag">Culture</button>
+                </div>
+            </div>
+
+            <div class="posts-grid">
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>01</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Tech</span>
+                        <h3>Les agents IA : nouveaux personal shoppers du digital</h3>
+                        <p>Comment les assistants intelligents revolutionnent le conseil mode en ligne.</p>
+                        <div class="post-meta">
+                            <span>28 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>5 min</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>02</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Business</span>
+                        <h3>Predictive analytics : anticiper les tendances avant le marche</h3>
+                        <p>L'analyse predictive permet aux marques de devancer les attentes des consommateurs.</p>
+                        <div class="post-meta">
+                            <span>25 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>6 min</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>03</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Culture</span>
+                        <h3>Quand la creation rencontre l'algorithme</h3>
+                        <p>L'IA generative ouvre de nouvelles perspectives pour les designers et directeurs artistiques.</p>
+                        <div class="post-meta">
+                            <span>22 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>7 min</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>04</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Tendances</span>
+                        <h3>Supply chain intelligente : le luxe optimise sa logistique</h3>
+                        <p>De la production a la livraison, l'IA rend chaque maillon plus efficace et durable.</p>
+                        <div class="post-meta">
+                            <span>19 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>4 min</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>05</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Tech</span>
+                        <h3>Computer vision et authentification des pieces de luxe</h3>
+                        <p>Comment la vision par ordinateur lutte contre la contrefacon dans l'industrie du luxe.</p>
+                        <div class="post-meta">
+                            <span>16 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>6 min</span>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="post-card">
+                    <div class="post-card-img">
+                        <div class="img-placeholder small"><span>06</span></div>
+                    </div>
+                    <div class="post-card-body">
+                        <span class="post-category">Business</span>
+                        <h3>Data privacy dans le luxe : entre personnalisation et respect</h3>
+                        <p>Trouver l'equilibre entre experience sur-mesure et protection des donnees clients.</p>
+                        <div class="post-meta">
+                            <span>13 Mars 2026</span>
+                            <span class="meta-sep">&middot;</span>
+                            <span>5 min</span>
+                        </div>
+                    </div>
+                </article>
             </div>
         </div>
     </section>
 
-    <section id="features" class="features">
-        <h2>Ce qu'on fait <span class="gradient-text">differemment</span></h2>
-        <div class="features-grid">
-            <div class="feature-card">
-                <div class="feature-icon">📊</div>
-                <h3>Analytics Avance</h3>
-                <p>Visualisez vos donnees comme jamais. Dashboards intelligents et insights en temps reel.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon">🤖</div>
-                <h3>Automation IA</h3>
-                <p>Automatisez vos workflows avec des agents IA entraines sur vos processus metier.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon">🔮</div>
-                <h3>Prediction</h3>
-                <p>Anticipez les tendances et prenez des decisions basees sur des modeles predictifs fiables.</p>
-            </div>
-            <div class="feature-card">
-                <div class="feature-icon">🔐</div>
-                <h3>Data Privacy</h3>
-                <p>Vos donnees restent les votres. Infrastructure securisee et conforme RGPD.</p>
+    <section id="categories" class="categories">
+        <div class="container">
+            <h2>Categories</h2>
+            <div class="categories-grid">
+                <a href="#" class="category-card">
+                    <span class="category-name">Tendances</span>
+                    <span class="category-count">12 articles</span>
+                </a>
+                <a href="#" class="category-card">
+                    <span class="category-name">Tech</span>
+                    <span class="category-count">18 articles</span>
+                </a>
+                <a href="#" class="category-card">
+                    <span class="category-name">Business</span>
+                    <span class="category-count">9 articles</span>
+                </a>
+                <a href="#" class="category-card">
+                    <span class="category-name">Culture</span>
+                    <span class="category-count">7 articles</span>
+                </a>
             </div>
         </div>
     </section>
 
-    <section id="about" class="about">
-        <div class="about-content">
-            <h2>Propulse par <span class="gradient-text">Madlords</span></h2>
-            <p>Nous sommes une equipe passionnee par la data et l'intelligence artificielle. Notre mission : rendre l'IA accessible et actionnable pour chaque entreprise, quelle que soit sa taille.</p>
-            <div class="stats">
-                <div class="stat">
-                    <span class="stat-number">99.9%</span>
-                    <span class="stat-label">Uptime</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number">10x</span>
-                    <span class="stat-label">Plus rapide</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number">24/7</span>
-                    <span class="stat-label">Support</span>
-                </div>
-            </div>
+    <section id="newsletter" class="newsletter">
+        <div class="container">
+            <h2>Restez <em>informe</em></h2>
+            <p>Recevez nos derniers articles sur l'IA et le luxe, directement dans votre boite mail.</p>
+            <form class="newsletter-form" onsubmit="return false;">
+                <input type="email" placeholder="Votre adresse email" required>
+                <button type="submit">S'inscrire</button>
+            </form>
         </div>
-    </section>
-
-    <section id="contact" class="contact">
-        <h2>Pret a <span class="gradient-text">commencer</span> ?</h2>
-        <p>Contactez-nous pour une demo personnalisee.</p>
-        <a href="mailto:contact@madlords.ai" class="btn-primary">Nous contacter</a>
     </section>
 
     <footer>
-        <div class="footer-content">
-            <div class="logo">madlords<span class="ai-badge">.ai</span></div>
-            <p>&copy; 2026 Madlords AI. Tous droits reserves.</p>
+        <div class="container footer-content">
+            <div class="footer-left">
+                <div class="logo">MAD LORDS <span class="logo-ai">AI</span></div>
+                <p>Le blog intelligence artificielle de Mad Lords.</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://www.madlords.com">Site principal</a>
+                <a href="#articles">Articles</a>
+                <a href="#newsletter">Newsletter</a>
+            </div>
+            <div class="footer-copy">
+                <p>&copy; 2026 Mad Lords. Tous droits reserves.</p>
+            </div>
         </div>
     </footer>
+
 </body>
 </html>
