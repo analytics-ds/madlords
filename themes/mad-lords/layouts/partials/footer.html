@@ -1,0 +1,29 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>{{ .Site.Title }}</h4>
+                <p>Maison de bijoux atypique fondee a Paris en 2012, Mad Lords redefinit le luxe en celebrant l'ultra-creativite, l'artisanat et les expressions uniques de designers contemporains non conformistes. Un univers ou esprits libres et nouveaux hippies trouvent leur veritable expression.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Categories</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Navigation</h4>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} MAD LORDS, Tous droits reserves</p>
+        </div>
+    </div>
+</footer>
