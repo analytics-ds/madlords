@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
+  <meta name="googlebot" content="noindex, nofollow" />
+  <meta name="bingbot" content="noindex, nofollow" />
+  <title>MADLORDS Magazine - En cours de création</title>
+  <meta name="description" content="Le magazine MADLORDS arrive bientôt." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-body: #ffffff;
+      --bg-body-darken: #f7f7f7;
+      --color-body: #232323;
+      --color-heading: #000000;
+      --color-accent: #151515;
+      --color-border: #eaeaea;
+      --color-muted: #969696;
+      --font-body: "DM Sans", system-ui, -apple-system, sans-serif;
+      --font-heading: "Playfair Display", Georgia, serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: var(--font-body);
+      color: var(--color-body);
+      background: var(--bg-body);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .header {
+      border-bottom: 1px solid var(--color-border);
+      padding: 24px 32px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .logo {
+      font-family: var(--font-body);
+      font-weight: 600;
+      font-size: 16px;
+      letter-spacing: 0.4em;
+      color: var(--color-accent);
+      text-transform: uppercase;
+      text-decoration: none;
+    }
+
+    .main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 24px;
+    }
+
+    .container {
+      max-width: 640px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .eyebrow {
+      font-family: var(--font-body);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--color-muted);
+      margin-bottom: 32px;
+    }
+
+    h1 {
+      font-family: var(--font-heading);
+      font-weight: 400;
+      font-size: clamp(40px, 6vw, 72px);
+      line-height: 1.1;
+      color: var(--color-heading);
+      margin-bottom: 24px;
+      letter-spacing: -0.01em;
+    }
+
+    .subtitle {
+      font-family: var(--font-body);
+      font-size: 16px;
+      line-height: 1.7;
+      color: var(--color-body);
+      max-width: 480px;
+      margin: 0 auto 48px;
+    }
+
+    .divider {
+      width: 40px;
+      height: 1px;
+      background: var(--color-border);
+      margin: 0 auto 48px;
+    }
+
+    .cta {
+      display: inline-block;
+      font-family: var(--font-body);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--bg-body);
+      background: var(--color-accent);
+      padding: 16px 40px;
+      border-radius: 3px;
+      text-decoration: none;
+      transition: background 0.2s ease;
+    }
+
+    .cta:hover {
+      background: #000000;
+    }
+
+    .footer {
+      border-top: 1px solid var(--color-border);
+      padding: 24px 32px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--color-muted);
+      letter-spacing: 0.05em;
+    }
+
+    .footer a {
+      color: var(--color-muted);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .footer a:hover {
+      color: var(--color-accent);
+    }
+
+    @media (max-width: 600px) {
+      .header { padding: 20px 20px; }
+      .logo { font-size: 14px; letter-spacing: 0.35em; }
+      .main { padding: 40px 20px; }
+      .subtitle { font-size: 15px; }
+      .footer { padding: 20px; font-size: 11px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <a href="https://www.madlords.com" class="logo">MADLORDS</a>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <p class="eyebrow">Magazine</p>
+      <h1>En cours de création</h1>
+      <div class="divider"></div>
+      <p class="subtitle">
+        Le magazine MADLORDS arrive bientôt. Un nouvel espace dédié à la joaillerie, aux pièces d'exception et à l'univers de la maison.
+      </p>
+      <a href="https://www.madlords.com" class="cta">Visiter la boutique</a>
+    </div>
+  </main>
+
+  <footer class="footer">
+    &copy; MADLORDS &middot; <a href="https://www.madlords.com">madlords.com</a>
+  </footer>
+</body>
+</html>
