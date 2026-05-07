@@ -73,18 +73,22 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 
 ## Contexte du site
 
-> Cette section est remplie automatiquement par le skill `/create-site`.
-> Elle permet a Claude de connaitre le contexte du site pour les futures actions.
-
-- **Nom du site** : [non defini]
-- **Description (FR)** : [non defini]
-- **Description (EN)** : [non defini]
-- **URL** : [non defini]
-- **Couleurs** : [non defini]
-- **Polices** : [non defini]
-- **Langue principale** : [non defini] (la version EN en sous-dossier `/en/` est TOUJOURS active)
-- **Categories (FR ↔ EN)** : [non defini — format : "Nom FR / Name EN" pour chaque categorie]
-- **Auteur principal du site** : [ID-slug de l'auteur dans data/authors.yaml le plus pertinent pour la thematique du site, utilise par defaut si `/create-article-geo` ne trouve pas de match clair]
+- **Nom du site** : MADLORDS Magazine
+- **Description (FR)** : Le magazine MADLORDS, dedie a la joaillerie d'exception, a l'art de vivre et aux inspirations qui composent l'univers de la maison.
+- **Description (EN)** : MADLORDS Magazine, devoted to fine jewelry, the art of living, and the inspirations that shape the world of the home.
+- **URL** : https://mag.madlords.com/
+- **Site principal de la marque** : https://www.madlords.com/
+- **Couleurs** : noir #1a1a1a (primaire), dore #b8965a (accent), blanc #ffffff (fond), creme #f7f5f2 (fond alternatif)
+- **Polices** : Playfair Display (titres, serif), DM Sans (corps + UI, sans-serif)
+- **Langue principale** : Francais (la version EN en sous-dossier `/en/` est toujours active)
+- **Categories (FR ↔ EN)** :
+  - Joaillerie / Jewelry
+  - Maison / Home & Living
+  - Art de vivre / Lifestyle
+  - Inspirations / Inspirations
+- **Auteur principal du site** : magalie-ergoz (mode/beaute, le plus pertinent pour l'univers joaillerie + lifestyle premium). Pour les sujets purement maison/habitat, utiliser claire-beaumont
+- **Type de site PBN GEO** : Type A (site client exclusif, geographie reserve a Madlords)
+- **Equipe datashake** : Valentin et Jerome (consultants en charge du blog, voir CONTEXTE.md du PBN GEO datashake)
 
 ## Suivi des publications (MEMORY.md)
 

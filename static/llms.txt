@@ -1,0 +1,24 @@
+# MADLORDS Magazine
+
+> Le magazine MADLORDS, dedie a la joaillerie d'exception, a l'art de vivre et aux inspirations qui composent l'univers de la maison.
+
+## A propos
+
+MADLORDS Magazine est l'espace editorial de la maison MADLORDS, joaillier specialise dans les pieces d'exception. Le magazine publie des articles autour de la haute joaillerie, du savoir-faire des grandes maisons, de l'art de vivre, de la decoration et des inspirations qui nourrissent l'univers de la marque.
+
+## Categories principales
+
+- Joaillerie : pieces iconiques, savoir-faire, pierres precieuses, histoires de bijoux
+- Maison : decoration, mobilier, art de la table, inspirations interieures
+- Art de vivre : voyages, gastronomie, culture, rituels du quotidien
+- Inspirations : portraits de createurs, tendances, regards d'experts
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Site principal : https://www.madlords.com/
+- Magazine : https://mag.madlords.com/
+- Sitemap : https://mag.madlords.com/sitemap.xml
+- RSS : https://mag.madlords.com/index.xml
+- Langues disponibles : Francais (par defaut), Anglais (/en/)

@@ -1,10 +1,11 @@
 {{ define "main" }}
+{{ $isEN := eq .Site.Language.Lang "en" }}
 
 <section class="sitemap-page">
     <header class="list-header">
         <div class="container">
-            <h1>Plan du site</h1>
-            <p class="list-description">Toutes les pages de {{ .Site.Title }}</p>
+            <h1>{{ if $isEN }}Sitemap{{ else }}Plan du site{{ end }}</h1>
+            <p class="list-description">{{ if $isEN }}All pages of {{ .Site.Title }}{{ else }}Toutes les pages de {{ .Site.Title }}{{ end }}</p>
         </div>
     </header>
 
@@ -12,10 +13,10 @@
         <div class="container container-narrow">
 
             <div class="sitemap-section">
-                <h2>Pages principales</h2>
+                <h2>{{ if $isEN }}Main pages{{ else }}Pages principales{{ end }}</h2>
                 <ul class="sitemap-list">
                     <li>
-                        <a href="{{ "/" | relURL }}">Accueil</a>
+                        <a href="{{ "/" | relLangURL }}">{{ if $isEN }}Home{{ else }}Accueil{{ end }}</a>
                     </li>
                     {{ range .Site.Menus.main }}
                     <li>
@@ -43,14 +44,6 @@
                     {{ end }}
                 </ul>
             </div>
-            {{ end }}
-
-            {{ $uncategorized := where .Site.RegularPages "Section" "blog" }}
-            {{ $allCategorized := slice }}
-            {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-                {{ range $taxonomy.Pages }}
-                    {{ $allCategorized = $allCategorized | append .RelPermalink }}
-                {{ end }}
             {{ end }}
 
         </div>
