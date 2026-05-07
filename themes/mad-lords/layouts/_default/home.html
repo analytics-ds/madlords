@@ -16,13 +16,41 @@
     <div class="container">
         <h2 class="section-title">{{ if $isEN }}Our universe{{ else }}Notre univers{{ end }}</h2>
         <div class="grid-categories">
+            {{ $catFile := index .Site.Data "category-images" }}
+            {{ $catImages := $catFile.categories }}
             {{ range .Site.Taxonomies.categories }}
-            <a href="{{ .Page.RelPermalink }}" class="category-card">
-                <h3>{{ .Page.Title }}</h3>
-                <span class="category-count">{{ .Count }} {{ if $isEN }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt .Count 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
+            {{ $slug := path.Base .Page.RelPermalink }}
+            {{ $catEntry := index $catImages $slug }}
+            {{ $catImage := "" }}
+            {{ if $catEntry }}{{ $catImage = $catEntry.image }}{{ end }}
+            {{ if not $catImage }}
+                {{ range first 1 (sort .Pages "Date" "desc") }}
+                    {{ if .Params.image }}{{ $catImage = .Params.image }}{{ end }}
+                {{ end }}
+            {{ end }}
+            <a href="{{ .Page.RelPermalink }}" class="category-card{{ if $catImage }} category-card-with-image{{ end }}"{{ if $catImage }} style="background-image: linear-gradient(rgba(26,26,26,0.45), rgba(26,26,26,0.85)), url('{{ $catImage | relURL }}');"{{ end }}>
+                <span class="category-card-overlay">
+                    <h3>{{ .Page.Title }}</h3>
+                    <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
+                </span>
             </a>
             {{ end }}
         </div>
+        <p class="categories-credits">
+            {{ if $isEN }}Image credits:{{ else }}Credits images :{{ end }}
+            {{ $seen := slice }}
+            {{ $first := true }}
+            {{ range .Site.Taxonomies.categories }}
+                {{ $slug := path.Base .Page.RelPermalink }}
+                {{ $entry := index $catImages $slug }}
+                {{ if and $entry $entry.credit (not (in $seen $entry.image)) }}
+                    {{ if not $first }} &middot; {{ end }}
+                    <a href="{{ $entry.source_url }}" target="_blank" rel="nofollow noopener">{{ $entry.credit }}</a>
+                    {{ $seen = $seen | append $entry.image }}
+                    {{ $first = false }}
+                {{ end }}
+            {{ end }}
+        </p>
     </div>
 </section>
 

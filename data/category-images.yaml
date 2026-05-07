@@ -1,0 +1,33 @@
+# Images des category cards, recuperees via Openverse (licences commercial+modification)
+# Cles : slug de la categorie tel que genere par Hugo (FR + EN)
+categories:
+  # FR
+  joaillerie:
+    image: "/images/categories/joaillerie.webp"
+    credit: "Photo par Gnilenkov Aleksey via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/39415470@N02/8421908605"
+  maison:
+    image: "/images/categories/maison.webp"
+    credit: "Photo par Foto Miki Digital via Flickr (CC PDM 1.0)"
+    source_url: "https://www.flickr.com/photos/96511847@N04/9202816086"
+  art-de-vivre:
+    image: "/images/categories/art-de-vivre.webp"
+    credit: "Photo par gnuckx via Flickr (CC0 1.0)"
+    source_url: "https://www.flickr.com/photos/34409164@N06/4710738821"
+  inspirations:
+    image: "/images/categories/inspirations.webp"
+    credit: "Photo par Dean Hochman via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/17997843@N02/8190645021"
+  # EN (memes images, slugs differents)
+  jewelry:
+    image: "/images/categories/joaillerie.webp"
+    credit: "Photo par Gnilenkov Aleksey via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/39415470@N02/8421908605"
+  home:
+    image: "/images/categories/maison.webp"
+    credit: "Photo par Foto Miki Digital via Flickr (CC PDM 1.0)"
+    source_url: "https://www.flickr.com/photos/96511847@N04/9202816086"
+  lifestyle:
+    image: "/images/categories/art-de-vivre.webp"
+    credit: "Photo par gnuckx via Flickr (CC0 1.0)"
+    source_url: "https://www.flickr.com/photos/34409164@N06/4710738821"
