@@ -6,11 +6,11 @@ lastmod: 2026-04-22
 draft: false
 translationKey: "tendances-2026-haute-joaillerie"
 author: magalie-ergoz
-categories: ["Inspirations"]
+categories: ["Jewelry"]
 tags: ["2026 trends", "fine jewelry", "precious stones", "design"]
-image: ""
+image: "/images/blog/tendances-2026-haute-joaillerie.jpg"
 imageAlt: "Fine jewelry ring with sapphire and diamonds"
-imageCredit: ""
+imageCredit: "Photo by Koshyk via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the trending color in fine jewelry in 2026?"
     answer: "Green stands out as the color of the year, declined in deep emerald, luminous peridot and Paraiba tourmaline. This trend accompanies a broader movement around certified unheated colored stones."

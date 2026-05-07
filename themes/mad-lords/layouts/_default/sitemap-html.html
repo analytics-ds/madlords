@@ -15,9 +15,6 @@
             <div class="sitemap-section">
                 <h2>{{ if $isEN }}Main pages{{ else }}Pages principales{{ end }}</h2>
                 <ul class="sitemap-list">
-                    <li>
-                        <a href="{{ "/" | relLangURL }}">{{ if $isEN }}Home{{ else }}Accueil{{ end }}</a>
-                    </li>
                     {{ range .Site.Menus.main }}
                     <li>
                         <a href="{{ .URL | relURL }}">{{ .Name }}</a>

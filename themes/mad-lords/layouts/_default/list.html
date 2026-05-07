@@ -4,8 +4,16 @@
 
 <section class="list-header">
     <div class="container">
-        <h1>{{ .Title }}</h1>
-        {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
+        {{ $lang := .Site.Language.Lang }}
+        {{ $slug := path.Base .RelPermalink }}
+        {{ $chapos := index (index $.Site.Data "category-chapos").categories $lang }}
+        {{ $entry := index $chapos $slug }}
+        {{ $title := .Title }}
+        {{ with $entry }}{{ with .title }}{{ $title = . }}{{ end }}{{ end }}
+        <h1>{{ $title }}</h1>
+        {{ $desc := .Description }}
+        {{ if not $desc }}{{ with $entry }}{{ $desc = .description }}{{ end }}{{ end }}
+        {{ with $desc }}<p class="list-description">{{ . }}</p>{{ end }}
         <span class="list-count">{{ len .Pages }} {{ if $isEN }}{{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}{{ else }}{{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}{{ end }}</span>
     </div>
 </section>

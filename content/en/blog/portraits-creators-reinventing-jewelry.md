@@ -1,49 +1,49 @@
 ---
 title: "Portraits: the creators reinventing contemporary jewelry"
-description: "A new generation of jewelers brings traditional craftsmanship into dialogue with a contemporary perspective. Five creators to follow in 2026."
+description: "Five designers featured at MADLORDS who are rethinking jewelry today. Sculpture, marquetry, folklore, interlocking rings: as many singular voices."
 date: 2026-04-24
-lastmod: 2026-04-24
+lastmod: 2026-05-07
 draft: false
 translationKey: "createurs-reinventent-joaillerie"
 author: magalie-ergoz
-categories: ["Inspirations"]
+categories: ["Jewelry"]
 tags: ["creators", "contemporary jewelry", "portraits", "trends"]
-image: ""
+image: "/images/blog/portrait-createurs-reinventent-joaillerie.jpg"
 imageAlt: "Jewelry workshop with traditional tools"
-imageCredit: ""
+imageCredit: "Photo by faith goble via Flickr (CC BY 2.0)"
 faq:
   - question: "What distinguishes contemporary jewelry from traditional fine jewelry?"
-    answer: "Contemporary jewelry often favors limited series, unconventional materials (titanium, precious wood, ceramic) and a more direct dialogue between creator and client, where traditional fine jewelry remains centered on precious stones and the craftsmanship of major houses."
+    answer: "Contemporary jewelry often favors limited series, unconventional materials (wood, mammoth ivory, scarab wings, ceramic) and a more direct dialogue between creator and client, where traditional fine jewelry remains centered on precious stones and the craftsmanship of major houses."
   - question: "How to discover an emerging jewelry creator?"
-    answer: "Specialized fairs (Joya Barcelona, Schmuck Munich, Talente Munich), galleries dedicated to contemporary jewelry, and certain Instagram accounts curated by collectors are the best sources of discovery."
+    answer: "Specialized concept stores like MADLORDS curate a new generation of international jewelers. Specialized fairs (Joya Barcelona, Schmuck Munich), galleries dedicated to contemporary jewelry, and Instagram accounts curated by collectors are other sources of discovery."
   - question: "Is contemporary jewelry an investment?"
-    answer: "Some creators see their value rise rapidly (Hemmerle, JAR, Suzanne Belperron in vintage), but the main purchase criterion should remain personal attachment to the piece and to the creator's perspective."
+    answer: "Some creators see their value rise quickly in specialized auctions. The main purchase criterion should however remain personal attachment to the piece and to the creator's perspective, more than financial logic."
 ---
 
 ## A jewelry world being renewed
 
-Fine jewelry has long been dominated by five major houses. A new generation of creators is shaking up this landscape by offering a contemporary perspective, unexpected materials and a more direct relationship with their clients.
+Fine jewelry has long been dominated by five major houses. A new generation of creators is shaking up this landscape by offering a contemporary perspective, unexpected materials and a more direct relationship with their clients. Here are five designers featured at [MADLORDS](https://www.madlords.com/) who embody this shift.
 
-## Hemmerle, Bavarian audacity
+## Bibi van der Velden, living sculpture
 
-The Hemmerle house, based in Munich, has made its signature out of unlikely material combinations: aluminum and diamond, wood and sapphire, blackened iron and emerald. Each piece is a dialogue between the precious and the raw.
+Founded in Amsterdam in 2006, [Bibi van der Velden](https://www.madlords.com/collections/bibi-van-der-velden) works with recycled 18-karat gold and rare materials: 60,000-year-old mammoth ivory, scarab beetle wings, baroque pearls. Each piece is hand-drawn then sculpted in wax following traditional techniques. The result reads as much like a sculptural miniature as a piece of jewelry, with a playful spirit that embraces the living quality of its materials.
 
-## JAR, the Parisian mystery
+## Spinelli Kilcollin, the augmented ring
 
-Joel Arthur Rosenthal has worked in the greatest secrecy on Place Vendome since 1977. His pieces, micro-paved with stones in graduated colors, are presented once a decade at the Metropolitan Museum or Somerset House. Almost invisible otherwise.
+The Californian duo of Yves Spinelli and Dwyer Kilcollin founded [Spinelli Kilcollin](https://www.madlords.com/collections/spinelli-kilcollin) in Los Angeles in 2010. Their signature: rings made of interlocking circles that can be worn across multiple fingers or stacked at will. The Galaxy collection, now iconic, plays with fluidity and poly-positioning. The piece is no longer a single ring but a modular system, in line with [an exceptional ring that reinvents itself](/en/blog/engagement-ring-essential-criteria/).
 
-## Lauren Adriana, English finesse
+## Silvia Furmanovich, Amazonian marquetry
 
-A jeweler based in London, Lauren Adriana brings British fine jewelry back to life. Her pieces, made by hand in her workshop, blend 19th-century technique and contemporary forms. Her butterfly brooch in titanium and sapphire has become a reference.
+Based in São Paulo since 1998, [Silvia Furmanovich](https://www.madlords.com/collections/silvia-furmanovich) brings an unexpected technique into fine jewelry: marquetry of precious Amazonian woods, paired with gold, diamonds and Brazilian gemstones. The designer draws from her travels to compose pieces that blend bamboo, mother-of-pearl and ebony. Multiple Couture Design Awards salute this approach, which opens a dialogue between ancestral craftsmanship and contemporary jewelry.
 
-## Taffin, American color
+## Maria Nilsdotter, the Nordic tale
 
-James Taffin de Givenchy works in New York around semi-precious stones: tourmalines, beryls, spinels. He has helped restore the prestige of the fine stone, long considered inferior to the four traditional precious stones.
+In Stockholm, [Maria Nilsdotter](https://www.madlords.com/collections/maria-nilsdotter) has been composing since 2007 a body of work inhabited by Nordic folklore and wild nature. Solid gold, precious stones, romantic symbolism: her pieces work as modern talismans, balancing strength and fragility, light and darkness. A narrative voice that places the jewel in a register close to [the heirloom piece](/en/blog/how-to-choose-an-heirloom-piece/), passed on as one passes on a story.
 
-## Cindy Chao, Taiwanese sculpture
+## Yannis Sergakis, a Greek language for the diamond
 
-Cindy Chao designs her jewels as sculptures. Her Black Label collection produces fewer than fifty pieces a year, each made like a monumental miniature. Several of her creations have joined the Smithsonian collections.
+From a family of Greek diamond traders, [Yannis Sergakis](https://www.madlords.com/collections/yannis-sergakis) founded his house in Athens in 2004. His work explores the diamond and gold with a very contemporary geometric grammar. The Celeste and Sigma collections offer bracelets, [necklaces](/en/blog/necklace-lengths-shapes-meanings/) and studs where the tradition of Greek jewelry meets a refined modernity.
 
 ## How to follow this generation
 
-Three reflexes to follow contemporary jewelry: visit specialized fairs, frequent galleries dedicated to contemporary jewelry, and identify on Instagram the accounts of recognized collectors and gallerists. It is through these channels that today's new references are being built.
+Three reflexes to follow contemporary jewelry: visit concept stores that curate these international creators, attend specialized fairs, and identify Instagram accounts of recognized collectors and gallerists. It is through these channels that the new references are built today, much as the parallel market of [pre-owned jewelry](/en/blog/pre-owned-jewelry-buying-authentication-guide/) gradually elevates these signatures.

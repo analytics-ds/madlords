@@ -1,16 +1,16 @@
 ---
-title: "Les 5 maisons de joaillerie qui ont marque le XXe siecle"
-description: "De Cartier a Boucheron en passant par Van Cleef, ces cinq maisons de joaillerie ont redefini l'art du bijou au XXe siecle. Histoire et signatures iconiques."
+title: "Les 5 maisons de joaillerie qui ont marqué le XXe siècle"
+description: "De Cartier à Boucheron en passant par Van Cleef, ces cinq maisons de joaillerie ont redéfini l'art du bijou au XXe siècle. Histoire et signatures iconiques."
 date: 2026-05-04
 lastmod: 2026-05-04
 draft: false
 translationKey: "maisons-joaillerie-xxe-siecle"
 author: magalie-ergoz
-categories: ["Joaillerie"]
+categories: ["Bijoux"]
 tags: ["maisons de joaillerie", "histoire du bijou", "haute joaillerie", "Cartier", "Van Cleef"]
-image: ""
+image: "/images/blog/maisons-joaillerie-xxe-siecle.jpg"
 imageAlt: "Vitrine de haute joaillerie place Vendome"
-imageCredit: ""
+imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelle est la plus ancienne maison de haute joaillerie francaise ?"
     answer: "Mellerio dits Meller, fondee en 1613, est consideree comme la plus ancienne maison de joaillerie francaise encore en activite, devant Boucheron (1858) et Cartier (1847)."

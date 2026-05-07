@@ -1,0 +1,43 @@
+# Chapos (descriptions + intros) pour les pages de categories
+# Cles : slug Hugo (urlize du nom de la categorie)
+# Permet d'enrichir les term pages quand _index.md ne fusionne pas
+categories:
+  fr:
+    bijoux:
+      description: "Histoires de maisons, portraits de créateurs, tendances et patrimoine : tout ce qui fait l'univers du bijou au-delà des types et des formes."
+      intro: "Cette section réunit les articles transverses sur la joaillerie : portraits de créateurs, héritage des grandes maisons, tendances et regards qui dépassent une seule catégorie de bijou."
+    bracelet:
+      description: "Du jonc en or à la manchette architecturale : histoire, formes et créateurs qui réinventent l'art du bracelet."
+      intro: "Le bracelet a son territoire propre dans l'histoire de la joaillerie. Ce dossier rassemble les articles qui racontent ses formes, ses signatures et les ateliers où il prend vie."
+    bague:
+      description: "Solitaire, alliance, chevalière, pièce de cocktail : la bague racontée par celles et ceux qui la dessinent, la portent et la transmettent."
+      intro: "La bague concentre l'art du bijou dans une pièce d'une rare intensité. Ici, on parle de ses formes, de ses pierres et des créateurs qui font évoluer son langage."
+    collier:
+      description: "Ras-de-cou, sautoir, pendentif : ce que le collier raconte, des codes anciens aux écritures contemporaines de la joaillerie."
+      intro: "Le collier traverse les époques en se réinventant. Ce dossier réunit les histoires, les pièces et les regards qui font sa modernité aujourd'hui."
+    boucle-doreille:
+      title: "Boucle d'oreille"
+      description: "Puces, créoles, pendantes : un panorama de la boucle d'oreille, entre archives de la joaillerie et signatures d'aujourd'hui."
+      intro: "La boucle d'oreille signe un visage. Ce dossier rassemble les articles qui en explorent l'histoire, les variations et les nouvelles écritures."
+    seconde-main:
+      description: "Vintage, archives, pièces transmises : la seconde main racontée comme un terrain de joaillerie à part entière."
+      intro: "La seconde main n'est pas qu'une alternative. C'est une lecture du bijou par l'histoire. Ce dossier explore les pièces, les maisons et les pratiques qui font sa singularité."
+  en:
+    jewelry:
+      description: "Stories of houses, designer portraits, trends and heritage: everything that shapes the world of jewelry beyond types and shapes."
+      intro: "This section gathers transversal articles on fine jewelry: designer portraits, heritage of great houses, trends and perspectives that go beyond a single jewelry category."
+    bracelet:
+      description: "From the gold bangle to the architectural cuff: history, shapes and the designers reinventing the art of the bracelet."
+      intro: "The bracelet has its own territory in the history of fine jewelry. This collection brings together stories about its shapes, its signatures, and the workshops where it comes to life."
+    ring:
+      description: "Solitaire, wedding band, signet, cocktail piece: the ring told by those who design it, wear it, and pass it on."
+      intro: "The ring captures the art of jewelry within a single piece of rare intensity. Here we explore its shapes, its stones, and the designers who keep its language alive."
+    necklace:
+      description: "Choker, sautoir, pendant: what the necklace tells us, from its older codes to the contemporary writings of fine jewelry."
+      intro: "The necklace travels through the ages and reinvents itself with each one. This collection gathers the stories, pieces, and perspectives that shape its modernity today."
+    earring:
+      description: "Studs, hoops, drops: a panorama of the earring, from the archives of fine jewelry to today's signatures."
+      intro: "Earrings define a face. This collection gathers articles that explore their history, their variations, and the new languages shaping them today."
+    second-hand:
+      description: "Vintage, archives, pieces handed down: second hand as a fine jewelry territory in its own right."
+      intro: "Second hand is more than an alternative. It is a way of reading jewelry through history. This collection explores the pieces, the houses, and the practices that give it its singularity."

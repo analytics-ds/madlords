@@ -2,32 +2,48 @@
 # Cles : slug de la categorie tel que genere par Hugo (FR + EN)
 categories:
   # FR
-  joaillerie:
-    image: "/images/categories/joaillerie.webp"
-    credit: "Photo par Gnilenkov Aleksey via Flickr (CC BY 2.0)"
-    source_url: "https://www.flickr.com/photos/39415470@N02/8421908605"
-  maison:
-    image: "/images/categories/maison.webp"
-    credit: "Photo par Foto Miki Digital via Flickr (CC PDM 1.0)"
-    source_url: "https://www.flickr.com/photos/96511847@N04/9202816086"
-  art-de-vivre:
-    image: "/images/categories/art-de-vivre.webp"
-    credit: "Photo par gnuckx via Flickr (CC0 1.0)"
-    source_url: "https://www.flickr.com/photos/34409164@N06/4710738821"
-  inspirations:
-    image: "/images/categories/inspirations.webp"
-    credit: "Photo par Dean Hochman via Flickr (CC BY 2.0)"
-    source_url: "https://www.flickr.com/photos/17997843@N02/8190645021"
+  bijoux:
+    image: "/images/categories/bijoux.jpg"
+    credit: "Photo par Tim Evanson via Flickr (CC BY-SA 2.0)"
+    source_url: "https://www.flickr.com/photos/timevanson/"
+  bracelet:
+    image: "/images/categories/bracelet.jpg"
+    credit: "Photo par PRECIOSA ORNELA via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/preciosa-ornela/6308569619"
+  bague:
+    image: "/images/categories/bague.jpg"
+    credit: "Photo par AMagill via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/amagill/263628038"
+  collier:
+    image: "/images/categories/collier.jpg"
+    credit: "Photo par Saucy Salad via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/saucysalad/4236752095"
+  boucle-doreille:
+    image: "/images/categories/boucle-d-oreille.jpg"
+    credit: "Photo par paparutzi via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/paparutzi/261737227"
+  seconde-main:
+    image: "/images/categories/seconde-main.jpg"
+    credit: "Photo par casey.marshall via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/caseymarshall/1465793670"
   # EN (memes images, slugs differents)
   jewelry:
-    image: "/images/categories/joaillerie.webp"
-    credit: "Photo par Gnilenkov Aleksey via Flickr (CC BY 2.0)"
-    source_url: "https://www.flickr.com/photos/39415470@N02/8421908605"
-  home:
-    image: "/images/categories/maison.webp"
-    credit: "Photo par Foto Miki Digital via Flickr (CC PDM 1.0)"
-    source_url: "https://www.flickr.com/photos/96511847@N04/9202816086"
-  lifestyle:
-    image: "/images/categories/art-de-vivre.webp"
-    credit: "Photo par gnuckx via Flickr (CC0 1.0)"
-    source_url: "https://www.flickr.com/photos/34409164@N06/4710738821"
+    image: "/images/categories/bijoux.jpg"
+    credit: "Photo by Tim Evanson via Flickr (CC BY-SA 2.0)"
+    source_url: "https://www.flickr.com/photos/timevanson/"
+  ring:
+    image: "/images/categories/bague.jpg"
+    credit: "Photo par AMagill via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/amagill/263628038"
+  necklace:
+    image: "/images/categories/collier.jpg"
+    credit: "Photo par Saucy Salad via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/saucysalad/4236752095"
+  earring:
+    image: "/images/categories/boucle-d-oreille.jpg"
+    credit: "Photo par paparutzi via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/paparutzi/261737227"
+  second-hand:
+    image: "/images/categories/seconde-main.jpg"
+    credit: "Photo par casey.marshall via Flickr (CC BY 2.0)"
+    source_url: "https://www.flickr.com/photos/caseymarshall/1465793670"

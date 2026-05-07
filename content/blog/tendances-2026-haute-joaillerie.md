@@ -1,16 +1,16 @@
 ---
-title: "Tendances 2026 : ce qui inspire la haute joaillerie cette annee"
+title: "Tendances 2026 : ce qui inspire la haute joaillerie cette année"
 description: "Couleurs, formes, pierres et techniques : les grandes lignes qui se dessinent dans la haute joaillerie en 2026 entre retour des grands classiques et exploration nouvelle."
 date: 2026-04-22
 lastmod: 2026-04-22
 draft: false
 translationKey: "tendances-2026-haute-joaillerie"
 author: magalie-ergoz
-categories: ["Inspirations"]
+categories: ["Bijoux"]
 tags: ["tendances 2026", "haute joaillerie", "pierres precieuses", "design"]
-image: ""
+image: "/images/blog/tendances-2026-haute-joaillerie.jpg"
 imageAlt: "Bague en haute joaillerie avec saphir et diamants"
-imageCredit: ""
+imageCredit: "Photo par Koshyk via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelle est la couleur tendance en haute joaillerie en 2026 ?"
     answer: "Le vert s'impose comme couleur de l'annee, decline en emeraude profonde, peridot lumineux et tourmaline Paraiba. Cette tendance accompagne un mouvement plus large autour des pierres de couleur certifiees non chauffees."

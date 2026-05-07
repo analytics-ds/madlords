@@ -8,9 +8,9 @@ translationKey: "comment-choisir-bijou-heritage"
 author: magalie-ergoz
 categories: ["Jewelry"]
 tags: ["heirloom jewelry", "transmission", "iconic pieces", "fine jewelry"]
-image: ""
+image: "/images/blog/comment-choisir-un-bijou-heritage.jpg"
 imageAlt: "Heirloom jewelry piece in gold and precious stones"
-imageCredit: ""
+imageCredit: "Photo by KaylaKandzorra via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the difference between an heirloom piece and a family jewel?"
     answer: "An heirloom piece is conceived from its creation to pass through generations thanks to the quality of its materials and the finesse of its execution. A family jewel becomes an heirloom through the history it carries."

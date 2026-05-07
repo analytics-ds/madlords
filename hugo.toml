@@ -15,7 +15,7 @@ enableEmoji = false
     weight = 1
     title = "MADLORDS Magazine"
     [languages.fr.params]
-      description = "Le magazine MADLORDS, dedie a la joaillerie d'exception, a l'art de vivre et aux inspirations qui composent l'univers de la maison."
+      description = "Magazine MADLORDS dédié à celles et ceux que le conformisme horripile. Portraits de créateurs, pièces rares et boutiques discrètes : le luxe hors de ses codes."
 
   [languages.en]
     languageCode = "en-US"
@@ -29,27 +29,56 @@ enableEmoji = false
   category = "categories"
   tag = "tags"
 
+# Mount points multilingues : content/ pour FR, content/en/ pour EN
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    lang = "fr"
+    excludeFiles = "en/**"
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    lang = "en"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+
 # Menu FR
 [[languages.fr.menus.main]]
   name = "Accueil"
   url = "/"
   weight = 1
 [[languages.fr.menus.main]]
-  name = "Joaillerie"
-  url = "/categories/joaillerie/"
+  name = "Bijoux"
+  url = "/categories/bijoux/"
   weight = 2
 [[languages.fr.menus.main]]
-  name = "Maison"
-  url = "/categories/maison/"
+  name = "Bracelet"
+  url = "/categories/bracelet/"
   weight = 3
 [[languages.fr.menus.main]]
-  name = "Art de vivre"
-  url = "/categories/art-de-vivre/"
+  name = "Bague"
+  url = "/categories/bague/"
   weight = 4
 [[languages.fr.menus.main]]
-  name = "Inspirations"
-  url = "/categories/inspirations/"
+  name = "Collier"
+  url = "/categories/collier/"
   weight = 5
+[[languages.fr.menus.main]]
+  name = "Boucle d'oreille"
+  url = "/categories/boucle-doreille/"
+  weight = 6
+[[languages.fr.menus.main]]
+  name = "Seconde main"
+  url = "/categories/seconde-main/"
+  weight = 7
 [[languages.fr.menus.main]]
   name = "Le Magazine"
   url = "/blog/"
@@ -65,17 +94,25 @@ enableEmoji = false
   url = "/en/categories/jewelry/"
   weight = 2
 [[languages.en.menus.main]]
-  name = "Home & Living"
-  url = "/en/categories/home/"
+  name = "Bracelet"
+  url = "/en/categories/bracelet/"
   weight = 3
 [[languages.en.menus.main]]
-  name = "Lifestyle"
-  url = "/en/categories/lifestyle/"
+  name = "Ring"
+  url = "/en/categories/ring/"
   weight = 4
 [[languages.en.menus.main]]
-  name = "Inspirations"
-  url = "/en/categories/inspirations/"
+  name = "Necklace"
+  url = "/en/categories/necklace/"
   weight = 5
+[[languages.en.menus.main]]
+  name = "Earring"
+  url = "/en/categories/earring/"
+  weight = 6
+[[languages.en.menus.main]]
+  name = "Second hand"
+  url = "/en/categories/second-hand/"
+  weight = 7
 [[languages.en.menus.main]]
   name = "The Magazine"
   url = "/en/blog/"
@@ -85,7 +122,7 @@ enableEmoji = false
   default_og_image = "/images/og-default.jpg"
   logo = "/favicon.svg"
   founding_year = "2026"
-  expertise = ["Joaillerie", "Bijoux d'exception", "Art de vivre", "Maison", "Inspirations"]
+  expertise = ["Bracelet", "Bague", "Collier", "Boucle d'oreille", "Seconde main"]
   primary_color = "#1a1a1a"
   accent_color = "#b8965a"
   background_color = "#ffffff"

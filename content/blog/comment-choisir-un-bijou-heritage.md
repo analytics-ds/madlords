@@ -1,16 +1,16 @@
 ---
-title: "Comment choisir un bijou heritage : guide pour transmettre une piece d'exception"
-description: "Choisir un bijou heritage demande une attention particuliere : pierre, savoir-faire, signification. Voici les criteres pour selectionner une piece qui traversera les generations."
+title: "Comment choisir un bijou héritage : guide pour transmettre une pièce d'exception"
+description: "Choisir un bijou héritage demande une attention particulière : pierre, savoir-faire, signification. Voici les critères pour sélectionner une pièce qui traversera les générations."
 date: 2026-05-06
 lastmod: 2026-05-06
 draft: false
 translationKey: "comment-choisir-bijou-heritage"
 author: magalie-ergoz
-categories: ["Joaillerie"]
+categories: ["Bijoux"]
 tags: ["bijou heritage", "transmission", "pieces iconiques", "haute joaillerie"]
-image: ""
+image: "/images/blog/comment-choisir-un-bijou-heritage.jpg"
 imageAlt: "Bijou heritage en or et pierres precieuses"
-imageCredit: ""
+imageCredit: "Photo par KaylaKandzorra via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelle est la difference entre un bijou heritage et un bijou de famille ?"
     answer: "Un bijou heritage est une piece concue des sa creation pour traverser les generations grace a la qualite de ses materiaux et la finesse de son execution. Un bijou de famille devient heritage par l'histoire qu'il porte."

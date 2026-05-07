@@ -1,5 +1,5 @@
 ---
 title: "Le Magazine"
-description: "Toutes les histoires, inspirations et reflexions du magazine MADLORDS sur la joaillerie, la maison et l'art de vivre."
+description: "Toutes les histoires, inspirations et réflexions du magazine MADLORDS sur la joaillerie, les créateurs et les pièces qui sortent des codes."
 translationKey: "blog-index"
 ---

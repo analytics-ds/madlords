@@ -8,9 +8,9 @@ translationKey: "maisons-joaillerie-xxe-siecle"
 author: magalie-ergoz
 categories: ["Jewelry"]
 tags: ["jewelry houses", "history of jewelry", "fine jewelry", "Cartier", "Van Cleef"]
-image: ""
+image: "/images/blog/maisons-joaillerie-xxe-siecle.jpg"
 imageAlt: "High jewelry window display on Place Vendome"
-imageCredit: ""
+imageCredit: "Photo by Naomi King via Flickr (CC BY 2.0)"
 faq:
   - question: "What is the oldest French high jewelry house?"
     answer: "Mellerio dits Meller, founded in 1613, is considered the oldest French jewelry house still in operation, ahead of Boucheron (1858) and Cartier (1847)."
