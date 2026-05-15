@@ -1076,7 +1076,7 @@ img {
     margin-bottom: var(--space-sm);
 }
 
-.toc ul, .toc #TableOfContents ul {
+.toc ul, .toc ol, .toc #TableOfContents ul, .toc #TableOfContents ol {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -1087,9 +1087,17 @@ img {
     padding: 0;
 }
 
-.toc ul ul {
+.toc ul ul, .toc ol ol, .toc ul ol, .toc ol ul {
     padding-left: var(--space-md);
     margin-top: 4px;
+    border-left: 1px solid var(--border);
+    margin-left: 4px;
+}
+
+.toc ul ul a, .toc ol ol a, .toc ul ol a, .toc ol ul a {
+    font-size: 0.8125rem;
+    color: var(--text-light);
+    padding-left: 8px;
 }
 
 .toc a {
