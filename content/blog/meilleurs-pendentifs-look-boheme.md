@@ -3,7 +3,7 @@ title: "Meilleurs pendentifs look bohème : top 4 marques et selection 2026"
 translationKey: "meilleurs-pendentifs-look-boheme"
 date: "2026-05-15"
 lastmod: "2026-05-15"
-description: "Comparatif des meilleurs pendentifs look bohème : Marlo Laz, Pascale Monvoisin, Eden Presley, AURAGRAPH. Marques, prix, ou les acheter."
+description: "Comparatif des meilleurs pendentifs look bohème : Mad Lords, Marlo Laz, Pascale Monvoisin, AURAGRAPH. Marques, prix, ou les acheter."
 categories: ["Collier"]
 tags: ["pendentif", "boheme", "joaillerie", "createurs", "Mad Lords"]
 author: "magalie-ergoz"

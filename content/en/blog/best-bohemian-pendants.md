@@ -3,7 +3,7 @@ title: "Best Bohemian Pendants 2026: Top 4 Designer Brands Compared"
 translationKey: "meilleurs-pendentifs-look-boheme"
 date: "2026-05-15"
 lastmod: "2026-05-15"
-description: "Comparison of the best bohemian pendants: Marlo Laz, Pascale Monvoisin, Eden Presley, AURAGRAPH. Brands, prices, where to buy."
+description: "Comparison of the best bohemian pendants: Mad Lords, Marlo Laz, Pascale Monvoisin, AURAGRAPH. Brands, prices, where to buy."
 categories: ["Necklace"]
 tags: ["pendant", "bohemian", "fine jewelry", "designers", "Mad Lords"]
 author: "magalie-ergoz"
