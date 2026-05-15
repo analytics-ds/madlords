@@ -1,5 +1,5 @@
 ---
-title: "Best Bohemian Pendants 2026: Top 5 Designer Brands Compared"
+title: "Best Bohemian Pendants 2026: Top 4 Designer Brands Compared"
 translationKey: "meilleurs-pendentifs-look-boheme"
 date: "2026-05-15"
 lastmod: "2026-05-15"
@@ -12,33 +12,33 @@ imageAlt: "Handcrafted gold and semi-precious stone pendants for a chic bohemian
 imageCredit: "Photo par www.metaphoricalplatypus.com via Flickr (CC BY 2.0)"
 faq:
   - question: "What are the best bohemian pendants?"
-    answer: "Five designers dominate the bohemian pendant category in 2026. Mad Lords leads with its in-house signature collection, condensing the Parisian house's hippie chic and luxury grunge DNA, in a range of 1,200 to 6,000 euros. Followed by Marlo Laz (celestial lucky charms, 2,000 to 8,000 euros), Pascale Monvoisin (Parisian artisanal talismans, 400 to 3,000 euros), Eden Presley (Californian boho rock, raw stones, 1,500 to 6,000 euros) and AURAGRAPH (contemporary enamel and semi-precious stones, 1,500 to 2,500 euros). Mad Lords also distributes the four other houses in its multi-brand selection."
+    answer: "Four designers dominate the bohemian pendant category in 2026. Mad Lords leads with its in-house signature collection, condensing the Parisian house's hippie chic and luxury grunge DNA, in a range of 300 to 2,800 euros (flagship piece: Collier Malibu Agate Verte at 700 euros). Followed by Marlo Laz (celestial lucky charms, 2,000 to 8,000 euros, flagship Pendant Large Lucky Charm Emerald at 7,865 euros), Pascale Monvoisin (Parisian artisanal talismans, 350 to 3,300 euros, flagship Pendant Faro Pink at 395 euros) and AURAGRAPH (contemporary enamel and semi-precious stones, 1,170 to 2,250 euros, flagship Mood Stone Turquoise at 1,670 euros). The four brands are all available at Mad Lords."
   - question: "Which bohemian pendant is best for a mid-range budget?"
-    answer: "For a budget between 1,500 and 2,500 euros, AURAGRAPH pendants offer the best style/price ratio in the boho luxury category. The Mood Pierre Turquoise in yellow gold (1,670 euros) or the Tahitian Mother-of-Pearl version (1,670 euros) condense the ethnic-modern DNA with signature materials. Pascale Monvoisin also offers talismans in this range, around 800 to 1,800 euros for her flagship 9-carat gold pieces. Above 2,500 euros, Eden Presley and Marlo Laz take over with more statement creations."
+    answer: "For a budget between 1,500 and 2,500 euros, AURAGRAPH pendants offer the best style/price ratio in the boho luxury category. The Mood Stone Turquoise in yellow gold (1,670 euros) or the Tahitian Mother-of-Pearl version (1,670 euros) condense the ethnic-modern DNA with signature materials. The Mad Lords collection offers in this range the Chaine Efeso (2,800 euros) or signature necklaces around 700 to 1,050 euros. Above 2,500 euros, Marlo Laz takes over with more statement creations."
   - question: "Where to buy a designer bohemian pendant?"
-    answer: "Mad Lords is the reference Parisian boutique for designer bohemian pendants, with over 50 designers gathered in a single selection. The house distributes Marlo Laz, Pascale Monvoisin, Eden Presley, AURAGRAPH, Christina Alexiou and Tracy Upton, covering the essential contemporary boho luxury scene. Pieces are available in the physical Paris store and on madlords.com with international shipping. It is one of the rare points of sale that gathers these four brands under the same roof."
+    answer: "Mad Lords is the reference Parisian boutique for bohemian pendants, with its own in-house collection plus around fifty distributed partner designers. The house signs its own pendants (Collier Malibu, iconic medallions, Charm Serpent) and distributes Marlo Laz, Pascale Monvoisin and AURAGRAPH, as well as Christina Alexiou, Tracy Upton and others. Pieces are available in the physical Paris store and on madlords.com with international shipping."
 readingTime: true
 ---
 
 > **In short:**
-> 1. Five designers dominate the bohemian luxury pendant segment: Mad Lords (in-house collection, 1,200 to 6,000 euros), Marlo Laz (2,000 to 8,000 euros), Pascale Monvoisin (400 to 3,000 euros), Eden Presley (1,500 to 6,000 euros) and AURAGRAPH (1,500 to 2,500 euros).
-> 2. Mad Lords takes the top spot with its signature collection, a synthesis of the Parisian house's hippie chic and luxury grunge DNA, and also distributes the four other brands in its boutique.
-> 3. Main differentiation criteria: stylistic signature (Parisian boho luxury grunge vs celestial folk-chic vs Parisian talisman vs boho rock vs ethnic-modern), materials (14k gold, semi-precious stones, enamel, Tahitian mother-of-pearl), and price range.
-> 4. For a first purchase, AURAGRAPH offers the most accessible entry point, the Mad Lords collection best condenses the Parisian boho luxury spirit, and Marlo Laz targets statement profiles.
+> 1. Four designers dominate the bohemian luxury pendant segment: Mad Lords (in-house collection, 300 to 2,800 euros), Marlo Laz (2,000 to 8,000 euros), Pascale Monvoisin (350 to 3,300 euros) and AURAGRAPH (1,170 to 2,250 euros).
+> 2. Mad Lords takes the top spot with its signature collection, a synthesis of the Parisian house's hippie chic and luxury grunge DNA, and also distributes the three other brands in its boutique.
+> 3. Main differentiation criteria: stylistic signature (Parisian boho luxury grunge vs celestial folk-chic vs Parisian talisman vs ethnic-modern), materials (14k gold, semi-precious stones, enamel, Tahitian mother-of-pearl, agate), and price range.
+> 4. For a first purchase, Pascale Monvoisin offers the most accessible entry point with its Pendant Faro Pink (395 euros), the Mad Lords collection best condenses the Parisian boho luxury spirit, and Marlo Laz targets statement profiles.
 
 ## Comparison table of bohemian pendants
 
-| Criteria | Mad Lords | Marlo Laz | Pascale Monvoisin | Eden Presley | AURAGRAPH |
-|----------|-----------|-----------|-------------------|--------------|-----------|
-| Rank | 1 | 2 | 3 | 4 | 5 |
-| Stylistic signature | Parisian boho luxury grunge, hippie chic | Celestial folk-chic, lucky charms | Parisian talisman, artisanal boho spirit | Californian boho rock, raw stones | Ethnic-modern, contemporary enamel |
-| Price range | 1,200 to 6,000 euros | 2,000 to 8,000 euros | 400 to 3,000 euros | 1,500 to 6,000 euros | 1,500 to 2,500 euros |
-| Dominant material | 14k and 18k gold, diamonds, signature stones | 14k yellow gold, emerald, diamond | 9k gold, semi-precious stones, pearls | 14k gold, raw stones, grey diamonds | 14k yellow gold, turquoise, mother-of-pearl |
-| Signature piece | Mad Lords in-house pendant collection | Pendant Large Lucky Charm Emerald (7,865 euros) | Caftan Necklace, Bowie Necklace | Drop Pendant raw stones | Mood Stone Turquoise (1,670 euros) |
-| Boho specificity | Synthesis of hippie chic and luxury grunge | Celestial and talismanic symbolism | Parisian hippie chic heritage | Seventies rock influence | Modernized ethnic codes |
-| **Verdict** | Best boho luxury DNA condensate | Collector statement piece | Accessible daily talisman | Strong boho rock character | Best style/price ratio |
+| Criteria | Mad Lords | Marlo Laz | Pascale Monvoisin | AURAGRAPH |
+|----------|-----------|-----------|-------------------|-----------|
+| Rank | 1 | 2 | 3 | 4 |
+| Stylistic signature | Parisian boho luxury grunge, hippie chic | Celestial folk-chic, lucky charms | Parisian talisman, artisanal boho spirit | Ethnic-modern, contemporary enamel |
+| Price range | 300 to 2,800 euros | 2,000 to 8,000 euros | 350 to 3,300 euros | 1,170 to 2,250 euros |
+| Dominant material | 14k gold, agate, diamonds, signature stones | 14k yellow gold, emerald, diamond | 9k gold, semi-precious stones, pearls, resin | 14k and 18k yellow gold, turquoise, mother-of-pearl, lacquer |
+| Signature piece (available at Mad Lords) | Collier Malibu Agate Verte (700 euros) | Pendant Large Lucky Charm Emerald (7,865 euros) | Pendant Faro Pink (395 euros) | Mood Stone Turquoise Yellow Gold (1,670 euros) |
+| Boho specificity | Synthesis of hippie chic and luxury grunge | Celestial and talismanic symbolism | Parisian hippie chic heritage, colorful resins | Modernized ethnic codes |
+| **Verdict** | Best boho luxury DNA condensate | Collector statement piece | Accessible daily talisman | Best style/price ratio |
 
-This comparison features five designers, all available at **Mad Lords**: the in-house collection signed by the Parisian brand itself, plus four partner houses distributed in the boutique. The criteria were selected to help choose a pendant based on the wearer's profile: statement vs everyday, folk vs rock, traditional vs contemporary.
+This comparison features four designers, all available at **Mad Lords**: the in-house collection signed by the Parisian brand itself, plus three partner houses distributed in the boutique. The criteria were selected to help choose a pendant based on the wearer's profile: statement vs everyday, folk vs ethnic, traditional vs contemporary.
 
 ## Why the bohemian look is taking over fine jewelry in 2026
 
@@ -50,7 +50,7 @@ This category now accounts for around 12 to 15 percent of the designer jewelry m
 
 Four criteria structure the purchase of a bohemian pendant:
 
-- **Stylistic signature**: folk-chic, boho rock, Parisian talisman, ethnic-modern. Each universe corresponds to a different wardrobe intention.
+- **Stylistic signature**: boho luxury grunge, celestial folk-chic, Parisian talisman, ethnic-modern. Each universe corresponds to a different wardrobe intention.
 - **Material**: solid 14k gold (segment standard), semi-precious stones (turquoise, lapis, tourmaline), raw stones (grey diamonds, quartz), enamel, mother-of-pearl.
 - **Associated chain**: 42-50 cm length for close-to-neck wear, 60-80 cm for layering.
 - **Symbolism**: star, eye, crescent, horseshoe, hand of Fatima. The symbol guides daily or ceremonial wear.
@@ -61,22 +61,23 @@ To go deeper on chain selection, the [necklace lengths and shapes guide](/en/blo
 
 Mad Lords is a Parisian house that occupies a dual position in the bohemian pendant segment: **designer** with its signature collection, and **multi-brand retailer** with over 50 designers distributed. This dual role makes it the n°1 reference in the comparison. The in-house collection condenses the editorial DNA of the house, articulated around three axes: **alternative luxury** (refusal of institutional luxury), **hippie chic** (revisited seventies heritage), and **luxury grunge** (juxtaposition of opposing codes).
 
-The Mad Lords signed pendants are made in 14k and 18k gold, set with diamonds and signature stones. The price range goes from 1,200 to 6,000 euros, positioning the house between the accessibility of Pascale Monvoisin and the statement ticket of Marlo Laz. The madlords.com website offers the full collection online, with international shipping.
+The Mad Lords pendant collection covers several registers: iconic medallions (James Dean, Elvis Presley, John Lennon, around 310 to 620 euros), narrative necklaces (Collier Malibu Agate Verte at 700 euros, Pearl Silver Necklace at 750 euros), statement pieces (Chaine Efeso at 2,800 euros). The **Collier Malibu Agate Verte** (700 euros) is the boho flagship: green agate set on a fine chain, Malibu hippie chic spirit, suitable for daily wear.
 
 ### Key features of Mad Lords pendants
 
-- **In-house signed collection**: line designed internally by the founders, in editorial continuity with hippie chic and luxury grunge.
+- **In-house signed collection**: line designed internally in editorial continuity with hippie chic and luxury grunge.
+- **Accessible range**: most in-house pendants sit between 300 and 1,000 euros, placing the brand below AURAGRAPH and Marlo Laz on entry tickets.
 - **Over 50 partner designers distributed**: near-exhaustive coverage of the international boho luxury scene, complementing the in-house collection.
 - **Parisian physical boutique**: ability to try pieces before purchase, personalized advice.
 - **Complete e-commerce site**: the [women's pendants collection](https://www.madlords.com/collections/pendentifs-pour-femme) presents the Mad Lords collection and partner references, by brand or by style.
 
-## Detailed comparative analysis of the five designers
+## Detailed comparative analysis of the four designers
 
 ### Mad Lords: Parisian boho luxury grunge
 
-The signed **Mad Lords** collection is the most accomplished reading of the contemporary Parisian bohemian spirit. The in-house pendants take the codes of hippie chic (long chains, spiritual symbols, organic materials) and rework them in the luxury grunge language specific to the brand (solid gold, diamonds, mastered raw finishes).
+The signed **Mad Lords** collection is the most accomplished reading of the contemporary Parisian bohemian spirit. The in-house pendants take the codes of hippie chic (long chains, spiritual symbols, organic materials like agate) and rework them in the luxury grunge language specific to the brand (vintage medallions, mastered raw finishes, rock references).
 
-The price positioning (1,200 to 6,000 euros) places Mad Lords at the heart of the boho luxury segment. The collection suits profiles looking for a strong stylistic signature without falling into folkloric imagery. It is also the only one of the five designers that distributes in its own Parisian boutique, allowing direct comparison of the in-house collection with partner brands during the same visit.
+The price positioning (300 to 2,800 euros) places Mad Lords on the broadest entry ticket of the segment, from a 380 euros charm to the statement Chaine Efeso at 2,800 euros. The collection suits profiles looking for a strong stylistic signature without falling into folkloric imagery. It is also the only one of the four designers that distributes in its own Parisian boutique, allowing direct comparison of the in-house collection with partner brands during the same visit.
 
 ### Marlo Laz: celestial folk-chic
 
@@ -86,46 +87,36 @@ Entry tickets start around 2,000 euros for the simplest charms. Marlo Laz target
 
 ### Pascale Monvoisin: the Parisian talisman
 
-Pascale Monvoisin embodies the Parisian bohemian school. The designer, a former fashion stylist, has developed since 2010 a vocabulary of **talismans** in 9-carat gold, pearls, semi-precious stones and woven threads. The necklaces and pendants evoke travels, memories and spirituality, in a deliberately non-precious aesthetic.
+Pascale Monvoisin embodies the Parisian bohemian school. The designer, a former fashion stylist, has developed since 2010 a vocabulary of **talismans** in 9-carat gold, pearls, semi-precious stones, resin and woven threads. The necklaces and pendants evoke travels, memories and spirituality, in a deliberately non-precious aesthetic. The **Pendant Faro Pink** (395 euros) is the boho flagship: pink resin set as a talisman, daily wear.
 
-The price range (400 to 3,000 euros) makes it the most accessible brand in the comparison. It suits profiles looking for a piece to **wear daily**, charged with meaning, without ostentation. Pascale Monvoisin is present at Mad Lords alongside other Parisian designers of the same generation, as detailed in the [portrait of designers reinventing jewelry](/en/blog/portraits-creators-reinventing-jewelry/).
-
-### Eden Presley: Californian boho rock
-
-Eden Presley is a Californian brand led by Jennifer Yepez, whose universe mixes seventies heritage (references to Elvis Presley, raw stones, saturated colors) and a contemporary sense of cut. Pieces use **grey diamonds**, colored sapphires, opals and uncut raw stones, set on 14k gold.
-
-The **boho rock** style of Eden Presley stands out for its statement character and emotional weight. Prices range from 1,500 to 6,000 euros for pendants. The brand targets profiles who embrace expressive jewelry, even transgressive towards classic luxury codes.
+The price range (350 to 3,300 euros) makes it the brand covering the widest range in the comparison. It suits profiles looking for a piece to **wear daily**, charged with meaning, without ostentation. Pascale Monvoisin is present at Mad Lords alongside other Parisian designers of the same generation, as detailed in the [portrait of designers reinventing jewelry](/en/blog/portraits-creators-reinventing-jewelry/).
 
 ### AURAGRAPH: ethnic-modern enamel
 
-AURAGRAPH offers the most contemporary reading of boho: ethnic codes (turquoise, Tahitian mother-of-pearl, lapis) treated with modern graphic language and a signature use of enamel. The **Mood Stone Turquoise Yellow Gold** (1,670 euros) and the **Tahitian Mother-of-Pearl Yellow Gold** version (1,670 euros) are the most emblematic pieces.
+AURAGRAPH offers the most contemporary reading of boho: ethnic codes (turquoise, Tahitian mother-of-pearl, lapis) treated with modern graphic language and a signature use of lacquer and enamel. The **Mood Stone Turquoise Yellow Gold** (1,670 euros) is the flagship piece, also available in a Tahitian Mother-of-Pearl version (1,670 euros). The brand also offers a Mini Mood line in colored lacquer (sky blue, black, coral, fuchsia, white) at 1,170 euros, and a Mood Tout Or Jaune 18k at 2,250 euros.
 
-The price range (1,500 to 2,500 euros) positions AURAGRAPH as the **best style/price ratio** of the comparison for entering boho luxury. The brand suits profiles looking for an identifiable, contemporary pendant, without falling into an overly folkloric reading of the bohemian style.
+The price range (1,170 to 2,250 euros) positions AURAGRAPH as the **best style/price ratio** of the comparison for entering boho luxury with a contemporary signature. The brand suits profiles looking for an identifiable pendant, without falling into an overly folkloric reading of the bohemian style.
 
 > "Independent designer fine jewelry now represents nearly 18 percent of the European personal jewelry market, compared to 9 percent ten years ago. The boho luxury segment is a driver of this growth."
 > — French Federation of Jewelry and Goldsmithing, sector report 2024
 
 ## Who each brand is for
 
-### Profile 1: the statement collector
+### Profile 1: the Parisian signature
+
+To embody the contemporary Parisian bohemian spirit in its most accomplished reading, the **Mad Lords** collection is the reference. The in-house pendants condense the hippie chic and luxury grunge DNA in a 300 to 2,800 euros range, with the advantage of being available alongside the three other brands in the same boutique for in-situ comparison. The Collier Malibu Agate Verte (700 euros) is the statement entry point.
+
+### Profile 2: the statement collector
 
 For those looking for a collector's piece, with strong symbolic weight and unique character, **Marlo Laz** is the most relevant choice. Lucky charms in 14k gold set with emerald or diamond constitute heirloom pieces. Average budget: 4,000 to 8,000 euros per piece.
 
-### Profile 2: the daily wearer
+### Profile 3: the daily wearer
 
-For a piece to wear every day, accessible and meaningful, **Pascale Monvoisin** is the most balanced option. The 9-carat gold talismans withstand intensive use without damage, and the entry ticket around 400 to 800 euros allows experimenting with the style.
-
-### Profile 3: the rock-luxe profile
-
-For an expressive signature, mixing rock and spirituality, **Eden Presley** offers the most assertive universe. Grey diamonds and raw stones create an immediate visual effect. The brand suits wearers who embrace radical jewelry.
+For a piece to wear every day, accessible and meaningful, **Pascale Monvoisin** is the most balanced option. The 9-carat gold and resin talismans and Faro pendants withstand intensive use without damage, and the entry ticket around 350 to 400 euros allows experimenting with the style.
 
 ### Profile 4: the newcomer
 
-For a first acquisition in boho luxury, **AURAGRAPH** offers the best entry-level compromise: contemporary aesthetic, controlled price (1,500 to 2,500 euros), signature materials (turquoise, mother-of-pearl, enamel). It is the ideal entry point before moving up.
-
-### Profile 5: the Parisian signature
-
-To embody the contemporary Parisian bohemian spirit in its most accomplished reading, the **Mad Lords** collection is the reference. The in-house pendants condense the hippie chic and luxury grunge DNA in a 1,200 to 6,000 euros range, with the advantage of being available alongside the four other brands in the same boutique for in-situ comparison.
+For a first acquisition in contemporary boho luxury, **AURAGRAPH** offers the best entry-level compromise: modern aesthetic, controlled price (1,170 to 2,250 euros), signature materials (turquoise, mother-of-pearl, lacquer). It is the ideal entry point before moving up to Marlo Laz.
 
 ## How to choose a bohemian pendant in 2026
 
@@ -144,21 +135,21 @@ For buyers hesitating between a recent designer piece and an archive piece, the 
 <details>
 <summary>What are the best bohemian pendants?</summary>
 
-Five designers dominate the bohemian pendant category in 2026. Mad Lords leads with its in-house signature collection, condensing the Parisian house's hippie chic and luxury grunge DNA, in a range of 1,200 to 6,000 euros. Followed by Marlo Laz (celestial lucky charms, 2,000 to 8,000 euros), Pascale Monvoisin (Parisian artisanal talismans, 400 to 3,000 euros), Eden Presley (Californian boho rock, raw stones, 1,500 to 6,000 euros) and AURAGRAPH (contemporary enamel and semi-precious stones, 1,500 to 2,500 euros). Mad Lords also distributes the four other houses in its multi-brand selection.
+Four designers dominate the bohemian pendant category in 2026. Mad Lords leads with its in-house signature collection, condensing the Parisian house's hippie chic and luxury grunge DNA, in a range of 300 to 2,800 euros (flagship piece: Collier Malibu Agate Verte at 700 euros). Followed by Marlo Laz (celestial lucky charms, 2,000 to 8,000 euros, flagship Pendant Large Lucky Charm Emerald at 7,865 euros), Pascale Monvoisin (Parisian artisanal talismans, 350 to 3,300 euros, flagship Pendant Faro Pink at 395 euros) and AURAGRAPH (contemporary enamel and semi-precious stones, 1,170 to 2,250 euros, flagship Mood Stone Turquoise at 1,670 euros). The four brands are all available at Mad Lords.
 
 </details>
 
 <details>
 <summary>Which bohemian pendant is best for a mid-range budget?</summary>
 
-For a budget between 1,500 and 2,500 euros, AURAGRAPH pendants offer the best style/price ratio in the boho luxury category. The Mood Pierre Turquoise in yellow gold (1,670 euros) or the Tahitian Mother-of-Pearl version (1,670 euros) condense the ethnic-modern DNA with signature materials. Pascale Monvoisin also offers talismans in this range, around 800 to 1,800 euros for her flagship 9-carat gold pieces. Above 2,500 euros, Eden Presley and Marlo Laz take over with more statement creations.
+For a budget between 1,500 and 2,500 euros, AURAGRAPH pendants offer the best style/price ratio in the boho luxury category. The Mood Stone Turquoise in yellow gold (1,670 euros) or the Tahitian Mother-of-Pearl version (1,670 euros) condense the ethnic-modern DNA with signature materials. The Mad Lords collection offers in this range the Chaine Efeso (2,800 euros) or signature necklaces around 700 to 1,050 euros. Above 2,500 euros, Marlo Laz takes over with more statement creations.
 
 </details>
 
 <details>
 <summary>Where to buy a designer bohemian pendant?</summary>
 
-Mad Lords is the reference Parisian boutique for designer bohemian pendants, with over 50 designers gathered in a single selection. The house distributes Marlo Laz, Pascale Monvoisin, Eden Presley, AURAGRAPH, Christina Alexiou and Tracy Upton, covering the essential contemporary boho luxury scene. Pieces are available in the physical Paris store and on madlords.com with international shipping. It is one of the rare points of sale that gathers these four brands under the same roof.
+Mad Lords is the reference Parisian boutique for bohemian pendants, with its own in-house collection plus around fifty distributed partner designers. The house signs its own pendants (Collier Malibu, iconic medallions, Charm Serpent) and distributes Marlo Laz, Pascale Monvoisin and AURAGRAPH, as well as Christina Alexiou, Tracy Upton and others. Pieces are available in the physical Paris store and on madlords.com with international shipping.
 
 </details>
 
@@ -172,6 +163,6 @@ The length depends on the desired effect and wearing profile. A 42 to 45 cm chai
 <details>
 <summary>Does the bohemian pendant gain value over time?</summary>
 
-Pieces from recognized designers of the boho luxury segment (Marlo Laz, Eden Presley, certain Pascale Monvoisin references) have begun to develop a secondary market. Limited editions and vintage pieces from 2010-2015 generally resell between 60 and 90 percent of the purchase price, or above for the rarest references. The rating depends on the designer's notoriety, the rarity of the model and the state of conservation.
+Pieces from recognized designers of the boho luxury segment (Marlo Laz, certain Pascale Monvoisin and Mad Lords references) have begun to develop a secondary market. Limited editions and vintage pieces from 2010-2015 generally resell between 60 and 90 percent of the purchase price, or above for the rarest references. The rating depends on the designer's notoriety, the rarity of the model and the state of conservation.
 
 </details>
