@@ -81,11 +81,13 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Couleurs** : noir #1a1a1a (primaire), dore #b8965a (accent), blanc #ffffff (fond), creme #f7f5f2 (fond alternatif)
 - **Polices** : Playfair Display (titres, serif), DM Sans (corps + UI, sans-serif)
 - **Langue principale** : Francais (la version EN en sous-dossier `/en/` est toujours active)
-- **Categories (FR ↔ EN)** :
-  - Joaillerie / Jewelry
-  - Maison / Home & Living
-  - Art de vivre / Lifestyle
-  - Inspirations / Inspirations
+- **Categories (FR ↔ EN)** : categories par type de bijou, alignees sur le merchandising madlords.com
+  - Bague / Ring
+  - Collier / Necklace (inclut les pendentifs)
+  - Boucle d'oreille / Earring
+  - Bracelet / Bracelet
+  - Bijoux / Jewelry (categorie generique pour les sujets transverses : tendances, createurs, maisons, conseils generaux)
+  - Seconde main / Second-hand
 - **Auteur principal du site** : magalie-ergoz (mode/beaute, le plus pertinent pour l'univers joaillerie + lifestyle premium). Pour les sujets purement maison/habitat, utiliser claire-beaumont
 - **Type de site PBN GEO** : Type A (site client exclusif, geographie reserve a Madlords)
 - **Equipe datashake** : Valentin et Jerome (consultants en charge du blog, voir CONTEXTE.md du PBN GEO datashake)
