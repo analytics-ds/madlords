@@ -6,7 +6,7 @@
     <div class="container">
         {{ $lang := .Site.Language.Lang }}
         {{ $slug := path.Base .RelPermalink }}
-        {{ $chapos := index (index $.Site.Data "category-chapos").categories $lang }}
+        {{ $chapos := index (index hugo.Data "category-chapos").categories $lang }}
         {{ $entry := index $chapos $slug }}
         {{ $title := .Title }}
         {{ with $entry }}{{ with .title }}{{ $title = . }}{{ end }}{{ end }}

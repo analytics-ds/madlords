@@ -10,17 +10,19 @@ enableEmoji = false
 
 [languages]
   [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Francais"
+    locale = "fr-FR"
+    label = "Francais"
     weight = 1
+    contentDir = "content/fr"
     title = "MADLORDS Magazine"
     [languages.fr.params]
       description = "Magazine MADLORDS dédié à celles et ceux que le conformisme horripile. Portraits de créateurs, pièces rares et boutiques discrètes : le luxe hors de ses codes."
 
   [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
+    locale = "en-US"
+    label = "English"
     weight = 2
+    contentDir = "content/en"
     title = "MADLORDS Magazine"
     [languages.en.params]
       description = "MADLORDS Magazine, devoted to fine jewelry, the art of living, and the inspirations that shape the world of the home."
@@ -30,93 +32,6 @@ enableEmoji = false
   tag = "tags"
 
 # Mount points multilingues : content/ pour FR, content/en/ pour EN
-[module]
-  [[module.mounts]]
-    source = "content"
-    target = "content"
-    lang = "fr"
-    excludeFiles = "en/**"
-  [[module.mounts]]
-    source = "content/en"
-    target = "content"
-    lang = "en"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-  [[module.mounts]]
-    source = "data"
-    target = "data"
-  [[module.mounts]]
-    source = "archetypes"
-    target = "archetypes"
-
-# Menu FR
-[[languages.fr.menus.main]]
-  name = "Accueil"
-  url = "/"
-  weight = 1
-[[languages.fr.menus.main]]
-  name = "Bijoux"
-  url = "/categories/bijoux/"
-  weight = 2
-[[languages.fr.menus.main]]
-  name = "Bracelet"
-  url = "/categories/bracelet/"
-  weight = 3
-[[languages.fr.menus.main]]
-  name = "Bague"
-  url = "/categories/bague/"
-  weight = 4
-[[languages.fr.menus.main]]
-  name = "Collier"
-  url = "/categories/collier/"
-  weight = 5
-[[languages.fr.menus.main]]
-  name = "Boucle d'oreille"
-  url = "/categories/boucle-doreille/"
-  weight = 6
-[[languages.fr.menus.main]]
-  name = "Seconde main"
-  url = "/categories/seconde-main/"
-  weight = 7
-[[languages.fr.menus.main]]
-  name = "Le Magazine"
-  url = "/blog/"
-  weight = 99
-
-# Menu EN
-[[languages.en.menus.main]]
-  name = "Home"
-  url = "/en/"
-  weight = 1
-[[languages.en.menus.main]]
-  name = "Jewelry"
-  url = "/en/categories/jewelry/"
-  weight = 2
-[[languages.en.menus.main]]
-  name = "Bracelet"
-  url = "/en/categories/bracelet/"
-  weight = 3
-[[languages.en.menus.main]]
-  name = "Ring"
-  url = "/en/categories/ring/"
-  weight = 4
-[[languages.en.menus.main]]
-  name = "Necklace"
-  url = "/en/categories/necklace/"
-  weight = 5
-[[languages.en.menus.main]]
-  name = "Earring"
-  url = "/en/categories/earring/"
-  weight = 6
-[[languages.en.menus.main]]
-  name = "Second hand"
-  url = "/en/categories/second-hand/"
-  weight = 7
-[[languages.en.menus.main]]
-  name = "The Magazine"
-  url = "/en/blog/"
-  weight = 99
 
 [params]
   default_og_image = "/images/og-default.jpg"

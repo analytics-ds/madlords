@@ -16,7 +16,7 @@
     <div class="container">
         <h2 class="section-title">{{ if $isEN }}Our universe{{ else }}Notre univers{{ end }}</h2>
         <div class="grid-categories">
-            {{ $catFile := index .Site.Data "category-images" }}
+            {{ $catFile := index hugo.Data "category-images" }}
             {{ $catImages := $catFile.categories }}
             {{ range .Site.Taxonomies.categories }}
             {{ $slug := path.Base .Page.RelPermalink }}
