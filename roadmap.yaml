@@ -5,6 +5,10 @@
 # Cumul avec les articles GEO (geo-comparatif) = 2 a 3 publications/semaine,
 # cap reseau a 4/semaine respecte.
 #
+# Volumes verifies via Haloscan (France) le 01/06/2026.
+# Tous les KW retenus ont un volume mesurable ≥ 150/mois (sauf exceptions
+# marquees, choisies pour leur intent commercial fort ou leur saisonnalite).
+#
 # Repartition par categorie (objectif equilibre) :
 #   Bague               : 2 articles
 #   Collier             : 2 articles
@@ -15,33 +19,38 @@
 #   Total               : 13 articles
 #
 # Mix d'intention :
-#   Informationnel : 8 articles (62%) - guides, signification, conseils, tendances
-#   Transactionnel : 5 articles (38%) - top marques, comparatifs, ou acheter
+#   Informationnel dominant : 8 articles (62%)
+#   Transactionnel dominant : 5 articles (38%)
 #
 # Saisonnalite integree :
-#   Juin (semaines 1-4)  : pic mariage + fete des peres -> bague mariage,
-#                          cadeau temoin, collier mariee, BO invitee
-#   Juillet (sem 5-8)    : ete + voyage + layering -> jonc signification,
-#                          superposition, creoles, vendre or
-#   Aout (sem 9-13)      : rentree + anticipation Noel Q4 -> cocktail,
-#                          sautoir, materiaux, vintage authentique, manchette
+#   Juin (semaines 1-4) : pic mariage -> bague de mariage, bijoux mariage,
+#                         collier de mariage, BO mariage
+#   Juillet (sem 5-8)   : ete + decouverte univers luxe -> bracelet jonc,
+#                         bijoux luxe, creoles, bijou vintage
+#   Aout (sem 9-13)     : rentree + anticipation Noel Q4 -> bague cocktail,
+#                         sautoir or, carat or, bijoux anciens, manchette
+#
+# Points d'attention cannibalisation (cf articles existants) :
+# - "sautoir or femme" overlap potentiel avec "collier-longueurs-formes-significations"
+#   -> angle a privilegier : choix et port specifique du sautoir (pas forme generale)
+# - "bijoux anciens" overlap potentiel avec "bijoux-seconde-main-guide-authentification"
+#   -> angle a privilegier : histoire et periodes (Art Deco, Belle Epoque),
+#      pas authentification
+# - "boucle d'oreille creole" overlap leger avec "boucles-oreilles-modeles-iconiques-joaillerie"
+#   -> angle a privilegier : guide d'achat creoles specifique
 #
 # Notes :
-# - Les volumes et KD ci-dessous sont des estimations indicatives,
-#   a valider via Haloscan ou SEObserver avant lancement.
 # - La skill /create-article-seo n'est pas encore installee sur ce blog.
 #   En attendant, les KW peuvent etre rediges manuellement via /sem-redaction-from-brief
 #   ou /sem-redaction-madlords (qui integre la charte editoriale Mad Lords).
-# - Verifier l'absence de cannibalisation avec les articles existants
-#   listes dans MEMORY.md et content/fr/blog/.
 
 articles:
 
-  # ===== SEMAINE 1 - JUIN (saison mariage) =====
+  # ===== SEMAINE 1-4 - JUIN (saison mariage) =====
   - kw: "bague de mariage femme or"
     category: "Bague"
-    volume: 880
-    kd: 38
+    volume: 260
+    kd: null
     scheduled_date: "2026-06-08"
     status: todo
     published_date: null
@@ -49,10 +58,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "cadeau bijou temoin de mariage"
+  - kw: "bijoux mariage"
     category: "Bijoux"
-    volume: 210
-    kd: 25
+    volume: 275
+    kd: null
     scheduled_date: "2026-06-15"
     status: todo
     published_date: null
@@ -60,10 +69,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "collier de mariee tendance"
+  - kw: "collier de mariage"
     category: "Collier"
-    volume: 390
-    kd: 28
+    volume: 355
+    kd: null
     scheduled_date: "2026-06-22"
     status: todo
     published_date: null
@@ -71,10 +80,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "boucles d'oreilles pour un mariage invitee"
+  - kw: "boucle d'oreille mariage"
     category: "Boucle d'oreille"
-    volume: 720
-    kd: 32
+    volume: 500
+    kd: null
     scheduled_date: "2026-06-29"
     status: todo
     published_date: null
@@ -82,11 +91,11 @@ articles:
     published_url_en: null
     error: null
 
-  # ===== SEMAINE 5-8 - JUILLET (ete, layering, voyage) =====
-  - kw: "bracelet jonc or signification"
+  # ===== SEMAINE 5-8 - JUILLET (ete + univers luxe) =====
+  - kw: "bracelet jonc or"
     category: "Bracelet"
-    volume: 480
-    kd: 26
+    volume: 193
+    kd: null
     scheduled_date: "2026-07-06"
     status: todo
     published_date: null
@@ -94,10 +103,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "comment porter plusieurs bijoux superposes"
+  - kw: "bijoux luxe"
     category: "Bijoux"
-    volume: 320
-    kd: 22
+    volume: 1200
+    kd: null
     scheduled_date: "2026-07-13"
     status: todo
     published_date: null
@@ -105,10 +114,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "creoles or femme guide d'achat"
+  - kw: "boucle d'oreille creole"
     category: "Boucle d'oreille"
-    volume: 590
-    kd: 30
+    volume: 700
+    kd: null
     scheduled_date: "2026-07-20"
     status: todo
     published_date: null
@@ -116,10 +125,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "vendre ses bijoux en or au meilleur prix"
+  - kw: "bijou vintage"
     category: "Seconde main"
-    volume: 1300
-    kd: 42
+    volume: 480
+    kd: null
     scheduled_date: "2026-07-27"
     status: todo
     published_date: null
@@ -128,10 +137,10 @@ articles:
     error: null
 
   # ===== SEMAINE 9-13 - AOUT (rentree + pre-Noel Q4) =====
-  - kw: "bague cocktail femme tendance"
+  - kw: "bague cocktail"
     category: "Bague"
-    volume: 290
-    kd: 25
+    volume: 1000
+    kd: null
     scheduled_date: "2026-08-03"
     status: todo
     published_date: null
@@ -139,10 +148,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "sautoir or femme comment choisir"
+  - kw: "sautoir or femme"
     category: "Collier"
-    volume: 210
-    kd: 22
+    volume: 480
+    kd: null
     scheduled_date: "2026-08-10"
     status: todo
     published_date: null
@@ -150,10 +159,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "materiaux precieux en joaillerie"
+  - kw: "carat or"
     category: "Bijoux"
-    volume: 170
-    kd: 18
+    volume: 2000
+    kd: null
     scheduled_date: "2026-08-17"
     status: todo
     published_date: null
@@ -161,10 +170,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "acheter bijou vintage authentique"
+  - kw: "bijoux anciens"
     category: "Seconde main"
-    volume: 390
-    kd: 28
+    volume: 1400
+    kd: null
     scheduled_date: "2026-08-24"
     status: todo
     published_date: null
@@ -172,10 +181,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "manchette femme bijou guide"
+  - kw: "manchette bijou"
     category: "Bracelet"
-    volume: 210
-    kd: 22
+    volume: 880
+    kd: null
     scheduled_date: "2026-08-31"
     status: todo
     published_date: null
