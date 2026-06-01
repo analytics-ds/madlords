@@ -1059,9 +1059,6 @@ img {
 
 .toc {
     font-family: var(--font-ui);
-    font-size: 0.875rem;
-    border-left: 2px solid var(--border);
-    padding-left: var(--space-md);
 }
 
 .toc-title {
@@ -1074,44 +1071,120 @@ img {
     font-size: 0.75rem;
     color: var(--text-light);
     margin-bottom: var(--space-sm);
+    padding-bottom: var(--space-xs);
+    border-bottom: 1px solid var(--border);
 }
 
-.toc ul, .toc ol, .toc #TableOfContents ul, .toc #TableOfContents ol {
+.toc #TableOfContents > ul,
+.toc #TableOfContents > ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: toc-counter;
+}
+
+.toc #TableOfContents ul,
+.toc #TableOfContents ol {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-.toc li {
+.toc #TableOfContents li {
     margin: 0;
-    padding: 0;
+    line-height: 1.45;
+    position: relative;
 }
 
-.toc ul ul, .toc ol ol, .toc ul ol, .toc ol ul {
-    padding-left: var(--space-md);
-    margin-top: 4px;
-    border-left: 1px solid var(--border);
-    margin-left: 4px;
+.toc #TableOfContents > ul > li,
+.toc #TableOfContents > ol > li {
+    counter-increment: toc-counter;
+    padding: 8px 0;
 }
 
-.toc ul ul a, .toc ol ol a, .toc ul ol a, .toc ol ul a {
-    font-size: 0.8125rem;
-    color: var(--text-light);
-    padding-left: 8px;
+.toc #TableOfContents > ul > li + li,
+.toc #TableOfContents > ol > li + li {
+    border-top: 1px dashed var(--border);
 }
 
-.toc a {
+.toc #TableOfContents > ul > li > a,
+.toc #TableOfContents > ol > li > a {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text);
+    text-decoration: none;
     display: block;
-    padding: 4px 0;
-    color: var(--text-light);
+    padding: 4px 0 4px 32px;
+    position: relative;
+    transition: color 0.2s;
     line-height: 1.4;
     border-bottom: none;
-    transition: color 0.2s;
 }
 
-.toc a:hover,
-.toc a.toc-active {
+.toc #TableOfContents > ul > li > a::before,
+.toc #TableOfContents > ol > li > a::before {
+    content: counter(toc-counter, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 4px;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    font-weight: 700;
     color: var(--accent);
+    letter-spacing: 0;
+}
+
+.toc #TableOfContents > ul > li > a:hover,
+.toc #TableOfContents > ol > li > a:hover,
+.toc #TableOfContents > ul > li > a.toc-active,
+.toc #TableOfContents > ol > li > a.toc-active {
+    color: var(--accent);
+}
+
+.toc #TableOfContents > ul > li > a.toc-active,
+.toc #TableOfContents > ol > li > a.toc-active {
+    font-weight: 700;
+}
+
+.toc #TableOfContents > ul > li > a.toc-active::before,
+.toc #TableOfContents > ol > li > a.toc-active::before {
+    color: var(--primary);
+}
+
+.toc #TableOfContents ul ul,
+.toc #TableOfContents ol ol {
+    margin-top: 4px;
+    margin-left: 32px;
+    padding-left: var(--space-sm);
+    border-left: 1px solid var(--border);
+}
+
+.toc #TableOfContents ul ul li,
+.toc #TableOfContents ol ol li {
+    counter-increment: none;
+}
+
+.toc #TableOfContents ul ul li a,
+.toc #TableOfContents ol ol li a {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--text-light);
+    text-decoration: none;
+    display: block;
+    padding: 3px 0;
+    transition: color 0.2s;
+    font-weight: 400;
+    line-height: 1.4;
+    border-bottom: none;
+}
+
+.toc #TableOfContents ul ul li a:hover,
+.toc #TableOfContents ol ol li a:hover,
+.toc #TableOfContents ul ul li a.toc-active,
+.toc #TableOfContents ol ol li a.toc-active {
+    color: var(--accent);
+    font-weight: 600;
 }
 
 /* --- Page 404 --- */
