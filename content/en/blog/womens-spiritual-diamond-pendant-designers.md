@@ -9,8 +9,8 @@ categories: ["Necklace"]
 tags: ["pendant", "diamonds", "spiritual", "designers", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/createur-pendentifs-femme-spirituels-diamants.jpg"
-imageAlt: "Spiritual talisman pendant with rhodonite crystal, symbol of spiritual growth"
-imageCredit: "Photo by Indo Magic via Flickr (CC BY 2.0)"
+imageAlt: "Square gold pendant fully paved with diamonds on a fine chain, contemporary designer fine jewelry"
+imageCredit: "Photo by Mauro Cateb via Flickr (CC BY 2.0)"
 faq:
   - question: "Which designer offers spiritual diamond pendants for women?"
     answer: "Four designers lead the women's spiritual diamond pendant segment in 2026. Mad Lords ranks first with its Parisian in-house collection of iconic medallions, serpent charms and talisman symbols, priced between 400 and 3,500 euros. Tracy Upton follows with cosmic stars fully paved in diamonds (2,000 to 4,500 euros, signature piece Radiating Baltic Star Diamonds Pendant at 2,125 euros), then Shylee Rose Jewelry (diamond-set butterflies symbolising transformation, 3,800 to 7,200 euros, signature piece Large Diamond Butterfly Yellow Gold Pendant at 4,440 euros) and Marlo Laz (celestial good-luck charms with diamonds and emerald, 2,000 to 8,000 euros, signature piece Large Lucky Charm Emerald Pendant at 7,865 euros). All four designers are available at Mad Lords."
