@@ -16,7 +16,10 @@ Elle est destinee a etre declenchee par une routine planifiee (ex: 2x/semaine a 
 - `data/authors.yaml` present (systeme d'auteurs partage).
 - `content/blog/` existe (peut etre vide pour un premier article).
 - Remote git `origin` configure, acces push.
-- Clef SerpAPI disponible (via MCP `mcp__serpapi__search` ou variable d'env `SERPAPI_API_KEY`).
+- Source SERP disponible. Ordre de preference :
+  1. **Haloscan MCP** (`mcp__haloscan__get_keywords_questions`, `mcp__haloscan__get_keywords_related`, `mcp__haloscan__get_keywords_overview`) — par defaut sur les blogs datashake, deja configure dans `.mcp.json`
+  2. SerpAPI MCP (`mcp__serpapi__search`) — fallback si Haloscan indispo
+  3. SerpAPI HTTP via `SERPAPI_API_KEY` — dernier recours en sandbox cloud
 
 ## Philosophie : full auto, pas de human in the loop
 
@@ -68,38 +71,50 @@ L'entree selectionnee fournit : `kw`, `category`, `scheduled_date`.
 
 ## Etape 1 — Analyse SERP automatique
 
-### 1.1 Requete SerpAPI (2 modes possibles)
+### 1.1 Source SERP : Haloscan d'abord, SerpAPI en fallback
 
-**Mode A - MCP (runtime local)** : si l'outil `mcp__serpapi__search` est disponible, appeler avec `q=<kw>`, `engine=google`, `hl=fr`, `gl=fr`, `num=10`, `location=France`.
+**Mode A (par defaut) - Haloscan MCP** : appeler les 3 outils Haloscan suivants en parallele pour le mot-cle `<kw>`. Tous fonctionnent en FR par defaut (parametre regional auto).
 
-**Mode B - curl direct (runtime cloud ou MCP indispo)** : si le MCP n'est pas charge, faire un appel HTTP a l'endpoint public SerpAPI. La cle API doit etre disponible dans la variable d'environnement `SERPAPI_API_KEY` (exportee par le prompt de la routine cloud) :
+1. `mcp__haloscan__get_keywords_overview` avec `keyword=<kw>` -> retourne volume, KD/KVI, intent, CPC, competition, signaux d'intention (si_info, si_trans, si_comm, si_nav, si_local, si_brand) et donnees SERP de base.
+2. `mcp__haloscan__get_keywords_questions` avec `keyword=<kw>` et `lineCount=10` -> retourne les People Also Ask (PAA) sous forme de liste, chaque entree contient un champ `keyword` (la question), un `question_type` (how/why/where/when/who/how expensive/etc.) et un `volume` quand mesurable.
+3. `mcp__haloscan__get_keywords_related` avec `keyword=<kw>` et `lineCount=15` -> retourne les related searches et mots-cles associes avec volumes.
+
+**Mode B (fallback) - SerpAPI MCP** : si Haloscan n'est pas charge, appeler `mcp__serpapi__search` avec `q=<kw>`, `engine=google`, `hl=fr`, `gl=fr`, `num=10`, `location=France`.
+
+**Mode C (dernier recours) - SerpAPI HTTP en sandbox cloud** : si ni Haloscan ni SerpAPI MCP, et que `SERPAPI_API_KEY` est exportee :
 
 ```bash
 QUERY_ENC=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$KW")
 curl -s "https://serpapi.com/search.json?q=${QUERY_ENC}&engine=google&hl=fr&gl=fr&num=10&location=France&api_key=${SERPAPI_API_KEY}" > /tmp/serp.json
 ```
 
-Parser le JSON avec python3 pour extraire les donnees ci-dessous. Si `SERPAPI_API_KEY` est absente ET mcp__serpapi__search indispo : marquer failed avec `error: "SerpAPI indispo (ni MCP ni env var)"` et abort.
+Si aucun mode n'est disponible : marquer failed avec `error: "Source SERP indispo (Haloscan + SerpAPI tous KO)"` et abort.
 
-### 1.2 Extraction donnees (sans fetch des concurrents)
+### 1.2 Extraction donnees
 
-Extraire uniquement du resultat SerpAPI :
-- `organic_results[0..9]` : `title`, `link`, `snippet`
-- `related_questions` (People Also Ask) si presents
-- `related_searches` si presents
+**Si Mode A (Haloscan)** : extraire et structurer en variables internes :
+- Depuis `get_keywords_overview` : `volume`, `kvi` (proxy KD 0-100), `intent` (info/trans/comm/nav/local/brand selon les flags `si_*`), `cpc`, `competition`
+- Depuis `get_keywords_questions` : liste de questions PAA avec leur `question_type` (les questions "Quand", "Pourquoi", "Comment", "Qui", "Ou", "Quel" etc. revelent l'intention dominante de la SERP)
+- Depuis `get_keywords_related` : liste des KW associes les plus volumiques (champ semantique a couvrir dans l'article)
 
-**Ne PAS tenter de fetch les URLs concurrentes via WebFetch** : dans le sandbox cloud, les domaines commerciaux renvoient 503/403 systematiquement. L'analyse se fait uniquement sur les titles/snippets/PAA retournes par SerpAPI.
+**Si Mode B/C (SerpAPI)** : extraire `organic_results[0..9]` (`title`, `link`, `snippet`), `related_questions`, `related_searches`.
+
+**Ne PAS tenter de fetch les URLs concurrentes via WebFetch** : la valeur ajoutee est limitee et le sandbox cloud renvoie souvent 503/403 sur les domaines commerciaux.
 
 ### 1.3 Synthese auto (aucun output humain, juste des variables internes)
 
-L'agent determine a partir des donnees SerpAPI :
-- **Intention de recherche** : inferee du pattern recurrent des titles top 5 (informationnelle, transactionnelle, comparative, etc.)
-- **Angles concurrents** : sous-themes qui reviennent dans les titles et snippets (ex: prix, comparatif, avis, guide, duree de vie...)
-- **Champ semantique** : mots recurrents dans les titles, snippets et related_searches
-- **FAQ pertinente ?** : vrai si `related_questions` sont retournes par SerpAPI (PAA = signal fort que les utilisateurs posent des questions sur ce sujet)
-- **Longueur cible** : 1500-2000 mots par defaut (pas de mesure possible des concurrents, cible raisonnable pour un article evergreen qualitatif)
-- **Tableau pertinent ?** : vrai par defaut pour les requetes a intention comparative (mots "meilleur", "top", "vs", "ou" dans les titles), false sinon
-- **Si FAQ pertinente** : construire la liste de questions a partir des `related_questions` de SerpAPI, retirer doublons, reformuler (pas de copie mot pour mot), garder 4-6 questions
+L'agent determine :
+- **Intention de recherche** :
+  - Si Mode A : combiner les flags `si_*` de l'overview (informationnel si `si_info=true`, transactionnel si `si_trans=true`, etc.) et le pattern des `question_type` (majorite "how"/"why"/"what" = informationnel, majorite "how expensive"/"where" = transactionnel)
+  - Si Mode B/C : pattern des titles top 5
+- **Angles concurrents** :
+  - Si Mode A : themes recurrents dans les `keyword` des questions PAA et related (ex: prix, comparatif, guide, signification, histoire, comment porter)
+  - Si Mode B/C : themes dans titles et snippets
+- **Champ semantique** : mots recurrents dans les questions PAA + related (Mode A) ou titles + snippets + related_searches (Mode B/C)
+- **FAQ pertinente ?** : vrai si au moins 4 questions PAA pertinentes sont retournees (Haloscan ou SerpAPI). Le seuil est plus eleve avec Haloscan car la liste est plus large.
+- **Longueur cible** : 1500-2000 mots par defaut
+- **Tableau pertinent ?** : vrai par defaut pour les requetes a intention comparative (mots "meilleur", "top", "vs", "ou", "quel" dans le KW ou dans le champ semantique), false sinon
+- **Si FAQ pertinente** : construire 4-6 questions a partir des PAA Haloscan ou des `related_questions` SerpAPI. Reformuler chaque question naturellement (pas de copie mot pour mot des PAA bruts qui sont parfois mal ecrits). Garder un mix de `question_type` (au moins 1 "comment", 1 "pourquoi" ou "quel", 1 "ou" ou "quand").
 
 ## Etape 2 — Title et meta description (regles pixel inline)
 
