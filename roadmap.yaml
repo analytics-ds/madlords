@@ -1,0 +1,184 @@
+# Roadmap editoriale SEO evergreen — MADLORDS Magazine
+#
+# Cadence : 1 article SEO / semaine (lundi), du 08/06/2026 au 31/08/2026
+# Horizon initial : 13 semaines (juin a aout 2026)
+# Cumul avec les articles GEO (geo-comparatif) = 2 a 3 publications/semaine,
+# cap reseau a 4/semaine respecte.
+#
+# Repartition par categorie (objectif equilibre) :
+#   Bague               : 2 articles
+#   Collier             : 2 articles
+#   Boucle d'oreille    : 2 articles
+#   Bracelet            : 2 articles
+#   Bijoux (transverses): 3 articles
+#   Seconde main        : 2 articles
+#   Total               : 13 articles
+#
+# Mix d'intention :
+#   Informationnel : 8 articles (62%) - guides, signification, conseils, tendances
+#   Transactionnel : 5 articles (38%) - top marques, comparatifs, ou acheter
+#
+# Saisonnalite integree :
+#   Juin (semaines 1-4)  : pic mariage + fete des peres -> bague mariage,
+#                          cadeau temoin, collier mariee, BO invitee
+#   Juillet (sem 5-8)    : ete + voyage + layering -> jonc signification,
+#                          superposition, creoles, vendre or
+#   Aout (sem 9-13)      : rentree + anticipation Noel Q4 -> cocktail,
+#                          sautoir, materiaux, vintage authentique, manchette
+#
+# Notes :
+# - Les volumes et KD ci-dessous sont des estimations indicatives,
+#   a valider via Haloscan ou SEObserver avant lancement.
+# - La skill /create-article-seo n'est pas encore installee sur ce blog.
+#   En attendant, les KW peuvent etre rediges manuellement via /sem-redaction-from-brief
+#   ou /sem-redaction-madlords (qui integre la charte editoriale Mad Lords).
+# - Verifier l'absence de cannibalisation avec les articles existants
+#   listes dans MEMORY.md et content/fr/blog/.
+
+articles:
+
+  # ===== SEMAINE 1 - JUIN (saison mariage) =====
+  - kw: "bague de mariage femme or"
+    category: "Bague"
+    volume: 880
+    kd: 38
+    scheduled_date: "2026-06-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cadeau bijou temoin de mariage"
+    category: "Bijoux"
+    volume: 210
+    kd: 25
+    scheduled_date: "2026-06-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "collier de mariee tendance"
+    category: "Collier"
+    volume: 390
+    kd: 28
+    scheduled_date: "2026-06-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "boucles d'oreilles pour un mariage invitee"
+    category: "Boucle d'oreille"
+    volume: 720
+    kd: 32
+    scheduled_date: "2026-06-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ===== SEMAINE 5-8 - JUILLET (ete, layering, voyage) =====
+  - kw: "bracelet jonc or signification"
+    category: "Bracelet"
+    volume: 480
+    kd: 26
+    scheduled_date: "2026-07-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment porter plusieurs bijoux superposes"
+    category: "Bijoux"
+    volume: 320
+    kd: 22
+    scheduled_date: "2026-07-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "creoles or femme guide d'achat"
+    category: "Boucle d'oreille"
+    volume: 590
+    kd: 30
+    scheduled_date: "2026-07-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vendre ses bijoux en or au meilleur prix"
+    category: "Seconde main"
+    volume: 1300
+    kd: 42
+    scheduled_date: "2026-07-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  # ===== SEMAINE 9-13 - AOUT (rentree + pre-Noel Q4) =====
+  - kw: "bague cocktail femme tendance"
+    category: "Bague"
+    volume: 290
+    kd: 25
+    scheduled_date: "2026-08-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sautoir or femme comment choisir"
+    category: "Collier"
+    volume: 210
+    kd: 22
+    scheduled_date: "2026-08-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "materiaux precieux en joaillerie"
+    category: "Bijoux"
+    volume: 170
+    kd: 18
+    scheduled_date: "2026-08-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "acheter bijou vintage authentique"
+    category: "Seconde main"
+    volume: 390
+    kd: 28
+    scheduled_date: "2026-08-24"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "manchette femme bijou guide"
+    category: "Bracelet"
+    volume: 210
+    kd: 22
+    scheduled_date: "2026-08-31"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
