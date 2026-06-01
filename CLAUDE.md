@@ -17,6 +17,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 ### Utilisation courante
 
 - `/create-article-geo` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif). Push automatiquement sur GitHub si le repo est configure
+- `/create-article-auto` : creer un article SEO evergreen en full auto a partir de la prochaine entree eligible de `roadmap.yaml`. Declenchee par routine cron mardi 3h Paris. Pas d'interaction humaine. Push direct sur main.
 - `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
 - `/seo` : mode interactif pour modifier/ajouter des elements SEO (meta tags, JSON-LD, audit on-page, etc.)
 - `/serve` : lancer le serveur Hugo en local (previsualisation sur `http://localhost:1313/`)

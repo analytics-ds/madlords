@@ -1,7 +1,8 @@
 # Roadmap editoriale SEO evergreen — MADLORDS Magazine
 #
-# Cadence : 1 article SEO / semaine (lundi), du 08/06/2026 au 31/08/2026
-# Horizon initial : 13 semaines (juin a aout 2026)
+# Cadence : 1 article SEO / semaine (mardi), du 09/06/2026 au 01/09/2026
+# Horizon initial : 13 semaines (juin a debut septembre 2026)
+# Execution : automatique via /create-article-auto + cron mardi 3h Paris
 # Cumul avec les articles GEO (geo-comparatif) = 2 a 3 publications/semaine,
 # cap reseau a 4/semaine respecte.
 #
@@ -54,7 +55,7 @@ articles:
     category: "Bague"
     volume: 637
     kd: null
-    scheduled_date: "2026-06-08"
+    scheduled_date: "2026-06-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -66,7 +67,7 @@ articles:
     category: "Bijoux"
     volume: 275
     kd: null
-    scheduled_date: "2026-06-15"
+    scheduled_date: "2026-06-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -78,7 +79,7 @@ articles:
     category: "Collier"
     volume: 355
     kd: null
-    scheduled_date: "2026-06-22"
+    scheduled_date: "2026-06-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -90,7 +91,7 @@ articles:
     category: "Boucle d'oreille"
     volume: 500
     kd: null
-    scheduled_date: "2026-06-29"
+    scheduled_date: "2026-06-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -104,7 +105,7 @@ articles:
     category: "Bracelet"
     volume: 193
     kd: null
-    scheduled_date: "2026-07-06"
+    scheduled_date: "2026-07-07"
     status: todo
     published_date: null
     published_url_fr: null
@@ -116,7 +117,7 @@ articles:
     category: "Bijoux"
     volume: 556
     kd: null
-    scheduled_date: "2026-07-13"
+    scheduled_date: "2026-07-14"
     status: todo
     published_date: null
     published_url_fr: null
@@ -128,7 +129,7 @@ articles:
     category: "Boucle d'oreille"
     volume: 700
     kd: null
-    scheduled_date: "2026-07-20"
+    scheduled_date: "2026-07-21"
     status: todo
     published_date: null
     published_url_fr: null
@@ -140,7 +141,7 @@ articles:
     category: "Seconde main"
     volume: 480
     kd: null
-    scheduled_date: "2026-07-27"
+    scheduled_date: "2026-07-28"
     status: todo
     published_date: null
     published_url_fr: null
@@ -154,7 +155,7 @@ articles:
     category: "Bague"
     volume: 200
     kd: null
-    scheduled_date: "2026-08-03"
+    scheduled_date: "2026-08-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -166,7 +167,7 @@ articles:
     category: "Collier"
     volume: 480
     kd: null
-    scheduled_date: "2026-08-10"
+    scheduled_date: "2026-08-11"
     status: todo
     published_date: null
     published_url_fr: null
@@ -178,7 +179,7 @@ articles:
     category: "Bijoux"
     volume: 2000
     kd: null
-    scheduled_date: "2026-08-17"
+    scheduled_date: "2026-08-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -190,7 +191,7 @@ articles:
     category: "Seconde main"
     volume: 1400
     kd: null
-    scheduled_date: "2026-08-24"
+    scheduled_date: "2026-08-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -202,7 +203,7 @@ articles:
     category: "Bracelet"
     volume: 880
     kd: null
-    scheduled_date: "2026-08-31"
+    scheduled_date: "2026-09-01"
     status: todo
     published_date: null
     published_url_fr: null
