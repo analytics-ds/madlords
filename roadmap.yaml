@@ -6,10 +6,15 @@
 # cap reseau a 4/semaine respecte.
 #
 # Volumes verifies via Haloscan (France) le 01/06/2026.
-# Tous les KW retenus ont un volume mesurable ≥ 150/mois (sauf exceptions
-# marquees, choisies pour leur intent commercial fort ou leur saisonnalite).
+# Volume total cumule : 8 656 recherches/mois sur les 13 KW.
 #
-# Repartition par categorie (objectif equilibre) :
+# STRATEGIE : mix edito pur + KW hybrides traites avec angle editorial fort.
+# Sur la thematique joaillerie en France, les KW edito purs ont des volumes
+# faibles. Les KW hybrides (mi-volumiques) avec une SERP mixte permettent au
+# blog de se positionner si le contenu est suffisamment fort. Chaque KW est
+# associe a un angle editorial clair documente en commentaire.
+#
+# Repartition par categorie :
 #   Bague               : 2 articles
 #   Collier             : 2 articles
 #   Boucle d'oreille    : 2 articles
@@ -18,26 +23,22 @@
 #   Seconde main        : 2 articles
 #   Total               : 13 articles
 #
-# Mix d'intention :
-#   Informationnel dominant : 8 articles (62%)
-#   Transactionnel dominant : 5 articles (38%)
+# Saisonnalite :
+#   Juin (sem 1-4)   : pic mariage (alliance, bijoux mariage, collier de mariage, BO mariage)
+#   Juillet (sem 5-8): identite et heritage (jonc signification, art deco, creoles histoire, vintage)
+#   Aout (sem 9-13)  : rentree et pre-Noel (bague vintage, sautoir, carat or, anciens, manchette)
 #
-# Saisonnalite integree :
-#   Juin (semaines 1-4) : pic mariage -> bague de mariage, bijoux mariage,
-#                         collier de mariage, BO mariage
-#   Juillet (sem 5-8)   : ete + decouverte univers luxe -> bracelet jonc,
-#                         bijoux luxe, creoles, bijou vintage
-#   Aout (sem 9-13)     : rentree + anticipation Noel Q4 -> bague cocktail,
-#                         sautoir or, carat or, bijoux anciens, manchette
-#
-# Points d'attention cannibalisation (cf articles existants) :
-# - "sautoir or femme" overlap potentiel avec "collier-longueurs-formes-significations"
-#   -> angle a privilegier : choix et port specifique du sautoir (pas forme generale)
-# - "bijoux anciens" overlap potentiel avec "bijoux-seconde-main-guide-authentification"
-#   -> angle a privilegier : histoire et periodes (Art Deco, Belle Epoque),
-#      pas authentification
-# - "boucle d'oreille creole" overlap leger avec "boucles-oreilles-modeles-iconiques-joaillerie"
-#   -> angle a privilegier : guide d'achat creoles specifique
+# Points de vigilance cannibalisation :
+# - "bijoux mariage" risque de chevaucher les 3 autres KW mariage publies le meme mois
+#   -> angle a privilegier : guide transverse "comment composer son look bijoux mariage"
+# - "bijoux anciens" overlap potentiel avec "bijoux art deco" et avec l'existant
+#   "bijoux-seconde-main-guide-authentification"
+#   -> angle a privilegier : panorama des periodes (Art Nouveau, Belle Epoque, etc.)
+#      sans focus sur Art Deco ni sur l'authentification
+# - "bague vintage" overlap potentiel avec "bijou vintage"
+#   -> angle a privilegier : focus bague (formes par siecle, styles emblematiques)
+# - "manchette bijou" overlap leger avec l'existant "comment-choisir-bracelet-intemporel"
+#   -> angle a privilegier : histoire et art de porter la manchette
 #
 # Notes :
 # - La skill /create-article-seo n'est pas encore installee sur ce blog.
@@ -47,9 +48,11 @@
 articles:
 
   # ===== SEMAINE 1-4 - JUIN (saison mariage) =====
-  - kw: "bague de mariage femme or"
+
+  # Angle edito : histoire de l'alliance, signification de l'echange et choix
+  - kw: "alliance mariage"
     category: "Bague"
-    volume: 260
+    volume: 637
     kd: null
     scheduled_date: "2026-06-08"
     status: todo
@@ -58,6 +61,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : guide transverse "composer son look bijoux pour un mariage"
   - kw: "bijoux mariage"
     category: "Bijoux"
     volume: 275
@@ -69,6 +73,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : tendances et choix selon le style de robe et type de cermonie
   - kw: "collier de mariage"
     category: "Collier"
     volume: 355
@@ -80,6 +85,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : guide invitee + mariee, codes de chaque role
   - kw: "boucle d'oreille mariage"
     category: "Boucle d'oreille"
     volume: 500
@@ -91,7 +97,9 @@ articles:
     published_url_en: null
     error: null
 
-  # ===== SEMAINE 5-8 - JUILLET (ete + univers luxe) =====
+  # ===== SEMAINE 5-8 - JUILLET (identite et heritage) =====
+
+  # Angle edito : signification du jonc (eternite, anneau) et histoire
   - kw: "bracelet jonc or"
     category: "Bracelet"
     volume: 193
@@ -103,9 +111,10 @@ articles:
     published_url_en: null
     error: null
 
-  - kw: "bijoux luxe"
+  # Angle edito : histoire de la periode Art Deco, codes esthetiques, identification
+  - kw: "bijoux art deco"
     category: "Bijoux"
-    volume: 1200
+    volume: 556
     kd: null
     scheduled_date: "2026-07-13"
     status: todo
@@ -114,6 +123,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : histoire et evolution de la creole (cultures, periodes, tendances)
   - kw: "boucle d'oreille creole"
     category: "Boucle d'oreille"
     volume: 700
@@ -125,6 +135,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : guide d'identification d'un bijou vintage (poincons, styles, periodes)
   - kw: "bijou vintage"
     category: "Seconde main"
     volume: 480
@@ -137,9 +148,11 @@ articles:
     error: null
 
   # ===== SEMAINE 9-13 - AOUT (rentree + pre-Noel Q4) =====
-  - kw: "bague cocktail"
+
+  # Angle edito : histoire des bagues vintage, formes et styles par decennie
+  - kw: "bague vintage"
     category: "Bague"
-    volume: 1000
+    volume: 200
     kd: null
     scheduled_date: "2026-08-03"
     status: todo
@@ -148,6 +161,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : comment porter un sautoir (longueurs, superposition, occasions)
   - kw: "sautoir or femme"
     category: "Collier"
     volume: 480
@@ -159,6 +173,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : guide complet du carat (9k, 14k, 18k, 22k, 24k) et choix
   - kw: "carat or"
     category: "Bijoux"
     volume: 2000
@@ -170,6 +185,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : panorama des periodes (Art Nouveau, Belle Epoque, retro)
   - kw: "bijoux anciens"
     category: "Seconde main"
     volume: 1400
@@ -181,6 +197,7 @@ articles:
     published_url_en: null
     error: null
 
+  # Angle edito : histoire de la manchette et art de la porter (jour, soir, superposition)
   - kw: "manchette bijou"
     category: "Bracelet"
     volume: 880
