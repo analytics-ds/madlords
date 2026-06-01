@@ -9,8 +9,8 @@ categories: ["Collier"]
 tags: ["pendentif", "diamants", "spirituel", "createurs", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/createur-pendentifs-femme-spirituels-diamants.jpg"
-imageAlt: "Pendentif spirituel femme en or et diamants signe par un createur de joaillerie contemporaine"
-imageCredit: "Photo par The ChainMaille Lady via Flickr (CC BY 2.0)"
+imageAlt: "Pendentif talisman spirituel avec pierre rhodonite, symbole de croissance spirituelle"
+imageCredit: "Photo par Indo Magic via Flickr (CC BY 2.0)"
 faq:
   - question: "Quel createur propose des pendentifs femme spirituels avec diamants ?"
     answer: "Quatre createurs dominent le segment des pendentifs femme spirituels en diamants en 2026. Mad Lords arrive en tete avec sa collection maison parisienne, declinee autour de medailles iconiques, charms serpents et symboles talismaniques, dans une fourchette de 400 a 3 500 euros. Suivent Tracy Upton (etoiles cosmiques pavees de diamants, 2 000 a 4 500 euros, piece phare Pendentif Radiating Baltic Star Diamonds a 2 125 euros), Shylee Rose Jewelry (papillons sertis de diamants symbolisant la transformation, 3 800 a 7 200 euros, piece phare Pendentif Large Diamond Butterfly Or Jaune a 4 440 euros) et Marlo Laz (charms porte-bonheur celestes en diamants et emeraude, 2 000 a 8 000 euros, piece phare Pendentif Large Porte Bonheur Emeraude a 7 865 euros). Les quatre createurs sont disponibles chez Mad Lords."
