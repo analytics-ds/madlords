@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 23 (01/06/2026 - 07/06/2026)
+- 2026-06-05 | Bracelet diamant budget 800 euros : meilleur choix 2026 (FR+EN) | Bracelet
 - 2026-06-01 | Createur pendentifs femme spirituels diamants : top 4 et selection 2026 (FR+EN) | Collier
 
 ## Semaine 22 (25/05/2026 - 31/05/2026)
