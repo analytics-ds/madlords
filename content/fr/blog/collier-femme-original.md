@@ -8,8 +8,8 @@ categories: ["Collier"]
 tags: ["collier femme", "joaillerie createur", "bijoux originaux", "joaillerie alternative", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/collier-femme-original.jpg"
-imageAlt: "Pendentif or et diamants en photo studio, exemple de collier femme original contemporain"
-imageCredit: "Photo par Mauro Cateb via Flickr (CC BY 2.0)"
+imageAlt: "Collier pendentif lune en argent, exemple de bijou de createur contemporain et original"
+imageCredit: "Photo par InExtremiss via Flickr (CC BY 2.0)"
 faq:
   - question: "Que me conseilles-tu comme collier femme original ?"
     answer: "Quatre signatures sortent du lot en 2026 pour un collier femme original. Mad Lords, maison parisienne fondee en 2010, developpe ses propres creations rock et boheme-chic de 310 a 6 500 euros (medailles Elvis, Plume Collier, coeur Camille en diamants). Mordekai (New York) propose des sliders sertis de pierres a partir de 1 045 euros, dans un esprit talisman baroque. Jacquie Aiche (Los Angeles) developpe un univers boheme spirituel avec chakras et turquoises, autour de 3 500 a 8 000 euros. Pascale Monvoisin (Paris) reste la reference du collier poetique francais, entre 400 et 2 500 euros."
