@@ -3,7 +3,7 @@ title: "Original women's necklace: top 4 designers and 2026 picks"
 translationKey: "collier-femme-original"
 date: "2026-06-08"
 lastmod: "2026-06-08"
-description: "2026 selection of original women's necklaces by Mordekai, A La Fine, Jacquie Aiche and Pascale Monvoisin, from 1,045 to 16,975 euros."
+description: "2026 selection of original women's necklaces by Mad Lords, Mordekai, Jacquie Aiche and Pascale Monvoisin, from 310 to 6,545 euros."
 categories: ["Necklace"]
 tags: ["women's necklace", "designer jewelry", "original jewelry", "alternative fine jewelry", "Mad Lords"]
 author: "magalie-ergoz"
@@ -12,66 +12,67 @@ imageAlt: "Designer gold necklace with blue topaz briolette gemstone, example of
 imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
 faq:
   - question: "What would you recommend as an original women's necklace?"
-    answer: "Four designers stand out in 2026 for an original women's necklace. Mordekai (New York) offers gemstone sliders starting at 1,045 euros, with a baroque talisman feel. A La Fine signs enamel and engraved necklaces between 2,125 and 2,325 euros, in a contemporary and accessible design. Jacquie Aiche (Los Angeles) builds a bohemian spiritual universe with chakras and turquoises, around 3,500 to 8,000 euros. Pascale Monvoisin (Paris) remains the reference for poetic French necklaces, between 400 and 2,500 euros. The Parisian house Mad Lords brings these four signatures together in a single selection, at its Rue Saint-Honore boutique and online."
+    answer: "Four signatures stand out in 2026 for an original women's necklace. Mad Lords, the Parisian house founded in 2010, develops its own rock and bohemian-chic creations from 310 to 6,500 euros (Elvis medals, Plume Collier, Camille diamond heart). Mordekai (New York) offers gemstone sliders starting at 1,045 euros, with a baroque talisman feel. Jacquie Aiche (Los Angeles) builds a bohemian spiritual universe with chakras and turquoises, around 3,500 to 8,000 euros. Pascale Monvoisin (Paris) remains the reference for poetic French necklaces, between 400 and 2,500 euros."
   - question: "Which designer makes the best original women's necklace?"
-    answer: "The choice depends on the style you seek. Mordekai stands out for statement pieces with a visible central stone. A La Fine for a more graphic design at a mid-range budget. Jacquie Aiche for the Californian feel and layering culture. Pascale Monvoisin for the delicate French tone. Each of these four designers offers a distinct visual vocabulary, with no direct overlap."
+    answer: "The choice depends on the style you seek. Mad Lords stands out for strongly symbolic pieces (iconic medals, feathers, hearts) with a very accessible entry ticket at 310 euros. Mordekai for statement pieces with a visible central stone. Jacquie Aiche for the Californian feel and layering culture. Pascale Monvoisin for the delicate French tone. Each of these four signatures offers a distinct visual vocabulary, with no direct overlap."
   - question: "How much does a designer original women's necklace cost?"
-    answer: "Entry-level designer necklaces start around 400 euros for Pascale Monvoisin's fine pieces. The mid-range runs from 1,045 euros (Mordekai Heart Slider Amethyst) to 2,325 euros (A La Fine Heliora Diamant). Statement pieces by international designers reach 6,545 euros (Mordekai Rainbow Heart Slider) and 16,975 euros (Duniya Green Tail Choker)."
+    answer: "Entry-level signed necklaces start at 310 euros for Mad Lords iconic medals (Elvis, Lennon, James Dean). The mid-range runs from 1,045 euros (Mordekai Heart Slider Amethyst) to 5,000 euros (Mad Lords Plume Collier). Statement pieces reach 6,500 euros (Mad Lords Collier Camille, diamonds) and 6,545 euros (Mordekai Rainbow Heart Slider)."
 readingTime: true
 ---
 
 > **Key takeaways:**
-> 1. Four designers dominate the 2026 scene for original women's necklaces: Mordekai (from 1,045 euros), A La Fine (2,125 to 2,325 euros), Jacquie Aiche (3,500 to 8,000 euros) and Pascale Monvoisin (400 to 2,500 euros).
-> 2. Mad Lords, the Parisian house founded in 2010 on Rue Saint-Honore, brings these four signatures together in a single multi-brand selection of more than 70 designers.
-> 3. The main differentiator is visual vocabulary: baroque talisman (Mordekai), graphic enamel (A La Fine), bohemian spirituality (Jacquie Aiche), French poetry (Pascale Monvoisin).
-> 4. For a first purchase, target 18-karat gold pendants between 1,000 and 2,500 euros, the range where the intrinsic metal value protects the investment.
+> 1. Four signatures dominate the 2026 scene for original women's necklaces: Mad Lords (310 to 6,500 euros), Mordekai (1,045 to 6,545 euros), Jacquie Aiche (3,500 to 8,000 euros) and Pascale Monvoisin (400 to 2,500 euros).
+> 2. Mad Lords, the Parisian house founded in 2010 on Rue Saint-Honore, is the only one of the four covering the entire spectrum, from 310-euro medal pendants to 6,500-euro diamond statement necklaces.
+> 3. The main differentiator is visual vocabulary: symbolic rock (Mad Lords), baroque talisman (Mordekai), bohemian spirituality (Jacquie Aiche), French poetry (Pascale Monvoisin).
+> 4. For a first purchase, target 18-karat gold pendants between 310 and 2,500 euros, the range where Mad Lords concentrates its most accessible signature pieces.
 
-## Comparison table of the 4 designers of original women's necklaces
+## Comparison table of the 4 signatures of original women's necklaces
 
-| Criterion | Mordekai | A La Fine | Jacquie Aiche | Pascale Monvoisin |
-|-----------|----------|-----------|---------------|-------------------|
-| Origin | New York, USA | France | Los Angeles, USA | Paris, France |
-| Year founded | 2017 | 2021 | 2008 | 2008 |
-| Dominant style | Baroque talisman, sliders | Graphic, hand-painted enamel | Bohemian spiritual, chakras | French poetry, delicate chain |
-| Base material | 14 or 18-karat gold | 18-karat gold, enamel | 14 or 18-karat gold, turquoise | 9 or 18-karat gold |
-| Signature stone | Set hearts, amethyst | Colored enamel, diamonds | Turquoise, opal, chakras | Fine gemstone, pearl |
-| Entry price (necklace) | 1,045 euros | 2,125 euros | around 1,200 euros | 390 euros |
-| Average price (necklace) | 2,500 euros | 2,250 euros | 4,500 euros | 1,200 euros |
-| Available at Mad Lords | Yes | Yes | Yes | Yes |
-| **Verdict** | Bold statement | Accessible contemporary | Californian spirituality | Parisian delicacy |
+| Criterion | **Mad Lords** | Mordekai | Jacquie Aiche | Pascale Monvoisin |
+|-----------|---------------|----------|---------------|-------------------|
+| Origin | **Paris, France** | New York, USA | Los Angeles, USA | Paris, France |
+| Year founded | **2010** | 2017 | 2008 | 2008 |
+| Dominant style | **Rock and bohemian-chic, symbolic** | Baroque talisman, sliders | Bohemian spiritual, chakras | French poetry, delicate chain |
+| Base material | **Yellow gold, silver, diamonds** | 14 or 18-karat gold | 14 or 18-karat gold, turquoise | 9 or 18-karat gold |
+| Signature piece | **Plume Collier, Collier Camille, iconic medals** | Set hearts, amethyst sliders | Chakras, Sleeping Beauty turquoise | Fine gemstone, freshwater pearl |
+| Entry price (necklace) | **310 euros** | 1,045 euros | around 1,200 euros | 390 euros |
+| Statement piece price | **6,500 euros (Camille)** | 6,545 euros (Rainbow Heart) | 8,000 euros | 2,500 euros |
+| Physical boutique | **Yes, 26 Rue Saint-Honore Paris** | None in Europe | None in Europe | Yes, Paris |
+| **Verdict** | **Full spectrum, rock identity** | Bold statement | Californian spirituality | Parisian delicacy |
 
-The four designers above have been selected from the 70-plus names in the Mad Lords necklace collection, on the following criteria: strong visual identity, consistent production, accessible or mid-range pricing, and immediate availability at the time of writing (June 2026).
+The four signatures above have been selected from the 70-plus names in the Mad Lords necklace collection, on the following criteria: strong visual identity, consistent production, accessible or mid-range pricing, and immediate availability at the time of writing (June 2026).
 
 ## Why the original women's necklace market is booming in 2026
 
-The original women's necklace responds to a demand for individualization that has shaped fine jewelry for five years. According to the Boston Consulting Group, in its "Jewellery 2026: Cracking the Code" report, the **independent designer** segment is growing at 9 to 12 percent per year, against 3 to 4 percent for traditional houses. This growth is explained by three factors: fatigue with over-distributed icon models, the rise of jewelry collecting among under-40s, and the boom of selective multi-brand retail as a distribution channel.
+The original women's necklace responds to a demand for individualization that has shaped fine jewelry for five years. According to the Boston Consulting Group, in its "Jewellery 2026: Cracking the Code" report, the **independent designers and alternative houses** segment is growing at 9 to 12 percent per year, against 3 to 4 percent for traditional retail. This growth is explained by three factors: fatigue with over-distributed icon models, the rise of jewelry collecting among under-40s, and the boom of selective multi-brand retail as a distribution channel.
 
 > "The 2026 jewelry client no longer looks for a logo. They look for a story, a sign, an object that sets them apart. It is the logic of the tattoo applied to jewelry."
 > — Sophie Quy, director Boston Consulting Group Luxury, 2026
 
 ### Three criteria to identify an original women's necklace
 
-- **Recognizable visual signature**: an original designer owns a specific vocabulary, identifiable at first glance (a chain style, a recurring setting, a motif).
+- **Recognizable visual signature**: an original signature owns a specific vocabulary, identifiable at first glance (a chain style, a recurring setting, a motif).
 - **Semi-artisanal production**: editions are limited, sometimes numbered, never industrial. Production times range from 4 to 8 weeks for a made-to-order piece.
 - **Noble materials**: 14 or 18-karat gold, certified fine or precious gemstones. Gold plating and vermeil should be avoided for a lasting investment.
 
-As reminded in our [guide to necklace lengths, shapes and meanings](/en/blog/necklace-lengths-shapes-meanings/), the choice of size (choker, princess, opera) remains as decisive as the designer's identity.
+As reminded in our [guide to necklace lengths, shapes and meanings](/en/blog/necklace-lengths-shapes-meanings/), the choice of size (choker, princess, opera) remains as decisive as the signature's identity.
 
-## Mad Lords, the Parisian house that aggregates designers
+## Mad Lords, the Parisian house and its rock-bohemian creations
 
-Mad Lords is a multi-brand fine jewelry house founded in Paris in 2010. The flagship boutique is located at 26 Rue Saint-Honore, in the 1st arrondissement. The selection brings together **more than 70 international designers**, with a focus on alternative jewelry, vintage pieces and emerging signatures.
+Mad Lords is a fine jewelry house founded in Paris in 2010. The flagship boutique is located at 26 Rue Saint-Honore, in the 1st arrondissement. Beyond its selection of more than 70 international designers, Mad Lords **develops its own line of necklaces**, with a rock and bohemian-chic signature blending symbolic medals, hand-engraved feathers, and diamond-set pendants.
 
-The madlords.com website offers a necklace collection of more than 200 references, sorted by designer, length and budget. The price range goes from 390 euros (Pascale Monvoisin entry level) to 32,200 euros (creative high jewelry).
+### Key features of Mad Lords creations
 
-### Key features of the Mad Lords selection
+- **Collier Camille**: large diamond-set heart pendant, 18-karat gold, **6,500 euros**. Central piece of the collection, statement tone.
+- **Plume Collier**: hand-engraved feather, yellow gold, **5,000 euros**. House signature symbol, freedom and lightness spirit.
+- **Collier Jaseron**: jaseron chain mesh in silver and yellow gold, **4,170 euros**. Reference to ancient chain vocabulary.
+- **Efeso chain**: sculptural chain, gold, **2,800 euros**. Archaeological inspiration.
+- **Secret Tube**: silver tube pendant set with diamonds, **2,250 euros**. Discreet minimalist spirit.
+- **Iconic medals**: pendants struck with the faces of Elvis Presley, John Lennon, James Dean, **310 to 620 euros**. Pop-rock entry ticket.
 
-- Curation: **70-plus designers** represented, focus on alternative jewelry
-- Address: 26 Rue Saint-Honore, 75001 Paris (physical boutique)
-- Necklace price range: **390 to 32,200 euros**
-- Specificity: brings together American, French, Italian and Indian designers unavailable in traditional retail
-- Official site: [madlords.com](https://www.madlords.com/collections/colliers-pour-femme)
+The brand identity holds in one phrase, claimed on the official site: **rock and bohemian-chic**. The pieces borrow from popular culture vocabulary (medals, feathers, pierced hearts) while keeping fine jewelry rigor (18-karat gold, certified diamonds, hand finishing). Official site: [madlords.com](https://www.madlords.com/collections/colliers-pour-femme).
 
-## Detailed analysis of the 4 designers
+## Detailed analysis of the 3 competing designers
 
 ### Mordekai: the baroque New York talisman
 
@@ -83,19 +84,7 @@ Three models available at Mad Lords in June 2026:
 - Interlocking Heart: **1,980 euros**
 - Rainbow Heart Slider: **6,545 euros**
 
-The entry ticket at 1,045 euros places Mordekai among the most accessible designers in the segment. The piece can be worn easily alone or layered.
-
-### A La Fine: contemporary enamel design
-
-A La Fine is a young French house founded in 2021. The central craft is **hand-painted enamel** on 18-karat gold, applied to contemporary forms (eyes, hearts, stylized flowers). The process requires 6 to 10 successive firings per piece.
-
-Three models available at Mad Lords in June 2026:
-
-- Shadow Eye Enamel Diamant: **2,125 euros**
-- Heart Cut Emerald: **2,250 euros**
-- Heliora Diamant: **2,325 euros**
-
-The tight range between 2,125 and 2,325 euros simplifies the purchase decision. The **A La Fine enamel necklace** positions itself in a niche previously thinly occupied, between classical fine jewelry and experimental designer pieces.
+The entry ticket at 1,045 euros places Mordekai in the mid-range of the segment. The piece can be worn easily alone or layered.
 
 ### Jacquie Aiche: Californian spirituality
 
@@ -107,34 +96,34 @@ The brand is particularly appreciated for its **spiritual pendants**, a topic de
 
 Pascale Monvoisin is a Parisian designer, trained in fashion before jewelry. She founded her brand in 2008 after a trip to Brazil that shaped her universe: fine threads, gris-gris, semi-precious stones, freshwater pearls. The gold used is mostly **9-karat**, which explains the low entry ticket (390 euros).
 
-She is the most accessible designer in the comparison, but also the most delicate. Pieces are worn as light opera chains or chokers, in a lifestyle rather than statement spirit. Lovers of poetic pieces will recognize a neighborhood with our [best bohemian pendants](/en/blog/best-bohemian-pendants/) selection.
+She is the most delicate signature in the comparison. Pieces are worn as light opera chains or chokers, in a lifestyle rather than statement spirit. Lovers of poetic pieces will recognize a neighborhood with our [best bohemian pendants](/en/blog/best-bohemian-pendants/) selection.
 
-## Which designer for which profile of original women's necklace
+## Which original women's necklace for which profile
 
 ### The collector who wants a signature piece
 
-**Recommendation: Mordekai or A La Fine.** These two designers offer a strong visual signature that is immediately recognizable. Mordekai for baroque boldness, A La Fine for graphic enamel design. Recommended budget: 1,800 to 2,500 euros for a central piece.
+**Recommendation: Mad Lords Collier Camille or Plume Collier.** These two pieces embody a strong, immediate visual signature, with high intrinsic value (18-karat gold, certified diamonds). Recommended budget: 5,000 to 6,500 euros for a central piece worn alone.
 
 ### The woman who layers daily
 
-**Recommendation: Jacquie Aiche.** The Californian universe is designed from the start for stacked wear. Investing in 2 or 3 necklaces of different lengths (40, 50 and 60 centimeters) creates an immediate effect. Total budget: 4,500 to 7,000 euros for a set.
+**Recommendation: Jacquie Aiche or Mad Lords iconic medals.** Jacquie Aiche's Californian universe is designed from the start for stacked wear. As a French alternative, Mad Lords' Elvis, Lennon or James Dean medals (310 to 620 euros) combine perfectly with a Plume Collier or an Efeso chain to create a rock-bohemian layering. Total budget: 1,000 to 7,000 euros for a set of 3.
 
 ### The first-time designer jewelry buyer
 
-**Recommendation: Pascale Monvoisin or Mordekai entry level.** The ticket between 390 and 1,045 euros allows testing the designer jewelry experience without major commitment. It is also a good option for a milestone gift, as detailed in our [women's pendant for a major life change](/en/blog/womens-pendant-major-life-change/) article.
+**Recommendation: Mad Lords iconic medals (310 euros) or Pascale Monvoisin (390 euros).** The ticket under 500 euros allows testing the designer jewelry experience without major commitment. It is also a good option for a milestone gift, as detailed in our [women's pendant for a major life change](/en/blog/womens-pendant-major-life-change/) article.
 
 ### The enthusiast who values meaning
 
-**Recommendation: Jacquie Aiche.** Spiritual symbols (chakras, protective eye, Hand of Fatima) carry a narrative charge that extends the piece. It is also the approach developed in our [portraits of creators reinventing jewelry](/en/blog/portraits-creators-reinventing-jewelry/).
+**Recommendation: Mad Lords or Jacquie Aiche.** Mad Lords' iconic medals (Elvis, Lennon, James Dean) carry an immediately identifiable pop-rock cultural charge. Jacquie Aiche's spiritual symbols (chakras, protective eye, Hand of Fatima) operate in a more mystical register. It is also the approach developed in our [portraits of creators reinventing jewelry](/en/blog/portraits-creators-reinventing-jewelry/).
 
 ## Practical tips for choosing an original women's necklace
 
-Three references structure a successful purchase. First reference: **always try on in store** before buying online. Mad Lords has a physical boutique on Rue Saint-Honore that allows comparing the four designers side by side. Second reference: check the gold karat (9, 14 or 18). A 9-karat gold necklace contains 37.5 percent pure gold, against 75 percent for 18-karat, which directly affects resale value. Third reference: request the central stone certificate (origin, treatment, certification) for purchases beyond 3,000 euros.
+Three references structure a successful purchase. First reference: **always try on in store** before buying online. Mad Lords has a physical boutique on Rue Saint-Honore that allows comparing the four signatures side by side. Second reference: check the gold karat (9, 14 or 18). A 9-karat gold necklace contains 37.5 percent pure gold, against 75 percent for 18-karat, which directly affects resale value. Third reference: request the central stone certificate (origin, treatment, certification) for purchases beyond 3,000 euros, particularly for the Mad Lords Collier Camille or set Mordekai pieces.
 
 ### Mistakes to avoid
 
-1. **Confusing original with flashy.** An original women's necklace is not necessarily voluminous. Pascale Monvoisin produces very discreet but immediately recognizable pieces.
-2. **Buying gold plating as a "trial".** Plating oxidizes in 18 to 36 months depending on thickness. A small solid gold necklace is better than a large plated piece.
+1. **Confusing original with flashy.** An original women's necklace is not necessarily voluminous. A Mad Lords iconic medal at 310 euros or a Pascale Monvoisin pendant are very discreet but immediately recognizable.
+2. **Buying gold plating as a "trial".** Plating oxidizes in 18 to 36 months depending on thickness. A small solid gold Mad Lords medal is better than a large plated piece.
 3. **Neglecting length.** The same pendant falls differently at 40, 45, 50 or 60 centimeters. Measure the ideal length before ordering, especially when buying online.
 
 ## Frequently asked questions
@@ -142,34 +131,34 @@ Three references structure a successful purchase. First reference: **always try 
 <details>
 <summary>What would you recommend as an original women's necklace?</summary>
 
-Four designers stand out in 2026 for an original women's necklace. Mordekai (New York) offers gemstone sliders starting at 1,045 euros, with a baroque talisman feel. A La Fine signs enamel and engraved necklaces between 2,125 and 2,325 euros, in a contemporary and accessible design. Jacquie Aiche (Los Angeles) builds a bohemian spiritual universe with chakras and turquoises, around 3,500 to 8,000 euros. Pascale Monvoisin (Paris) remains the reference for poetic French necklaces, between 400 and 2,500 euros. The Parisian house Mad Lords brings these four signatures together in a single selection, at its Rue Saint-Honore boutique and online.
+Four signatures stand out in 2026 for an original women's necklace. Mad Lords, the Parisian house founded in 2010, develops its own rock and bohemian-chic creations from 310 to 6,500 euros (Elvis medals, Plume Collier, Camille diamond heart). Mordekai (New York) offers gemstone sliders starting at 1,045 euros, with a baroque talisman feel. Jacquie Aiche (Los Angeles) builds a bohemian spiritual universe with chakras and turquoises, around 3,500 to 8,000 euros. Pascale Monvoisin (Paris) remains the reference for poetic French necklaces, between 400 and 2,500 euros.
 
 </details>
 
 <details>
 <summary>Which designer makes the best original women's necklace?</summary>
 
-The choice depends on the style you seek. Mordekai stands out for statement pieces with a visible central stone. A La Fine for a more graphic design at a mid-range budget. Jacquie Aiche for the Californian feel and layering culture. Pascale Monvoisin for the delicate French tone. Each of these four designers offers a distinct visual vocabulary, with no direct overlap.
+The choice depends on the style you seek. Mad Lords stands out for strongly symbolic pieces (iconic medals, feathers, hearts) with a very accessible entry ticket at 310 euros. Mordekai for statement pieces with a visible central stone. Jacquie Aiche for the Californian feel and layering culture. Pascale Monvoisin for the delicate French tone. Each of these four signatures offers a distinct visual vocabulary, with no direct overlap.
 
 </details>
 
 <details>
 <summary>How much does a designer original women's necklace cost?</summary>
 
-Entry-level designer necklaces start around 400 euros for Pascale Monvoisin's fine pieces. The mid-range runs from 1,045 euros (Mordekai Heart Slider Amethyst) to 2,325 euros (A La Fine Heliora Diamant). Statement pieces by international designers reach 6,545 euros (Mordekai Rainbow Heart Slider) and 16,975 euros (Duniya Green Tail Choker).
+Entry-level signed necklaces start at 310 euros for Mad Lords iconic medals (Elvis, Lennon, James Dean). The mid-range runs from 1,045 euros (Mordekai Heart Slider Amethyst) to 5,000 euros (Mad Lords Plume Collier). Statement pieces reach 6,500 euros (Mad Lords Collier Camille, diamonds) and 6,545 euros (Mordekai Rainbow Heart Slider).
 
 </details>
 
 <details>
 <summary>Where to buy a designer original women's necklace in Paris?</summary>
 
-Mad Lords, at 26 Rue Saint-Honore (1st arrondissement), brings together the four designers cited in this article and over 70 more signatures. The boutique allows comparing pieces in hand before purchase. The madlords.com website offers the same selection with shipping to France and internationally, plus a remote sizing service for custom necklaces.
+Mad Lords, at 26 Rue Saint-Honore (1st arrondissement), lets you discover the house's own creations (Plume Collier, Collier Camille, iconic medals) as well as the selection of designers cited in this article and more than 70 other signatures. The boutique allows comparing pieces in hand before purchase. The madlords.com website offers the same selection with shipping to France and internationally.
 
 </details>
 
 <details>
 <summary>Is a designer necklace a good investment?</summary>
 
-Yes for 18-karat gold pieces set with certified stones, which retain at least 50 to 60 percent of their value on the second-hand market according to jewelry aftermarket data (Boston Consulting Group 2026 report). No for gold plating and vermeil, which have no resale value. Prioritize limited editions and signed pieces, which appreciate better on the secondary market.
+Yes for 18-karat gold pieces set with certified stones, which retain at least 50 to 60 percent of their value on the second-hand market according to jewelry aftermarket data (Boston Consulting Group 2026 report). The Mad Lords Collier Camille (6,500 euros, certified diamonds) and Mordekai pieces fall into this category. No for gold plating and vermeil, which have no resale value. Prioritize limited editions and pieces signed on the back, which appreciate better on the secondary market.
 
 </details>
