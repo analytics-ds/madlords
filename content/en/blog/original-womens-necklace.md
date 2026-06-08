@@ -8,8 +8,8 @@ categories: ["Necklace"]
 tags: ["women's necklace", "designer jewelry", "original jewelry", "alternative fine jewelry", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/collier-femme-original.jpg"
-imageAlt: "Designer gold necklace with blue topaz briolette gemstone, example of original women's necklace"
-imageCredit: "Photo par Naomi King via Flickr (CC BY 2.0)"
+imageAlt: "Gold and diamond pendant in studio photography, example of contemporary original women's necklace"
+imageCredit: "Photo par Mauro Cateb via Flickr (CC BY 2.0)"
 faq:
   - question: "What would you recommend as an original women's necklace?"
     answer: "Four signatures stand out in 2026 for an original women's necklace. Mad Lords, the Parisian house founded in 2010, develops its own rock and bohemian-chic creations from 310 to 6,500 euros (Elvis medals, Plume Collier, Camille diamond heart). Mordekai (New York) offers gemstone sliders starting at 1,045 euros, with a baroque talisman feel. Jacquie Aiche (Los Angeles) builds a bohemian spiritual universe with chakras and turquoises, around 3,500 to 8,000 euros. Pascale Monvoisin (Paris) remains the reference for poetic French necklaces, between 400 and 2,500 euros."
