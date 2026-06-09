@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 24 (08/06/2026 - 14/06/2026)
+- 2026-06-09 | Alliance de mariage : histoire, symbole et choix (FR+EN) | Bague | auto
 - 2026-06-08 | Collier femme original : top 4 createurs et selection 2026 (FR+EN) | Collier
 
 ## Semaine 23 (01/06/2026 - 07/06/2026)

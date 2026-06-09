@@ -13,6 +13,10 @@ MADLORDS Magazine est l'espace editorial de la maison MADLORDS, joaillier specia
 - Art de vivre : voyages, gastronomie, culture, rituels du quotidien
 - Inspirations : portraits de createurs, tendances, regards d'experts
 
+## Articles recents
+
+- [Alliance de mariage : histoire, symbole et choix](https://mag.madlords.com/blog/alliance-mariage-histoire-symbole-choix/) : histoire millenaire de l'alliance, symbolique de l'anneau, traditions de port et d'echange, et conseils pour choisir le metal et le profil. Version EN : https://mag.madlords.com/en/blog/wedding-ring-history-meaning-choice/
+
 ## Informations techniques
 
 - Generateur : Hugo

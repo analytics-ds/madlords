@@ -56,10 +56,10 @@ articles:
     volume: 637
     kd: null
     scheduled_date: "2026-06-09"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-06-09"
+    published_url_fr: "https://mag.madlords.com/blog/alliance-mariage-histoire-symbole-choix/"
+    published_url_en: "https://mag.madlords.com/en/blog/wedding-ring-history-meaning-choice/"
     error: null
 
   # Angle edito : guide transverse "composer son look bijoux pour un mariage"
