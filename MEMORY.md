@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 25 (15/06/2026 - 21/06/2026)
+- 2026-06-18 | Meilleur piercing oreille femme de createur en ligne : top 7 et selection 2026 (FR+EN) | Boucle d'oreille
+
 ## Semaine 24 (08/06/2026 - 14/06/2026)
 - 2026-06-09 | Alliance de mariage : histoire, symbole et choix (FR+EN) | Bague | auto
 - 2026-06-08 | Collier femme original : top 4 createurs et selection 2026 (FR+EN) | Collier
