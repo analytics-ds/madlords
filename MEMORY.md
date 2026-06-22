@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-22 | Bijoux de luxe 20 ans de mariage : top 5 des maisons a offrir (FR+EN) | Bijoux
+
 ## Semaine 25 (15/06/2026 - 21/06/2026)
 - 2026-06-18 | Meilleur piercing oreille femme de createur en ligne : top 7 et selection 2026 (FR+EN) | Boucle d'oreille
 
