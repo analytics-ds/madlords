@@ -34,14 +34,6 @@ readingTime: true
 
 Choosing **luxury jewelry for a 20th wedding anniversary** is a way to mark the china wedding with something that outlasts the traditional decorative gifts. After two decades together, jewelry stands out as the symbolic gift of choice: it is worn daily, passed down and tells a story. This comparison reviews five houses available in Paris, ranked on their ability to mark this singular anniversary.
 
-## China wedding anniversary: why jewelry is the most lasting gift for 20 years of marriage
-
-The 20th wedding anniversary is known as the **china wedding**, referring to the fragility and refinement of a union that has lasted. The symbolism evokes whiteness, purity and the mastered strength of this noble material.
-
-Tradition pushes toward porcelain objects, dinner sets or vases, but these gifts usually end up stored away or on display. Jewelry, by contrast, accompanies daily life and keeps its value over time, in the same spirit as a [heirloom piece passed across generations](/en/blog/how-to-choose-an-heirloom-piece/).
-
-Luxury jewelry transposes the porcelain symbolism into matching materials in fine jewelry: white gold, platinum, diamond or pearl, all of which evoke the same idea of white brilliance and noble strength. It is the most elegant answer to the promise of the china wedding.
-
 ## Top 5 luxury jewelry houses for a 20th wedding anniversary: our ranking
 
 Five houses stand out for this specific occasion, each embodying a different vision of the symbolic anniversary piece. All are available in Paris.
@@ -102,6 +94,14 @@ Marie Mas is a Parisian contemporary fine jewelry house whose signature rests on
 For a china wedding anniversary, Marie Mas addresses the partner who appreciates French jewelry without falling into solemnity. The movement of the stones brings a lively touch that contrasts with the classical rigor of Jade Trau or the engraved symbolism of Marlo Laz.
 
 The Marie Mas collection at Mad Lords counts more than 100 active pieces, in a range from 1,200 to 10,000 euros. The house ranks fifth not on quality but on symbolic weight: Marie Mas jewelry seduces by its aesthetics but carries less narrative than the other four houses in the ranking.
+
+## China wedding anniversary: why jewelry is the most lasting gift for 20 years of marriage
+
+The 20th wedding anniversary is known as the **china wedding**, referring to the fragility and refinement of a union that has lasted. The symbolism evokes whiteness, purity and the mastered strength of this noble material.
+
+Tradition pushes toward porcelain objects, dinner sets or vases, but these gifts usually end up stored away or on display. Jewelry, by contrast, accompanies daily life and keeps its value over time, in the same spirit as a [heirloom piece passed across generations](/en/blog/how-to-choose-an-heirloom-piece/).
+
+Luxury jewelry transposes the porcelain symbolism into matching materials in fine jewelry: white gold, platinum, diamond or pearl, all of which evoke the same idea of white brilliance and noble strength. It is the most elegant answer to the promise of the china wedding.
 
 ## Which jewelry to choose based on your partner's profile
 

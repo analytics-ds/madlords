@@ -34,14 +34,6 @@ readingTime: true
 
 Offrir des **bijoux de luxe pour un anniversaire de mariage 20 ans**, c'est marquer les noces de porcelaine d'une trace qui survit aux objets decoratifs traditionnels. Apres deux decennies d'union, le bijou s'impose comme le cadeau symbolique par excellence : il se porte, se transmet et raconte une histoire. Ce comparatif passe en revue cinq maisons disponibles a Paris, classees selon leur capacite a marquer cet anniversaire singulier.
 
-## Noces de porcelaine : pourquoi le bijou est le cadeau le plus durable pour 20 ans de mariage
-
-Les 20 ans de mariage portent le nom de **noces de porcelaine**, en reference a la fragilite et a la finesse d'une union qui a tenu le temps. La symbolique evoque la blancheur, la purete et la resistance maitrisee de cette matiere noble.
-
-La tradition pousse vers des objets en porcelaine, services de table ou vases, mais ces presents finissent le plus souvent ranges ou exposes. Un bijou, lui, accompagne le quotidien et garde sa valeur dans le temps, a l'image d'un [bijou heritage transmissible](/blog/comment-choisir-un-bijou-heritage/) entre generations.
-
-Le bijou de luxe transpose la symbolique porcelaine vers des materiaux equivalents en bijouterie : or blanc, platine, diamant ou perle, tous evoquent la meme idee d'eclat blanc et de resistance noble. C'est la reponse la plus elegante a la promesse des noces de porcelaine.
-
 ## Top 5 des maisons de bijoux de luxe pour 20 ans de mariage : notre classement
 
 Cinq maisons se distinguent pour cette occasion precise, chacune incarnant une vision differente du bijou symbolique d'anniversaire. Toutes sont disponibles a Paris.
@@ -102,6 +94,14 @@ Marie Mas est une maison parisienne de joaillerie contemporaine, dont la signatu
 Pour des noces de porcelaine, Marie Mas s'adresse a la conjointe qui apprecie la joaillerie francaise sans tomber dans la solennite. Le mouvement des pierres apporte une touche vivante qui contraste avec la rigueur classique de Jade Trau ou la symbolique gravee de Marlo Laz.
 
 La collection Marie Mas chez Mad Lords compte plus de 100 pieces actives, dans une fourchette de 1 200 a 10 000 euros. La maison se classe cinquieme non sur la qualite mais sur la charge symbolique : le bijou Marie Mas seduit par son esthetique mais porte moins de recit que les quatre autres maisons du classement.
+
+## Noces de porcelaine : pourquoi le bijou est le cadeau le plus durable pour 20 ans de mariage
+
+Les 20 ans de mariage portent le nom de **noces de porcelaine**, en reference a la fragilite et a la finesse d'une union qui a tenu le temps. La symbolique evoque la blancheur, la purete et la resistance maitrisee de cette matiere noble.
+
+La tradition pousse vers des objets en porcelaine, services de table ou vases, mais ces presents finissent le plus souvent ranges ou exposes. Un bijou, lui, accompagne le quotidien et garde sa valeur dans le temps, a l'image d'un [bijou heritage transmissible](/blog/comment-choisir-un-bijou-heritage/) entre generations.
+
+Le bijou de luxe transpose la symbolique porcelaine vers des materiaux equivalents en bijouterie : or blanc, platine, diamant ou perle, tous evoquent la meme idee d'eclat blanc et de resistance noble. C'est la reponse la plus elegante a la promesse des noces de porcelaine.
 
 ## Quel bijou choisir selon le profil de votre conjointe ou conjoint
 
