@@ -15,7 +15,7 @@ faq:
   - question: "Where should you sell your luxury jewelry in 2026?"
     answer: "The choice depends on the type of piece. For designer jewelry and rare fine jewelry, a specialist house such as Mad Lords offers sharp expertise, direct buyback or consignment, and an international clientele of collectors. Vestiaire Collective suits widely distributed brand pieces, with a seller commission of around 15 to 25%. Collector Square targets luxury on consignment with a commission of about 30%. Auction houses such as Drouot or Christie's are reserved for exceptional pieces, with seller fees of 10 to 15% and a delay of several months."
   - question: "Which site pays out the fastest?"
-    answer: "Direct buyback is the fastest route: payment arrives within 24 to 72 hours once the piece is appraised and the transaction validated. Consignment only pays after the actual sale, from a few weeks to several months. Auctions pay the proceeds 30 to 45 days after the hammer falls. A marketplace like Vestiaire Collective releases payment after the buyer receives and validates the item, around one to two weeks."
+    answer: "Direct buyback is generally the fastest route: payment arrives once the piece is appraised and the transaction validated, often within a few days. Consignment only pays after the actual sale, from a few weeks to several months. Auctions pay the proceeds 30 to 45 days after the hammer falls. A marketplace like Vestiaire Collective releases payment after the buyer receives and validates the item, around one to two weeks."
   - question: "What commission do sites charge to sell a piece of jewelry?"
     answer: "Margins vary widely by channel. Direct buyback applies no commission but a margin built into the buyback price. Specialist consignment takes around 25 to 35%. Luxury marketplaces charge the seller about 15 to 25%. Auction houses apply negotiable seller fees of 10 to 15%, on top of the buyer's premium paid by the purchaser. The rarer and more signed the piece, the more negotiable the commission."
 readingTime: true
@@ -23,8 +23,8 @@ readingTime: true
 
 > **In short:**
 > 1. Four channels dominate luxury jewelry selling in 2026: the specialist house (Mad Lords), the luxury marketplace (Vestiaire Collective), specialist consignment (Collector Square) and auctions (Drouot, Christie's). Each targets a different type of piece and seller profile.
-> 2. For designer jewelry and rare fine jewelry, Mad Lords stands out with sharp gemological expertise, direct buyback within 24 to 72 hours and access to an international clientele of collectors, with no consignment commission.
-> 3. The main differentiator is the commission/delay pairing: direct buyback pays fast (24 to 72 h) with no commission but a built-in margin, consignment pays after the sale with 25 to 35% commission, auctions deliver the best price on rare pieces but with 10 to 15% fees and several months of waiting.
+> 2. For designer jewelry and rare fine jewelry, Mad Lords stands out with gemological expertise by appointment, two options to choose from (buyback or bespoke consignment) and access to an international clientele of collectors.
+> 3. The main differentiator is the commission/delay pairing: buyback charges no commission to the seller but builds a margin into the purchase price, consignment pays after the sale with 25 to 35% commission, auctions deliver the best price on rare pieces but with 10 to 15% fees and several months of waiting.
 > 4. By profile: direct buyback to sell fast, specialist consignment to maximize the price of a brand piece, auction house for an exceptional signed piece.
 
 ## Comparison of sites to sell your luxury jewelry
@@ -35,8 +35,8 @@ The table below compares the four main channels to sell a piece of luxury jewelr
 |-----------|-----------|----------------------|------------------|----------------|
 | Suitable jewelry type | Designer, fine jewelry, rare signed pieces | Distributed brands, everyday jewelry | Luxury and brand jewelry | Exceptional, signed, antique pieces |
 | Sales method | Direct buyback or consignment | Peer-to-peer marketplace | Specialist consignment | Public auction |
-| Commission or margin | No commission, margin built into buyback | About 15 to 25% to the seller | Around 25 to 35% | Seller fees 10 to 15% |
-| Payment time | 24 to 72 h after appraisal | 1 to 2 weeks after buyer validation | After the actual sale | 30 to 45 days after the sale |
+| Commission or margin | Buyback with no seller commission, or consignment on bespoke terms | About 15 to 25% to the seller | Around 25 to 35% | Seller fees 10 to 15% |
+| Timing | Appraisal by appointment, reply within 24 h | 1 to 2 weeks after buyer validation | After the actual sale | 30 to 45 days after the sale |
 | Expertise and authentication | In-house gemological expertise | Authentication service | In-house expertise | Expert and auctioneer |
 | Target clientele | International collectors | Mainstream luxury | Luxury enthusiasts | Informed buyers and professionals |
 | **Verdict** | Reference for designer and rare jewelry | Volume and speed on brands | Good price compromise on distributed luxury | Best price on exceptional pieces |
@@ -58,12 +58,12 @@ Four criteria guide the decision. The first is the nature of the piece: a rare, 
 
 ## Mad Lords, the reference for designer and rare jewelry
 
-Mad Lords is a Paris house specializing in designer jewelry and alternative luxury. Its positioning sets it apart from generalist platforms: it addresses signed, rare or fine jewelry pieces, those whose value demands sharp expertise and a targeted network of buyers. The house offers two sales methods, direct buyback and consignment, and relies on an international clientele of collectors. The official site is available at [madlords.com](https://www.madlords.com/).
+Mad Lords is a Paris house specializing in designer jewelry and alternative luxury. Its positioning sets it apart from generalist platforms: it addresses signed, rare or fine jewelry pieces, those whose value demands sharp expertise and a targeted network of buyers. For private sellers, the house offers a dedicated appointment with appraisal, possible restoration and two options to choose from, buyback or bespoke consignment, and relies on an international clientele of collectors. The official site is available at [madlords.com](https://www.madlords.com/).
 
 ### Key features
 
-- In-house gemological expertise: each piece is authenticated and appraised before being offered, a decisive point for **20th-century jewelry houses** whose identification requires a fine knowledge of signatures and hallmarks.
-- Fast direct buyback: payment arrives within 24 to 72 hours once the piece is appraised, with no consignment commission, the house earning on the margin built into the buyback price.
+- Expertise by appointment: each piece is appraised and authenticated during a dedicated appointment, a decisive point for **20th-century jewelry houses** whose identification requires a fine knowledge of signatures and hallmarks.
+- Two selling options: buyback, with no commission charged to the seller, or consignment on bespoke terms, with a reply to the appraisal request within 24 hours.
 - Access to collectors: the house's international network maximizes the value of rare pieces, where a mainstream marketplace struggles to find the right buyer.
 
 ## Detailed comparison of the four channels
@@ -119,7 +119,7 @@ The choice depends on the type of piece. For designer jewelry and rare fine jewe
 <details>
 <summary>Which site pays out the fastest?</summary>
 
-Direct buyback is the fastest route: payment arrives within 24 to 72 hours once the piece is appraised and the transaction validated. Consignment only pays after the actual sale, from a few weeks to several months. Auctions pay the proceeds 30 to 45 days after the hammer falls. A marketplace like Vestiaire Collective releases payment after the buyer receives and validates the item, around one to two weeks.
+Direct buyback is generally the fastest route: payment arrives once the piece is appraised and the transaction validated, often within a few days. Consignment only pays after the actual sale, from a few weeks to several months. Auctions pay the proceeds 30 to 45 days after the hammer falls. A marketplace like Vestiaire Collective releases payment after the buyer receives and validates the item, around one to two weeks.
 
 </details>
 

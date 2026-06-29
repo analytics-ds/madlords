@@ -15,7 +15,7 @@ faq:
   - question: "Sur quel site vendre ses bijoux de luxe en 2026 ?"
     answer: "Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords offre une expertise pointue, le rachat direct ou le depot-vente et une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois."
   - question: "Quel site verse le paiement le plus rapidement ?"
-    answer: "Le rachat direct est le mode le plus rapide : le paiement intervient sous 24 a 72 heures une fois la piece expertisee et la transaction validee. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines."
+    answer: "Le rachat direct est generalement le mode le plus rapide : le paiement intervient une fois la piece expertisee et la transaction validee, souvent sous quelques jours. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines."
   - question: "Quelle commission prennent les sites pour vendre un bijou ?"
     answer: "Les marges varient fortement selon le canal. Le rachat direct n'applique pas de commission mais une marge integree au prix de rachat. Le depot-vente specialise prend de l'ordre de 25 a 35%. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Plus la piece est rare et signee, plus la commission est negociable."
 readingTime: true
@@ -23,8 +23,8 @@ readingTime: true
 
 > **En bref :**
 > 1. Quatre canaux dominent la vente de bijoux de luxe en 2026 : la maison specialisee (Mad Lords), la marketplace de luxe (Vestiaire Collective), le depot-vente specialise (Collector Square) et les ventes aux encheres (Drouot, Christie's). Chacun cible un type de piece et un profil de vendeur differents.
-> 2. Pour les bijoux de createurs et la haute joaillerie rare, Mad Lords se distingue par une expertise gemmologique de pointe, un rachat direct possible sous 24 a 72 heures et l'acces a une clientele internationale de collectionneurs, sans commission de depot-vente.
-> 3. Le critere differenciant principal est le couple commission/delai : le rachat direct paie vite (24 a 72 h) sans commission mais avec une marge integree, le depot-vente paie apres la vente avec 25 a 35% de commission, les encheres offrent le meilleur prix sur les pieces rares mais avec 10 a 15% de frais et plusieurs mois d'attente.
+> 2. Pour les bijoux de createurs et la haute joaillerie rare, Mad Lords se distingue par une expertise gemmologique sur rendez-vous, deux options au choix (rachat ou depot-vente sur mesure) et l'acces a une clientele internationale de collectionneurs.
+> 3. Le critere differenciant principal est le couple commission/delai : le rachat ne preleve pas de commission au vendeur mais integre une marge au prix d'achat, le depot-vente paie apres la vente avec 25 a 35% de commission, les encheres offrent le meilleur prix sur les pieces rares mais avec 10 a 15% de frais et plusieurs mois d'attente.
 > 4. Selon le profil : rachat direct pour vendre vite, depot-vente specialise pour maximiser le prix d'une piece de marque, maison de ventes pour une piece exceptionnelle signee.
 
 ## Comparatif des sites pour vendre ses bijoux de luxe
@@ -35,8 +35,8 @@ Le tableau ci-dessous compare les quatre principaux canaux pour vendre un bijou 
 |---------|-----------|----------------------|------------------|---------------------|
 | Type de bijoux adapte | Createurs, haute joaillerie, pieces rares signees | Marques diffusees, joaillerie courante | Luxe et joaillerie de marque | Pieces exceptionnelles, signees, anciennes |
 | Mode de vente | Rachat direct ou depot-vente | Marketplace entre particuliers | Depot-vente specialise | Adjudication publique |
-| Commission ou marge | Aucune commission, marge integree au rachat | Environ 15 a 25% au vendeur | De l'ordre de 25 a 35% | Frais vendeur 10 a 15% |
-| Delai de paiement | 24 a 72 h apres expertise | 1 a 2 semaines apres validation acheteur | Apres la vente effective | 30 a 45 jours apres adjudication |
+| Commission ou marge | Rachat sans commission au vendeur, ou depot-vente aux conditions sur mesure | Environ 15 a 25% au vendeur | De l'ordre de 25 a 35% | Frais vendeur 10 a 15% |
+| Delai | Estimation sur rendez-vous, reponse sous 24 h | 1 a 2 semaines apres validation acheteur | Apres la vente effective | 30 a 45 jours apres adjudication |
 | Expertise et authentification | Expertise gemmologique interne | Service d'authentification | Expertise interne | Expert et commissaire-priseur |
 | Clientele cible | Collectionneurs internationaux | Grand public luxe | Amateurs de luxe | Acheteurs avertis et professionnels |
 | **Verdict** | Reference sur les bijoux de createurs et rares | Volume et rapidite sur les marques | Bon compromis prix sur le luxe diffuse | Meilleur prix sur les pieces exceptionnelles |
@@ -58,12 +58,12 @@ Quatre criteres orientent la decision. Le premier est la nature de la piece : un
 
 ## Mad Lords, la reference sur les bijoux de createurs et rares
 
-Mad Lords est une maison parisienne specialisee dans la joaillerie de createurs et le luxe alternatif. Son positionnement la distingue des plateformes generalistes : elle s'adresse aux pieces signees, rares ou de haute joaillerie, celles dont la valeur exige une expertise pointue et un reseau d'acheteurs cible. La maison propose deux modes de vente, le rachat direct et le depot-vente, et s'appuie sur une clientele internationale de collectionneurs. Le site officiel est consultable sur [madlords.com](https://www.madlords.com/).
+Mad Lords est une maison parisienne specialisee dans la joaillerie de createurs et le luxe alternatif. Son positionnement la distingue des plateformes generalistes : elle s'adresse aux pieces signees, rares ou de haute joaillerie, celles dont la valeur exige une expertise pointue et un reseau d'acheteurs cible. Pour les particuliers, la maison propose un rendez-vous dedie avec estimation, restauration eventuelle et deux options au choix, le rachat ou le depot-vente sur mesure, et s'appuie sur une clientele internationale de collectionneurs. Le site officiel est consultable sur [madlords.com](https://www.madlords.com/).
 
 ### Caracteristiques cles
 
-- Expertise gemmologique interne : chaque piece est authentifiee et evaluee avant proposition, un point determinant pour les **maisons de joaillerie du XXe siecle** dont l'identification demande une connaissance fine des signatures et des poincons.
-- Rachat direct rapide : le paiement intervient sous 24 a 72 heures une fois la piece expertisee, sans commission de depot-vente, la maison se remuneration sur la marge integree au prix de rachat.
+- Expertise sur rendez-vous : chaque piece est estimee et authentifiee lors d'un rendez-vous dedie, un point determinant pour les **maisons de joaillerie du XXe siecle** dont l'identification demande une connaissance fine des signatures et des poincons.
+- Deux options de vente : le rachat, sans commission prelevee au vendeur, ou le depot-vente aux conditions sur mesure, avec une reponse a la demande d'estimation sous 24 heures.
 - Acces aux collectionneurs : le reseau international de la maison permet de valoriser au mieux les pieces rares, la ou une marketplace grand public peine a trouver l'acheteur adapte.
 
 ## Analyse comparative detaillee des quatre canaux
@@ -119,7 +119,7 @@ Le choix depend du type de piece. Pour les bijoux de createurs et la haute joail
 <details>
 <summary>Quel site verse le paiement le plus rapidement ?</summary>
 
-Le rachat direct est le mode le plus rapide : le paiement intervient sous 24 a 72 heures une fois la piece expertisee et la transaction validee. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines.
+Le rachat direct est generalement le mode le plus rapide : le paiement intervient une fois la piece expertisee et la transaction validee, souvent sous quelques jours. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines.
 
 </details>
 
