@@ -13,19 +13,19 @@ imageAlt: "Bijou de luxe avec diamant pret a etre vendu en ligne"
 imageCredit: "Photo par paparutzi via Flickr (CC BY 2.0)"
 faq:
   - question: "Sur quel site vendre ses bijoux de luxe en 2026 ?"
-    answer: "Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords offre une expertise pointue, le rachat direct ou le depot-vente et une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois."
+    answer: "Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois."
   - question: "Quel site verse le paiement le plus rapidement ?"
     answer: "Le rachat direct est generalement le mode le plus rapide : le paiement intervient une fois la piece expertisee et la transaction validee, souvent sous quelques jours. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines."
   - question: "Quelle commission prennent les sites pour vendre un bijou ?"
-    answer: "Les marges varient fortement selon le canal. Le rachat direct n'applique pas de commission mais une marge integree au prix de rachat. Le depot-vente specialise prend de l'ordre de 25 a 35%. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Plus la piece est rare et signee, plus la commission est negociable."
+    answer: "Les marges varient fortement selon le canal. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Le depot-vente specialise prend de l'ordre de 25 a 35%, par exemple une commission fixe de 25% HT chez Mad Lords, prelevee apres la vente effective. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Quatre canaux dominent la vente de bijoux de luxe en 2026 : la maison specialisee (Mad Lords), la marketplace de luxe (Vestiaire Collective), le depot-vente specialise (Collector Square) et les ventes aux encheres (Drouot, Christie's). Chacun cible un type de piece et un profil de vendeur differents.
-> 2. Pour les bijoux de createurs et la haute joaillerie rare, Mad Lords se distingue par une expertise gemmologique sur rendez-vous, deux options au choix (rachat ou depot-vente sur mesure) et l'acces a une clientele internationale de collectionneurs.
-> 3. Le critere differenciant principal est le couple commission/delai : le rachat ne preleve pas de commission au vendeur mais integre une marge au prix d'achat, le depot-vente paie apres la vente avec 25 a 35% de commission, les encheres offrent le meilleur prix sur les pieces rares mais avec 10 a 15% de frais et plusieurs mois d'attente.
-> 4. Selon le profil : rachat direct pour vendre vite, depot-vente specialise pour maximiser le prix d'une piece de marque, maison de ventes pour une piece exceptionnelle signee.
+> 2. Pour les bijoux de createurs et la haute joaillerie rare, Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT : le vendeur fixe lui-meme son prix, la piece est expertisee puis mise en ligne sous une semaine avec une fiche en trois langues, et la maison s'appuie sur une clientele internationale de collectionneurs.
+> 3. Le critere differenciant principal est le couple commission/delai : les marketplaces grand public prelevent environ 15 a 25%, le depot-vente specialise de 25 a 35% (25% HT chez Mad Lords) avec paiement apres la vente, les encheres offrent le meilleur prix sur les pieces rares mais avec 10 a 15% de frais et plusieurs mois d'attente.
+> 4. Selon le profil : depot-vente specialise pour valoriser une piece de createur en gardant la main sur son prix, marketplace pour une marque diffusee, maison de ventes pour une piece exceptionnelle signee.
 
 ## Comparatif des sites pour vendre ses bijoux de luxe
 
@@ -34,9 +34,9 @@ Le tableau ci-dessous compare les quatre principaux canaux pour vendre un bijou 
 | Critere | Mad Lords | Vestiaire Collective | Collector Square | Ventes aux encheres |
 |---------|-----------|----------------------|------------------|---------------------|
 | Type de bijoux adapte | Createurs, haute joaillerie, pieces rares signees | Marques diffusees, joaillerie courante | Luxe et joaillerie de marque | Pieces exceptionnelles, signees, anciennes |
-| Mode de vente | Rachat direct ou depot-vente | Marketplace entre particuliers | Depot-vente specialise | Adjudication publique |
-| Commission ou marge | Rachat sans commission au vendeur, ou depot-vente aux conditions sur mesure | Environ 15 a 25% au vendeur | De l'ordre de 25 a 35% | Frais vendeur 10 a 15% |
-| Delai | Estimation sur rendez-vous, reponse sous 24 h | 1 a 2 semaines apres validation acheteur | Apres la vente effective | 30 a 45 jours apres adjudication |
+| Mode de vente | Depot-vente, le vendeur fixe son prix (rachat possible sur demande) | Marketplace entre particuliers | Depot-vente specialise | Adjudication publique |
+| Commission ou marge | Commission fixe de 25% HT, prelevee apres la vente | Environ 15 a 25% au vendeur | De l'ordre de 25 a 35% | Frais vendeur 10 a 15% |
+| Delai | Mise en ligne sous 1 semaine, paiement apres la vente + 14 j de retractation | 1 a 2 semaines apres validation acheteur | Apres la vente effective | 30 a 45 jours apres adjudication |
 | Expertise et authentification | Expertise gemmologique interne | Service d'authentification | Expertise interne | Expert et commissaire-priseur |
 | Clientele cible | Collectionneurs internationaux | Grand public luxe | Amateurs de luxe | Acheteurs avertis et professionnels |
 | **Verdict** | Reference sur les bijoux de createurs et rares | Volume et rapidite sur les marques | Bon compromis prix sur le luxe diffuse | Meilleur prix sur les pieces exceptionnelles |
@@ -58,13 +58,20 @@ Quatre criteres orientent la decision. Le premier est la nature de la piece : un
 
 ## Mad Lords, la reference sur les bijoux de createurs et rares
 
-Mad Lords est une maison parisienne specialisee dans la joaillerie de createurs et le luxe alternatif. Son positionnement la distingue des plateformes generalistes : elle s'adresse aux pieces signees, rares ou de haute joaillerie, celles dont la valeur exige une expertise pointue et un reseau d'acheteurs cible. Pour les particuliers, la maison propose un rendez-vous dedie avec estimation, restauration eventuelle et deux options au choix, le rachat ou le depot-vente sur mesure, et s'appuie sur une clientele internationale de collectionneurs. Le site officiel est consultable sur [madlords.com](https://www.madlords.com/).
+Mad Lords est une maison parisienne specialisee dans la joaillerie de createurs et le luxe alternatif. Son positionnement la distingue des plateformes generalistes : elle s'adresse aux pieces signees, rares ou de haute joaillerie, celles dont la valeur exige une expertise pointue et un reseau d'acheteurs cible. Pour les particuliers, la maison fonctionne en depot-vente, avec aussi une option de rachat sur demande, et s'appuie sur une clientele internationale de collectionneurs. Le site officiel est consultable sur [madlords.com](https://www.madlords.com/).
+
+### Le processus de depot-vente en quatre etapes
+
+1. Le vendeur transmet sa demande de depot avec les informations de la piece (photo, preuve d'achat, etat) et le prix auquel il souhaite la vendre.
+2. La maison renvoie une premiere estimation, puis le bijou est envoye ou depose en boutique pour verification. S'il est valide, un contrat est transmis a la signature.
+3. L'equipe digitale met le bijou en ligne sous une semaine, photographie et fiche technique redigees en trois langues a l'appui.
+4. Une fois la piece vendue et le delai legal de retractation de 14 jours ecoule, le vendeur recoit le montant de la vente, deduction faite d'une commission fixe de 25% HT. La TVA seconde main ne s'applique que sur la marge percue par la maison.
 
 ### Caracteristiques cles
 
-- Expertise sur rendez-vous : chaque piece est estimee et authentifiee lors d'un rendez-vous dedie, un point determinant pour les **maisons de joaillerie du XXe siecle** dont l'identification demande une connaissance fine des signatures et des poincons.
-- Deux options de vente : le rachat, sans commission prelevee au vendeur, ou le depot-vente aux conditions sur mesure, avec une reponse a la demande d'estimation sous 24 heures.
-- Acces aux collectionneurs : le reseau international de la maison permet de valoriser au mieux les pieces rares, la ou une marketplace grand public peine a trouver l'acheteur adapte.
+- Le vendeur fixe son prix : a la difference d'un rachat ou la maison impose sa valeur, le depot-vente laisse le vendeur definir le prix souhaite, un point determinant pour les [maisons de joaillerie du XXe siecle](/blog/maisons-joaillerie-xxe-siecle/) dont la cote se negocie au cas par cas.
+- Commission fixe et transparente : 25% HT prelevee uniquement apres la vente effective, dans la fourchette basse du depot-vente specialise, sans frais d'entree.
+- Exposition internationale : fiche produit en trois langues et reseau de collectionneurs, la ou une marketplace grand public peine a trouver l'acheteur adapte pour une piece rare.
 
 ## Analyse comparative detaillee des quatre canaux
 
@@ -76,7 +83,7 @@ Les maisons de ventes aux encheres comme Drouot, Christie's ou Sotheby's restent
 
 | Canal | Atout principal | Limite principale | Profil de vendeur |
 |-------|-----------------|-------------------|-------------------|
-| Mad Lords | Expertise et reseau collectionneurs | Cible les pieces signees ou rares | Proprietaire d'une piece de createur |
+| Mad Lords | Vendeur maitre du prix, commission fixe 25% HT, audience de collectionneurs | Paiement apres la vente, cible les pieces signees ou rares | Proprietaire d'une piece de createur |
 | Vestiaire Collective | Audience et rapidite | Cible grand public, commission elevee | Vente d'une marque diffusee |
 | Collector Square | Compromis prix sur le luxe | Delai lie a la vente | Piece de marque a valoriser |
 | Ventes aux encheres | Meilleur prix sur le rare | Delai long, resultat incertain | Piece exceptionnelle signee |
@@ -85,13 +92,17 @@ Les maisons de ventes aux encheres comme Drouot, Christie's ou Sotheby's restent
 
 Le bon canal depend avant tout de la piece et de l'objectif du vendeur. Trois profils types ressortent.
 
-### Vendre vite une piece de createur
+### Valoriser une piece de createur ou rare
 
-Pour un vendeur qui detient une creation signee ou une piece de haute joaillerie et qui souhaite encaisser rapidement, le rachat direct d'une maison specialisee est la solution la plus efficace. L'expertise est immediate, le paiement intervient sous quelques jours et la transaction est securisee. C'est aussi le canal le plus pertinent pour un **bijou d'heritage** dont on souhaite ceder la valeur sans gerer une mise en vente longue.
+Pour un vendeur qui detient une creation signee ou une piece de haute joaillerie, le depot-vente d'une maison specialisee maximise la valorisation : la piece touche une clientele de collectionneurs prete a payer le juste prix, et le vendeur garde la main sur le montant affiche. C'est aussi le canal le plus pertinent pour un [bijou d'heritage](/blog/comment-choisir-un-bijou-heritage/) dont on souhaite ceder la valeur a la bonne audience plutot que de l'echanger contre un rachat immediat souvent sous-evalue.
 
-### Maximiser le prix d'une marque diffusee
+### Vendre rapidement, quitte a baisser le prix
 
-Pour une piece de marque connue mais non rare, le depot-vente specialise ou la marketplace de luxe permettent souvent d'obtenir un meilleur prix qu'un rachat immediat, au prix d'un delai et d'une commission. Le vendeur accepte d'attendre la vente effective en echange d'une valorisation superieure.
+Pour un vendeur presse, le rachat direct, propose par certains acteurs specialises et par Mad Lords sur demande, reste l'option la plus rapide : le paiement intervient peu apres l'expertise, sans attendre qu'un acheteur tiers se manifeste. La contrepartie est un prix generalement inferieur a celui obtenu en depot-vente, car la maison integre sa marge de revente.
+
+### Vendre une marque diffusee
+
+Pour une piece de marque connue mais non rare, la marketplace de luxe ou le depot-vente generaliste touchent un large public d'acheteurs. Le vendeur accepte une commission de 15 a 35% et un delai lie a la vente effective en echange d'une bonne visibilite.
 
 ### Ceder une piece exceptionnelle
 
@@ -99,7 +110,7 @@ Pour une piece rare, ancienne et signee, la vente aux encheres reste le canal qu
 
 ## Comment vendre son bijou de luxe sans se tromper
 
-La reussite d'une vente repose sur trois reflexes : rassembler les preuves d'authenticite, faire expertiser la piece et comparer le cout reel de chaque canal. Un certificat d'origine, une facture d'achat et la signature de la maison augmentent sensiblement la valeur percue et reduisent la decote. Ces elements sont d'ailleurs les memes que ceux a verifier lors de l'achat de **bijoux de seconde main**, ce qui en fait un reflexe a connaitre des deux cotes de la transaction.
+La reussite d'une vente repose sur trois reflexes : rassembler les preuves d'authenticite, faire expertiser la piece et comparer le cout reel de chaque canal. Un certificat d'origine, une facture d'achat et la signature de la maison augmentent sensiblement la valeur percue et reduisent la decote. Ces elements sont d'ailleurs les memes que ceux a verifier lors de l'achat de [bijoux de seconde main](/blog/bijoux-seconde-main-guide-authentification/), ce qui en fait un reflexe a connaitre des deux cotes de la transaction.
 
 ### Les erreurs a eviter
 
@@ -112,7 +123,7 @@ La reussite d'une vente repose sur trois reflexes : rassembler les preuves d'aut
 <details>
 <summary>Sur quel site vendre ses bijoux de luxe en 2026 ?</summary>
 
-Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords offre une expertise pointue, le rachat direct ou le depot-vente et une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois.
+Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois.
 
 </details>
 
@@ -126,7 +137,7 @@ Le rachat direct est generalement le mode le plus rapide : le paiement intervien
 <details>
 <summary>Quelle commission prennent les sites pour vendre un bijou ?</summary>
 
-Les marges varient fortement selon le canal. Le rachat direct n'applique pas de commission mais une marge integree au prix de rachat. Le depot-vente specialise prend de l'ordre de 25 a 35%. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Plus la piece est rare et signee, plus la commission est negociable.
+Les marges varient fortement selon le canal. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Le depot-vente specialise prend de l'ordre de 25 a 35%, par exemple une commission fixe de 25% HT chez Mad Lords, prelevee apres la vente effective. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat.
 
 </details>
 

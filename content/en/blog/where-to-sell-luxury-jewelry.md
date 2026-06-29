@@ -13,19 +13,19 @@ imageAlt: "Luxury diamond jewelry ready to be sold online"
 imageCredit: "Photo par paparutzi via Flickr (CC BY 2.0)"
 faq:
   - question: "Where should you sell your luxury jewelry in 2026?"
-    answer: "The choice depends on the type of piece. For designer jewelry and rare fine jewelry, a specialist house such as Mad Lords offers sharp expertise, direct buyback or consignment, and an international clientele of collectors. Vestiaire Collective suits widely distributed brand pieces, with a seller commission of around 15 to 25%. Collector Square targets luxury on consignment with a commission of about 30%. Auction houses such as Drouot or Christie's are reserved for exceptional pieces, with seller fees of 10 to 15% and a delay of several months."
+    answer: "The choice depends on the type of piece. For designer jewelry and rare fine jewelry, a specialist house such as Mad Lords operates on consignment with a fixed 25% commission (excl. VAT), the seller setting the price, and relies on an international clientele of collectors. Vestiaire Collective suits widely distributed brand pieces, with a seller commission of around 15 to 25%. Collector Square targets luxury on consignment with a commission of about 30%. Auction houses such as Drouot or Christie's are reserved for exceptional pieces, with seller fees of 10 to 15% and a delay of several months."
   - question: "Which site pays out the fastest?"
     answer: "Direct buyback is generally the fastest route: payment arrives once the piece is appraised and the transaction validated, often within a few days. Consignment only pays after the actual sale, from a few weeks to several months. Auctions pay the proceeds 30 to 45 days after the hammer falls. A marketplace like Vestiaire Collective releases payment after the buyer receives and validates the item, around one to two weeks."
   - question: "What commission do sites charge to sell a piece of jewelry?"
-    answer: "Margins vary widely by channel. Direct buyback applies no commission but a margin built into the buyback price. Specialist consignment takes around 25 to 35%. Luxury marketplaces charge the seller about 15 to 25%. Auction houses apply negotiable seller fees of 10 to 15%, on top of the buyer's premium paid by the purchaser. The rarer and more signed the piece, the more negotiable the commission."
+    answer: "Margins vary widely by channel. Luxury marketplaces charge the seller about 15 to 25%. Specialist consignment takes around 25 to 35%, for example a fixed 25% commission (excl. VAT) at Mad Lords, charged after the actual sale. Auction houses apply negotiable seller fees of 10 to 15%, on top of the buyer's premium paid by the purchaser. Direct buyback, for its part, applies no commission but builds a margin into the purchase price."
 readingTime: true
 ---
 
 > **In short:**
 > 1. Four channels dominate luxury jewelry selling in 2026: the specialist house (Mad Lords), the luxury marketplace (Vestiaire Collective), specialist consignment (Collector Square) and auctions (Drouot, Christie's). Each targets a different type of piece and seller profile.
-> 2. For designer jewelry and rare fine jewelry, Mad Lords stands out with gemological expertise by appointment, two options to choose from (buyback or bespoke consignment) and access to an international clientele of collectors.
-> 3. The main differentiator is the commission/delay pairing: buyback charges no commission to the seller but builds a margin into the purchase price, consignment pays after the sale with 25 to 35% commission, auctions deliver the best price on rare pieces but with 10 to 15% fees and several months of waiting.
-> 4. By profile: direct buyback to sell fast, specialist consignment to maximize the price of a brand piece, auction house for an exceptional signed piece.
+> 2. For designer jewelry and rare fine jewelry, Mad Lords operates on consignment with a fixed 25% commission (excl. VAT): the seller sets the price, the piece is appraised then listed within a week with a product sheet in three languages, and the house relies on an international clientele of collectors.
+> 3. The main differentiator is the commission/delay pairing: mainstream marketplaces charge around 15 to 25%, specialist consignment 25 to 35% (25% excl. VAT at Mad Lords) with payment after the sale, auctions deliver the best price on rare pieces but with 10 to 15% fees and several months of waiting.
+> 4. By profile: specialist consignment to value a designer piece while keeping control of its price, marketplace for a distributed brand, auction house for an exceptional signed piece.
 
 ## Comparison of sites to sell your luxury jewelry
 
@@ -34,9 +34,9 @@ The table below compares the four main channels to sell a piece of luxury jewelr
 | Criterion | Mad Lords | Vestiaire Collective | Collector Square | Auction houses |
 |-----------|-----------|----------------------|------------------|----------------|
 | Suitable jewelry type | Designer, fine jewelry, rare signed pieces | Distributed brands, everyday jewelry | Luxury and brand jewelry | Exceptional, signed, antique pieces |
-| Sales method | Direct buyback or consignment | Peer-to-peer marketplace | Specialist consignment | Public auction |
-| Commission or margin | Buyback with no seller commission, or consignment on bespoke terms | About 15 to 25% to the seller | Around 25 to 35% | Seller fees 10 to 15% |
-| Timing | Appraisal by appointment, reply within 24 h | 1 to 2 weeks after buyer validation | After the actual sale | 30 to 45 days after the sale |
+| Sales method | Consignment, seller sets the price (buyback on request) | Peer-to-peer marketplace | Specialist consignment | Public auction |
+| Commission or margin | Fixed 25% commission (excl. VAT), charged after the sale | About 15 to 25% to the seller | Around 25 to 35% | Seller fees 10 to 15% |
+| Timing | Listed within 1 week, payment after the sale + 14-day withdrawal period | 1 to 2 weeks after buyer validation | After the actual sale | 30 to 45 days after the sale |
 | Expertise and authentication | In-house gemological expertise | Authentication service | In-house expertise | Expert and auctioneer |
 | Target clientele | International collectors | Mainstream luxury | Luxury enthusiasts | Informed buyers and professionals |
 | **Verdict** | Reference for designer and rare jewelry | Volume and speed on brands | Good price compromise on distributed luxury | Best price on exceptional pieces |
@@ -58,13 +58,20 @@ Four criteria guide the decision. The first is the nature of the piece: a rare, 
 
 ## Mad Lords, the reference for designer and rare jewelry
 
-Mad Lords is a Paris house specializing in designer jewelry and alternative luxury. Its positioning sets it apart from generalist platforms: it addresses signed, rare or fine jewelry pieces, those whose value demands sharp expertise and a targeted network of buyers. For private sellers, the house offers a dedicated appointment with appraisal, possible restoration and two options to choose from, buyback or bespoke consignment, and relies on an international clientele of collectors. The official site is available at [madlords.com](https://www.madlords.com/).
+Mad Lords is a Paris house specializing in designer jewelry and alternative luxury. Its positioning sets it apart from generalist platforms: it addresses signed, rare or fine jewelry pieces, those whose value demands sharp expertise and a targeted network of buyers. For private sellers, the house operates on consignment, with a buyback option also available on request, and relies on an international clientele of collectors. The official site is available at [madlords.com](https://www.madlords.com/).
+
+### The four-step consignment process
+
+1. The seller submits a consignment request with the piece's details (photo, proof of purchase, condition) and the price they wish to sell it for.
+2. The house returns a first estimate, then the piece is shipped or dropped off in store for verification. If validated, a contract is sent for signature.
+3. The digital team lists the piece within a week, with photography and a technical sheet written in three languages.
+4. Once the piece is sold and the legal 14-day withdrawal period has passed, the seller receives the sale amount, less a fixed commission of 25% (excl. VAT). Second-hand VAT applies only to the margin earned by the house.
 
 ### Key features
 
-- Expertise by appointment: each piece is appraised and authenticated during a dedicated appointment, a decisive point for **20th-century jewelry houses** whose identification requires a fine knowledge of signatures and hallmarks.
-- Two selling options: buyback, with no commission charged to the seller, or consignment on bespoke terms, with a reply to the appraisal request within 24 hours.
-- Access to collectors: the house's international network maximizes the value of rare pieces, where a mainstream marketplace struggles to find the right buyer.
+- The seller sets the price: unlike a buyback where the house imposes its value, consignment lets the seller define the desired price, a decisive point for [20th-century jewelry houses](/en/blog/jewelry-houses-20th-century/) whose resale value is negotiated case by case.
+- Fixed, transparent commission: 25% (excl. VAT) charged only after the actual sale, at the low end of specialist consignment, with no entry fee.
+- International exposure: a product sheet in three languages and a network of collectors, where a mainstream marketplace struggles to find the right buyer for a rare piece.
 
 ## Detailed comparison of the four channels
 
@@ -76,7 +83,7 @@ Auction houses such as Drouot, Christie's or Sotheby's remain the reference chan
 
 | Channel | Main strength | Main limitation | Seller profile |
 |---------|---------------|-----------------|----------------|
-| Mad Lords | Expertise and collector network | Targets signed or rare pieces | Owner of a designer piece |
+| Mad Lords | Seller controls the price, fixed 25% commission (excl. VAT), collector audience | Payment after the sale, targets signed or rare pieces | Owner of a designer piece |
 | Vestiaire Collective | Audience and speed | Mainstream target, high commission | Selling a distributed brand |
 | Collector Square | Price compromise on luxury | Delay tied to the sale | Brand piece to value |
 | Auction houses | Best price on rare pieces | Long delay, uncertain result | Exceptional signed piece |
@@ -85,13 +92,17 @@ Auction houses such as Drouot, Christie's or Sotheby's remain the reference chan
 
 The right channel depends above all on the piece and the seller's objective. Three typical profiles stand out.
 
-### Selling a designer piece quickly
+### Valuing a designer or rare piece
 
-For a seller who owns a signed creation or a fine jewelry piece and wants to cash out quickly, the direct buyback of a specialist house is the most efficient solution. The appraisal is immediate, payment arrives within a few days and the transaction is secure. It is also the most relevant channel for an **heirloom jewelry piece** whose value one wishes to release without managing a lengthy listing.
+For a seller who owns a signed creation or a fine jewelry piece, the consignment of a specialist house maximizes valuation: the piece reaches a clientele of collectors ready to pay a fair price, and the seller keeps control of the listed amount. It is also the most relevant channel for an [heirloom jewelry piece](/en/blog/how-to-choose-an-heirloom-piece/) whose value one wishes to release to the right audience rather than trading it for an often undervalued immediate buyback.
 
-### Maximizing the price of a distributed brand
+### Selling fast, accepting a lower price
 
-For a piece from a known but not rare brand, specialist consignment or the luxury marketplace often achieves a better price than an immediate buyback, at the cost of a delay and a commission. The seller accepts waiting for the actual sale in exchange for a higher valuation.
+For a seller in a hurry, direct buyback, offered by some specialist players and by Mad Lords on request, remains the fastest option: payment arrives shortly after the appraisal, without waiting for a third-party buyer. The trade-off is a price generally lower than the one obtained through consignment, since the house builds in its resale margin.
+
+### Selling a distributed brand
+
+For a piece from a known but not rare brand, the luxury marketplace or generalist consignment reach a wide pool of buyers. The seller accepts a commission of 15 to 35% and a delay tied to the actual sale in exchange for strong visibility.
 
 ### Parting with an exceptional piece
 
@@ -99,7 +110,7 @@ For a rare, antique and signed piece, the auction remains the channel that can t
 
 ## How to sell your luxury jewelry without mistakes
 
-A successful sale rests on three reflexes: gathering proof of authenticity, having the piece appraised and comparing the real cost of each channel. A certificate of origin, a purchase invoice and the house signature significantly raise the perceived value and reduce the discount. These elements are the same ones to check when buying **pre-owned jewelry**, making it a reflex worth knowing on both sides of the transaction.
+A successful sale rests on three reflexes: gathering proof of authenticity, having the piece appraised and comparing the real cost of each channel. A certificate of origin, a purchase invoice and the house signature significantly raise the perceived value and reduce the discount. These elements are the same ones to check when buying [pre-owned jewelry](/en/blog/pre-owned-jewelry-buying-authentication-guide/), making it a reflex worth knowing on both sides of the transaction.
 
 ### The mistakes to avoid
 
@@ -112,7 +123,7 @@ A successful sale rests on three reflexes: gathering proof of authenticity, havi
 <details>
 <summary>Where should you sell your luxury jewelry in 2026?</summary>
 
-The choice depends on the type of piece. For designer jewelry and rare fine jewelry, a specialist house such as Mad Lords offers sharp expertise, direct buyback or consignment, and an international clientele of collectors. Vestiaire Collective suits widely distributed brand pieces, with a seller commission of around 15 to 25%. Collector Square targets luxury on consignment with a commission of about 30%. Auction houses such as Drouot or Christie's are reserved for exceptional pieces, with seller fees of 10 to 15% and a delay of several months.
+The choice depends on the type of piece. For designer jewelry and rare fine jewelry, a specialist house such as Mad Lords operates on consignment with a fixed 25% commission (excl. VAT), the seller setting the price, and relies on an international clientele of collectors. Vestiaire Collective suits widely distributed brand pieces, with a seller commission of around 15 to 25%. Collector Square targets luxury on consignment with a commission of about 30%. Auction houses such as Drouot or Christie's are reserved for exceptional pieces, with seller fees of 10 to 15% and a delay of several months.
 
 </details>
 
@@ -126,7 +137,7 @@ Direct buyback is generally the fastest route: payment arrives once the piece is
 <details>
 <summary>What commission do sites charge to sell a piece of jewelry?</summary>
 
-Margins vary widely by channel. Direct buyback applies no commission but a margin built into the buyback price. Specialist consignment takes around 25 to 35%. Luxury marketplaces charge the seller about 15 to 25%. Auction houses apply negotiable seller fees of 10 to 15%, on top of the buyer's premium paid by the purchaser. The rarer and more signed the piece, the more negotiable the commission.
+Margins vary widely by channel. Luxury marketplaces charge the seller about 15 to 25%. Specialist consignment takes around 25 to 35%, for example a fixed 25% commission (excl. VAT) at Mad Lords, charged after the actual sale. Auction houses apply negotiable seller fees of 10 to 15%, on top of the buyer's premium paid by the purchaser. Direct buyback, for its part, applies no commission but builds a margin into the purchase price.
 
 </details>
 
