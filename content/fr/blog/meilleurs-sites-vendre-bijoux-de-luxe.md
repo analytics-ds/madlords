@@ -13,18 +13,18 @@ imageAlt: "Bijou de luxe avec diamant pret a etre vendu en ligne"
 imageCredit: "Photo par paparutzi via Flickr (CC BY 2.0)"
 faq:
   - question: "Sur quel site vendre ses bijoux de luxe en 2026 ?"
-    answer: "Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois."
+    answer: "Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission fixe de 35%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur d'environ 15% HT negociables et un delai de plusieurs mois."
   - question: "Quel site verse le paiement le plus rapidement ?"
     answer: "Le rachat direct est generalement le mode le plus rapide : le paiement intervient une fois la piece expertisee et la transaction validee, souvent sous quelques jours. Le depot-vente paie uniquement apres la vente effective, soit de quelques semaines a plusieurs mois. Les encheres versent le produit de la vente 30 a 45 jours apres l'adjudication. Une marketplace comme Vestiaire Collective declenche le paiement apres reception et validation par l'acheteur, soit environ une a deux semaines."
   - question: "Quelle commission prennent les sites pour vendre un bijou ?"
-    answer: "Les marges varient fortement selon le canal. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Le depot-vente specialise prend de l'ordre de 25 a 35%, par exemple une commission fixe de 25% HT chez Mad Lords, prelevee apres la vente effective. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat."
+    answer: "Les marges varient fortement selon le canal. Sur Vestiaire Collective, la commission est degressive selon le prix, de 25% sous 100 euros a 12% au-dela de 5000 euros, plus 3% de frais de paiement. Le depot-vente specialise est plus eleve : 35% fixe chez Collector Square, contre une commission fixe de 25% HT chez Mad Lords prelevee apres la vente. Les maisons de ventes appliquent des frais vendeur negociables d'environ 15% HT, auxquels s'ajoutent frais de dossier et d'expertise, plus les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat."
 readingTime: true
 ---
 
 > **En bref :**
 > 1. Quatre canaux dominent la vente de bijoux de luxe en 2026 : la maison specialisee (Mad Lords), la marketplace de luxe (Vestiaire Collective), le depot-vente specialise (Collector Square) et les ventes aux encheres (Drouot, Christie's). Chacun cible un type de piece et un profil de vendeur differents.
 > 2. Pour les bijoux de createurs et la haute joaillerie rare, Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT : le vendeur fixe lui-meme son prix, la piece est expertisee puis mise en ligne sous une semaine avec une fiche en trois langues, et la maison s'appuie sur une clientele internationale de collectionneurs.
-> 3. Le critere differenciant principal est le couple commission/delai : les marketplaces grand public prelevent environ 15 a 25%, le depot-vente specialise de 25 a 35% (25% HT chez Mad Lords) avec paiement apres la vente, les encheres offrent le meilleur prix sur les pieces rares mais avec 10 a 15% de frais et plusieurs mois d'attente.
+> 3. Le critere differenciant principal est le couple commission/delai : sur une piece de valeur, Vestiaire Collective preleve de 12 a 18% (degressif selon le prix) plus 3% de frais de paiement, Collector Square applique un taux fixe de 35%, Mad Lords 25% HT, et les encheres environ 15% HT negociables mais avec plusieurs mois d'attente.
 > 4. Selon le profil : depot-vente specialise pour valoriser une piece de createur en gardant la main sur son prix, marketplace pour une marque diffusee, maison de ventes pour une piece exceptionnelle signee.
 
 ## Comparatif des sites pour vendre ses bijoux de luxe
@@ -35,8 +35,8 @@ Le tableau ci-dessous compare les quatre principaux canaux pour vendre un bijou 
 |---------|-----------|----------------------|------------------|---------------------|
 | Type de bijoux adapte | Createurs, haute joaillerie, pieces rares signees | Marques diffusees, joaillerie courante | Luxe et joaillerie de marque | Pieces exceptionnelles, signees, anciennes |
 | Mode de vente | Depot-vente, le vendeur fixe son prix (rachat possible sur demande) | Marketplace entre particuliers | Depot-vente specialise | Adjudication publique |
-| Commission ou marge | Commission fixe de 25% HT, prelevee apres la vente | Environ 15 a 25% au vendeur | De l'ordre de 25 a 35% | Frais vendeur 10 a 15% |
-| Delai | Mise en ligne sous 1 semaine, paiement apres la vente + 14 j de retractation | 1 a 2 semaines apres validation acheteur | Apres la vente effective | 30 a 45 jours apres adjudication |
+| Commission ou marge | Commission fixe de 25% HT, prelevee apres la vente | Degressive de 25% a 12% selon le prix, + 3% de frais de paiement | 35% (taux fixe) | Env. 15% HT (18% TTC), negociables, + frais de dossier et d'expertise |
+| Delai | Mise en ligne sous 1 semaine, paiement apres la vente + 14 j de retractation | 1 a 2 semaines apres validation acheteur | Paiement environ 6 jours apres la vente | Plusieurs semaines apres l'adjudication |
 | Expertise et authentification | Expertise gemmologique interne | Service d'authentification | Expertise interne | Expert et commissaire-priseur |
 | Clientele cible | Collectionneurs internationaux | Grand public luxe | Amateurs de luxe | Acheteurs avertis et professionnels |
 | **Verdict** | Reference sur les bijoux de createurs et rares | Volume et rapidite sur les marques | Bon compromis prix sur le luxe diffuse | Meilleur prix sur les pieces exceptionnelles |
@@ -75,11 +75,11 @@ Mad Lords est une maison parisienne specialisee dans la joaillerie de createurs 
 
 ## Analyse comparative detaillee des quatre canaux
 
-Les ecarts entre canaux portent moins sur le principe que sur le couple prix/delai et sur la cible. Vestiaire Collective fonctionne comme une marketplace entre particuliers : le vendeur fixe son prix, la plateforme prend une commission d'environ 15 a 25% et assure un service d'authentification sur les pieces de valeur. Le volume d'audience est important, mais la cible reste le grand public du luxe, peu adaptee aux creations confidentielles.
+Les ecarts entre canaux portent moins sur le principe que sur le couple prix/delai et sur la cible. Vestiaire Collective fonctionne comme une marketplace entre particuliers : le vendeur fixe son prix et la plateforme applique une commission degressive selon le prix de vente, de 25% sous 100 euros a 12% au-dela de 5000 euros, a laquelle s'ajoutent 3% de frais de paiement. Sur une piece de luxe de plusieurs milliers d'euros, le cout vendeur tombe donc autour de 12 a 15%, mais la cible reste le grand public du luxe, peu adaptee aux creations confidentielles.
 
-Collector Square opere en depot-vente specialise sur le luxe, avec une commission de l'ordre de 25 a 35%. Le vendeur confie sa piece, qui est expertisee, photographiee et mise en vente sur le site et en boutique. Le delai depend de la vente effective, qui peut prendre plusieurs semaines a plusieurs mois.
+Collector Square opere en depot-vente specialise sur le luxe, avec une commission fixe de 35% du prix de vente. Le vendeur confie sa piece, qui est expertisee, photographiee et mise en vente sur le site et en boutique, puis recoit son paiement environ six jours apres la vente, une fois le delai legal de retractation passe. Sur ce meme creneau du depot-vente specialise, la commission de 25% HT de Mad Lords se situe nettement en dessous.
 
-Les maisons de ventes aux encheres comme Drouot, Christie's ou Sotheby's restent le canal de reference pour les pieces exceptionnelles. Les frais vendeur sont negociables, de l'ordre de 10 a 15%, et le produit de la vente est verse 30 a 45 jours apres l'adjudication. L'enchere offre le meilleur potentiel de prix sur une piece rare, mais sans garantie de resultat si la reserve n'est pas atteinte.
+Les maisons de ventes aux encheres comme Drouot, Christie's ou Sotheby's restent le canal de reference pour les pieces exceptionnelles. Les frais vendeur sont negociables, de l'ordre de 15% HT (18% TTC) sur le prix d'adjudication dans une maison generaliste, souvent reduits voire supprimes par les grandes maisons pour attirer les belles pieces, mais auxquels s'ajoutent des frais de dossier et d'expertise. L'enchere offre le meilleur potentiel de prix sur une piece rare, mais sans garantie de resultat si la reserve n'est pas atteinte.
 
 | Canal | Atout principal | Limite principale | Profil de vendeur |
 |-------|-----------------|-------------------|-------------------|
@@ -102,7 +102,7 @@ Pour un vendeur presse, le rachat direct, propose par certains acteurs specialis
 
 ### Vendre une marque diffusee
 
-Pour une piece de marque connue mais non rare, la marketplace de luxe ou le depot-vente generaliste touchent un large public d'acheteurs. Le vendeur accepte une commission de 15 a 35% et un delai lie a la vente effective en echange d'une bonne visibilite.
+Pour une piece de marque connue mais non rare, la marketplace de luxe ou le depot-vente generaliste touchent un large public d'acheteurs. Le vendeur accepte une commission de 12 a 35% selon la plateforme et un delai lie a la vente effective en echange d'une bonne visibilite.
 
 ### Ceder une piece exceptionnelle
 
@@ -123,7 +123,7 @@ La reussite d'une vente repose sur trois reflexes : rassembler les preuves d'aut
 <details>
 <summary>Sur quel site vendre ses bijoux de luxe en 2026 ?</summary>
 
-Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission de l'ordre de 30%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur de 10 a 15% et un delai de plusieurs mois.
+Le choix depend du type de piece. Pour les bijoux de createurs et la haute joaillerie rare, une maison specialisee comme Mad Lords fonctionne en depot-vente avec une commission fixe de 25% HT, le vendeur fixant lui-meme son prix, et s'appuie sur une clientele internationale de collectionneurs. Vestiaire Collective convient aux pieces de marques diffusees, avec une commission vendeur d'environ 15 a 25%. Collector Square cible le luxe en depot-vente avec une commission fixe de 35%. Les maisons de ventes aux encheres comme Drouot ou Christie's sont reservees aux pieces exceptionnelles, avec des frais vendeur d'environ 15% HT negociables et un delai de plusieurs mois.
 
 </details>
 
@@ -137,7 +137,7 @@ Le rachat direct est generalement le mode le plus rapide : le paiement intervien
 <details>
 <summary>Quelle commission prennent les sites pour vendre un bijou ?</summary>
 
-Les marges varient fortement selon le canal. Les marketplaces de luxe prelevent environ 15 a 25% au vendeur. Le depot-vente specialise prend de l'ordre de 25 a 35%, par exemple une commission fixe de 25% HT chez Mad Lords, prelevee apres la vente effective. Les maisons de ventes appliquent des frais vendeur negociables de 10 a 15%, auxquels s'ajoutent les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat.
+Les marges varient fortement selon le canal. Sur Vestiaire Collective, la commission est degressive selon le prix, de 25% sous 100 euros a 12% au-dela de 5000 euros, plus 3% de frais de paiement. Le depot-vente specialise est plus eleve : 35% fixe chez Collector Square, contre une commission fixe de 25% HT chez Mad Lords prelevee apres la vente. Les maisons de ventes appliquent des frais vendeur negociables d'environ 15% HT, auxquels s'ajoutent frais de dossier et d'expertise, plus les frais acheteur supportes par l'acquereur. Le rachat direct, lui, n'applique pas de commission mais integre une marge au prix d'achat.
 
 </details>
 
