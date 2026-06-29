@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 27 (29/06/2026 - 05/07/2026)
+- 2026-06-29 | Vendre ses bijoux de luxe : les meilleurs sites en 2026 (FR+EN) | Seconde main
+
 ## Semaine 26 (22/06/2026 - 28/06/2026)
 - 2026-06-22 | Bijoux de luxe 20 ans de mariage : top 5 des maisons a offrir (FR+EN) | Bijoux
 
