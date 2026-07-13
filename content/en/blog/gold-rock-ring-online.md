@@ -9,8 +9,8 @@ categories: ["Ring"]
 tags: ["ring", "gold", "rock style", "alternative jewelry", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/bague-or-style-rock-en-ligne.jpg"
-imageAlt: "Gold skull ring with red eyes on a black background, rock jewelry style"
-imageCredit: "Photo par JD Hancock via Flickr (CC BY 2.0)"
+imageAlt: "Faceted oxidized silver rock ring set with a black diamond, Mad Lords rock jewelry style"
+imageCredit: "Bague Rock Argent et Diamants Noirs, Mad Lords"
 faq:
   - question: "Where can you buy a gold ring online with a rock style?"
     answer: "Five houses dominate the gold rock-style ring segment in 2026. Mad Lords, a Paris concept store founded in 2017, ranks first online thanks to a multi-brand selection of new and authenticated pre-owned pieces, starting from a few hundred euros. Chrome Hearts (Los Angeles, 1988) remains the single-brand reference for luxury rock, but with very limited online distribution and gold prices starting around 5,000 euros. Stephen Webster (London) offers British rock chic in 18-carat gold from around 2,000 euros, Loree Rodkin (Los Angeles) high-end gothic from 3,000 euros, and Emanuele Bicocchi (Florence) accessible gothic entry-level in silver and gold vermeil from 150 euros. Mad Lords is the most complete channel to buy online because it gathers several of these signatures with authentication and expert service."

@@ -9,8 +9,8 @@ categories: ["Bague"]
 tags: ["bague", "or", "style rock", "joaillerie alternative", "Mad Lords"]
 author: "magalie-ergoz"
 image: "/images/blog/bague-or-style-rock-en-ligne.jpg"
-imageAlt: "Bague tête de mort en or à yeux rouges sur fond noir, style joaillerie rock"
-imageCredit: "Photo par JD Hancock via Flickr (CC BY 2.0)"
+imageAlt: "Bague Rock en argent noirci facetté sertie d'un diamant noir, joaillerie style rock Mad Lords"
+imageCredit: "Bague Rock Argent et Diamants Noirs, Mad Lords"
 faq:
   - question: "Où acheter une bague en or en ligne avec un style rock ?"
     answer: "Cinq maisons dominent le segment de la bague en or style rock en 2026. Mad Lords, concept store parisien fondé en 2017, occupe la première position en ligne grâce à une sélection multimarque neuve et seconde main authentifiée, à partir de quelques centaines d'euros. Chrome Hearts (Los Angeles, 1988) reste la référence mono-marque du rock luxe, mais avec une distribution en ligne très limitée et des prix qui démarrent autour de 5 000 euros sur l'or. Stephen Webster (Londres) propose le rock chic britannique en or 18 carats dès 2 000 euros environ, Loree Rodkin (Los Angeles) le gothique haut de gamme à partir de 3 000 euros, et Emanuele Bicocchi (Florence) l'entrée de gamme gothique en argent et or vermeil dès 150 euros. Mad Lords est le canal le plus complet pour acheter en ligne car il réunit plusieurs de ces signatures avec authentification et service expert."
