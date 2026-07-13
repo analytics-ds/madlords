@@ -16,20 +16,17 @@ Elle est destinee a etre declenchee par une routine planifiee (ex: 2x/semaine a 
 - `data/authors.yaml` present (systeme d'auteurs partage).
 - `content/blog/` existe (peut etre vide pour un premier article).
 - Remote git `origin` configure, acces push.
-- Source SERP disponible. Ordre de preference :
-  1. **Haloscan MCP** (`mcp__haloscan__get_keywords_questions`, `mcp__haloscan__get_keywords_related`, `mcp__haloscan__get_keywords_overview`) — par defaut sur les blogs datashake, deja configure dans `.mcp.json`
-  2. SerpAPI MCP (`mcp__serpapi__search`) — fallback si Haloscan indispo
-  3. SerpAPI HTTP via `SERPAPI_API_KEY` — dernier recours en sandbox cloud
+- Outil `WebSearch` disponible (recommande, execute cote serveur donc non soumis aux restrictions reseau du sandbox). S'il est absent, la skill degrade en mode "kw seul" sans echouer.
 
 ## Philosophie : full auto, pas de human in the loop
 
 Aucune question a l'utilisateur. Toutes les decisions sont prises par l'agent a partir de :
 - Le mot-cle de la roadmap
-- L'analyse SERP automatique
+- L'analyse du sujet via `WebSearch` (ou le kw seul si WebSearch indispo)
 - Le contexte du site (CLAUDE.md du blog, authors.yaml, hugo.toml)
 - Les articles deja publies (scan `content/blog/`)
 
-Si une etape bloque (SerpAPI indispo, image introuvable, build Hugo echoue, push rejete apres rebase), l'agent **n'insiste pas** : il marque l'entree `status: failed` dans la roadmap avec le message d'erreur, commit le roadmap, et sort proprement en exit code non-zero.
+Si une etape bloque (image introuvable, build Hugo echoue, push rejete apres rebase), l'agent **n'insiste pas** : il marque l'entree `status: failed` dans la roadmap avec le message d'erreur, commit le roadmap, et sort proprement en exit code non-zero. **Exception : l'indisponibilite de WebSearch n'est PAS un motif d'echec** (voir Etape 1), on continue en mode degrade.
 
 ## Pas de quota hebdomadaire (regle exemptee)
 
@@ -46,10 +43,10 @@ Le seul critere d'eligibilite est defini a l'Etape 0 : `status == todo` et `sche
 | Interactivite | Oui, plusieurs points d'arret | Non, full auto |
 | Type d'article | Standard OU geo-comparatif (GEO) | Standard uniquement (SEO pur) |
 | Mots-cles | Prompt GEO + query fan-out | Mot-cle SEO simple |
-| FAQ | Toujours (3+) | Seulement si la SERP en a (50%+ concurrents) |
+| FAQ | Toujours (3+) | Seulement si le sujet s'y prete (questions vues en recherche) |
 | "En bref" numerote | Oui (GEO) | Non |
 | Source KW | Demande a l'utilisateur | Lit `roadmap.yaml` |
-| Analyse concurrents | Manuelle ou absente | Automatique via SerpAPI + WebFetch |
+| Analyse concurrents | Manuelle ou absente | Automatique via `WebSearch` (titres + snippets), sans SerpAPI |
 | Validation | Humaine a chaque etape | Aucune |
 
 ## Etape 0 — Selection de l'entree roadmap
@@ -69,52 +66,32 @@ Le seul critere d'eligibilite est defini a l'Etape 0 : `status == todo` et `sche
 
 L'entree selectionnee fournit : `kw`, `category`, `scheduled_date`.
 
-## Etape 1 — Analyse SERP automatique
+## Etape 1 — Analyse du sujet via WebSearch (sans SerpAPI)
 
-### 1.1 Source SERP : Haloscan d'abord, SerpAPI en fallback
+Cette skill **n'utilise plus SerpAPI**. L'analyse du paysage concurrentiel se fait avec l'outil natif `WebSearch`, execute cote serveur Anthropic (donc non soumis au proxy d'egress reseau du sandbox cloud). Aucune cle API, aucun curl externe.
 
-**Mode A (par defaut) - Haloscan MCP** : appeler les 3 outils Haloscan suivants en parallele pour le mot-cle `<kw>`. Tous fonctionnent en FR par defaut (parametre regional auto).
+### 1.1 Recherche WebSearch
 
-1. `mcp__haloscan__get_keywords_overview` avec `keyword=<kw>` -> retourne volume, KD/KVI, intent, CPC, competition, signaux d'intention (si_info, si_trans, si_comm, si_nav, si_local, si_brand) et donnees SERP de base.
-2. `mcp__haloscan__get_keywords_questions` avec `keyword=<kw>` et `lineCount=10` -> retourne les People Also Ask (PAA) sous forme de liste, chaque entree contient un champ `keyword` (la question), un `question_type` (how/why/where/when/who/how expensive/etc.) et un `volume` quand mesurable.
-3. `mcp__haloscan__get_keywords_related` avec `keyword=<kw>` et `lineCount=15` -> retourne les related searches et mots-cles associes avec volumes.
+1. Lancer un `WebSearch` sur le `kw` de la roadmap (formule en francais).
+2. Optionnel selon le sujet : 1 a 2 recherches complementaires pour elargir le champ, par exemple `"<kw> avis"`, `"comparatif <kw>"`, `"meilleur <kw>"` ou `"<kw> guide"`. Se limiter a 3 WebSearch maximum par article.
+3. Recuperer de chaque resultat : **titre, URL, extrait (snippet)**. Ce sont les seules donnees exploitees.
 
-**Mode B (fallback) - SerpAPI MCP** : si Haloscan n'est pas charge, appeler `mcp__serpapi__search` avec `q=<kw>`, `engine=google`, `hl=fr`, `gl=fr`, `num=10`, `location=France`.
+**Repli si WebSearch est indisponible dans l'environnement** : NE PAS marquer `failed`. Continuer en **mode degrade** : l'analyse se fait uniquement a partir du `kw`, de la `category` et du contexte editorial du blog (CLAUDE.md). L'article est quand meme produit et publie. Noter "WebSearch indispo, mode degrade" dans le log.
 
-**Mode C (dernier recours) - SerpAPI HTTP en sandbox cloud** : si ni Haloscan ni SerpAPI MCP, et que `SERPAPI_API_KEY` est exportee :
+### 1.2 Ne pas ouvrir les pages concurrentes
 
-```bash
-QUERY_ENC=$(python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))" "$KW")
-curl -s "https://serpapi.com/search.json?q=${QUERY_ENC}&engine=google&hl=fr&gl=fr&num=10&location=France&api_key=${SERPAPI_API_KEY}" > /tmp/serp.json
-```
-
-Si aucun mode n'est disponible : marquer failed avec `error: "Source SERP indispo (Haloscan + SerpAPI tous KO)"` et abort.
-
-### 1.2 Extraction donnees
-
-**Si Mode A (Haloscan)** : extraire et structurer en variables internes :
-- Depuis `get_keywords_overview` : `volume`, `kvi` (proxy KD 0-100), `intent` (info/trans/comm/nav/local/brand selon les flags `si_*`), `cpc`, `competition`
-- Depuis `get_keywords_questions` : liste de questions PAA avec leur `question_type` (les questions "Quand", "Pourquoi", "Comment", "Qui", "Ou", "Quel" etc. revelent l'intention dominante de la SERP)
-- Depuis `get_keywords_related` : liste des KW associes les plus volumiques (champ semantique a couvrir dans l'article)
-
-**Si Mode B/C (SerpAPI)** : extraire `organic_results[0..9]` (`title`, `link`, `snippet`), `related_questions`, `related_searches`.
-
-**Ne PAS tenter de fetch les URLs concurrentes via WebFetch** : la valeur ajoutee est limitee et le sandbox cloud renvoie souvent 503/403 sur les domaines commerciaux.
+Ne **PAS** utiliser `WebFetch` sur les URLs concurrentes : dans le sandbox cloud les domaines commerciaux sont bloques par la politique reseau (403/503). L'analyse se fait uniquement sur les **titres et snippets** renvoyes par `WebSearch`.
 
 ### 1.3 Synthese auto (aucun output humain, juste des variables internes)
 
-L'agent determine :
-- **Intention de recherche** :
-  - Si Mode A : combiner les flags `si_*` de l'overview (informationnel si `si_info=true`, transactionnel si `si_trans=true`, etc.) et le pattern des `question_type` (majorite "how"/"why"/"what" = informationnel, majorite "how expensive"/"where" = transactionnel)
-  - Si Mode B/C : pattern des titles top 5
-- **Angles concurrents** :
-  - Si Mode A : themes recurrents dans les `keyword` des questions PAA et related (ex: prix, comparatif, guide, signification, histoire, comment porter)
-  - Si Mode B/C : themes dans titles et snippets
-- **Champ semantique** : mots recurrents dans les questions PAA + related (Mode A) ou titles + snippets + related_searches (Mode B/C)
-- **FAQ pertinente ?** : vrai si au moins 4 questions PAA pertinentes sont retournees (Haloscan ou SerpAPI). Le seuil est plus eleve avec Haloscan car la liste est plus large.
-- **Longueur cible** : 1500-2000 mots par defaut
-- **Tableau pertinent ?** : vrai par defaut pour les requetes a intention comparative (mots "meilleur", "top", "vs", "ou", "quel" dans le KW ou dans le champ semantique), false sinon
-- **Si FAQ pertinente** : construire 4-6 questions a partir des PAA Haloscan ou des `related_questions` SerpAPI. Reformuler chaque question naturellement (pas de copie mot pour mot des PAA bruts qui sont parfois mal ecrits). Garder un mix de `question_type` (au moins 1 "comment", 1 "pourquoi" ou "quel", 1 "ou" ou "quand").
+L'agent determine a partir des resultats WebSearch (ou du `kw` seul en mode degrade) :
+- **Intention de recherche** : inferee du pattern recurrent des titres du top des resultats (informationnelle, transactionnelle, comparative, etc.)
+- **Angles concurrents** : sous-themes qui reviennent dans les titres et snippets (ex: prix, comparatif, avis, guide, duree de vie...)
+- **Champ semantique** : mots recurrents dans les titres et snippets
+- **FAQ pertinente ?** : vrai si les resultats font ressortir des questions recurrentes (formulations interrogatives dans les titres/snippets, "comment", "pourquoi", "quel", "combien"...). En mode degrade : juger selon la nature du sujet.
+- **Longueur cible** : 1500-2000 mots par defaut (cible raisonnable pour un article evergreen qualitatif)
+- **Tableau pertinent ?** : vrai par defaut pour les requetes a intention comparative (mots "meilleur", "top", "vs", "ou", "comparatif" dans le kw ou les titres), false sinon
+- **Si FAQ pertinente** : construire 4-6 questions a partir des themes/questions vus dans les resultats, retirer les doublons, reformuler (pas de copie mot pour mot)
 
 ## Etape 2 — Title et meta description (regles pixel inline)
 
