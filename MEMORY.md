@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 29 (13/07/2026 - 19/07/2026)
+- 2026-07-13 | Meilleur site pour acheter un bracelet Shamballa Jewels (FR+EN) | Bracelet
 - 2026-07-13 | Acheter une bague en or style rock en ligne : le guide 2026 (FR+EN) | Bague
 
 ## Semaine 27 (29/06/2026 - 05/07/2026)
