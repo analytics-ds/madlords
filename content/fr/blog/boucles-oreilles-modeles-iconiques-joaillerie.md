@@ -13,49 +13,49 @@ imageAlt: "Boucles d'oreilles puces en diamant"
 imageCredit: "Photo par derrico_jewelry via Flickr (CC BY-SA 2.0)"
 faq:
   - question: "Quel poids pour des boucles d'oreilles confortables ?"
-    answer: "En dessous de 5 grammes par oreille, le confort reste optimal pour un port quotidien. Au-dela de 10 grammes, la piece tire sur le lobe et peut a terme deformer le percage. Les pendantes lourdes se reservent aux occasions, les pieces legeres au quotidien."
+    answer: "En dessous de 5 grammes par oreille, le confort reste optimal pour un port quotidien. Au-delà de 10 grammes, la pièce tire sur le lobe et peut à terme déformer le perçage. Les pendantes lourdes se réservent aux occasions, les pièces légères au quotidien."
   - question: "Or jaune ou or blanc selon le visage ?"
-    answer: "L'or jaune rechauffe les visages aux carnations froides. L'or blanc et le platine flattent les peaux dorees ou hales. La couleur des cheveux compte aussi : l'or jaune dialogue mieux avec les cheveux fonces, l'or blanc avec les cheveux clairs. La regle reste : essayer avant d'acheter."
-  - question: "Comment choisir entre puces et creoles pour un cadeau ?"
-    answer: "Les puces (clous d'oreilles) conviennent a 90% des femmes et a tous les contextes. Les creoles demandent un parti pris esthetique plus marque. Pour un premier cadeau de joaillerie, les puces en diamant ou en perle restent le choix le plus sur, decline en plusieurs tailles selon le budget."
+    answer: "L'or jaune réchauffe les visages aux carnations froides. L'or blanc et le platine flattent les peaux dorées ou hâlées. La couleur des cheveux compte aussi : l'or jaune dialogue mieux avec les cheveux foncés, l'or blanc avec les cheveux clairs. La règle reste : essayer avant d'acheter."
+  - question: "Comment choisir entre puces et créoles pour un cadeau ?"
+    answer: "Les puces (clous d'oreilles) conviennent à 90% des femmes et à tous les contextes. Les créoles demandent un parti pris esthétique plus marqué. Pour un premier cadeau de joaillerie, les puces en diamant ou en perle restent le choix le plus sûr, décliné en plusieurs tailles selon le budget."
 ---
 
 ## Les puces : le grand classique
 
-La puce d'oreille (clou) reste le format le plus discret et le plus universel. Elle se compose d'une pierre serie sur une tige qui traverse le lobe, fixee par un poussoir. Le sertissage griffes met en valeur la pierre, le sertissage clos la securise.
+La puce d'oreille (clou) reste le format le plus discret et le plus universel. Elle se compose d'une pierre sertie sur une tige qui traverse le lobe, fixée par un poussoir. Le sertissage griffes met en valeur la pierre, le sertissage clos la sécurise.
 
-La puce diamant de 0,1 a 0,5 carat par oreille couvre les usages quotidiens. Au-dela d'1 carat, on entre dans le territoire des pieces d'investissement. La perle reste l'alternative la plus elegante au diamant, en blanc, en rose ou en gris Tahiti.
+La puce diamant de 0,1 à 0,5 carat par oreille couvre les usages quotidiens. Au-delà d'1 carat, on entre dans le territoire des pièces d'investissement. La perle reste l'alternative la plus élégante au diamant, en blanc, en rose ou en gris Tahiti.
 
-## Les creoles : l'iconique
+## Les créoles : l'iconique
 
-### La creole simple
+### La créole simple
 
-La creole en or, ronde et lisse, traverse l'histoire de la joaillerie depuis l'Antiquite. Son diametre conditionne l'effet : 1 cm reste discret, 3 cm signe un parti pris affirme, 6 cm et plus impose une presence.
+La créole en or, ronde et lisse, traverse l'histoire de la joaillerie depuis l'Antiquité. Son diamètre conditionne l'effet : 1 cm reste discret, 3 cm signe un parti pris affirmé, 6 cm et plus impose une présence.
 
-### La creole sertie
+### La créole sertie
 
-La creole pavee de diamants ou enrichie de pierres demultiplie l'eclat. Elle convient aux occasions ou aux gouts plus expressifs. Son poids reste un point de vigilance pour le confort.
+La créole pavée de diamants ou enrichie de pierres démultiplie l'éclat. Elle convient aux occasions ou aux goûts plus expressifs. Son poids reste un point de vigilance pour le confort.
 
-### La creole carree ou ovale
+### La créole carrée ou ovale
 
-Les variations geometriques (carre, ovale, hexagone) signent des approches plus contemporaines. Elles s'inscrivent dans le sillage des createurs portraitures dans [la joaillerie reinventee](/blog/portrait-createurs-reinventent-joaillerie/).
+Les variations géométriques (carré, ovale, hexagone) signent des approches plus contemporaines. Elles s'inscrivent dans le sillage des créateurs portraiturés dans [la joaillerie réinventée](/blog/portrait-createurs-reinventent-joaillerie/).
 
 ## Les pendantes
 
-Les pendantes se declinent en gouttes, en chandeliers, en lustres. Elles allongent visuellement le visage et conviennent aux occasions formelles. Une pendante reussie se reconnait a son equilibre : ni trop lourde pour le confort, ni trop legere pour la presence.
+Les pendantes se déclinent en gouttes, en chandeliers, en lustres. Elles allongent visuellement le visage et conviennent aux occasions formelles. Une pendante réussie se reconnaît à son équilibre : ni trop lourde pour le confort, ni trop légère pour la présence.
 
-Les pendantes art deco et celles inspirees des [grandes maisons du XXe siecle](/blog/maisons-joaillerie-xxe-siecle/) restent une reference durable.
+Les pendantes art déco et celles inspirées des [grandes maisons du XXe siècle](/blog/maisons-joaillerie-xxe-siecle/) restent une référence durable.
 
 ## Les dormeuses
 
-La dormeuse, longue tige articulee qui pend derriere l'oreille, reste un format typiquement francais. Discrete de face, elle revele son raffinement de profil. C'est un classique du repertoire francais qui ne se demode pas.
+La dormeuse, longue tige articulée qui pend derrière l'oreille, reste un format typiquement français. Discrète de face, elle révèle son raffinement de profil. C'est un classique du répertoire français qui ne se démode pas.
 
-## Boucles d'oreilles et parure complete
+## Boucles d'oreilles et parure complète
 
-Les boucles s'accordent avec une [bague de fiancailles](/blog/bague-fiancailles-criteres-exception/) en respectant la regle des metaux : meme or, meme intensite de brillance. Avec un [collier de longueur princesse](/blog/collier-longueurs-formes-significations/), preferer des boucles compactes pour ne pas saturer. Avec un sautoir, les pendantes amplifient l'effet vertical.
+Les boucles s'accordent avec une [bague de fiançailles](/blog/bague-fiancailles-criteres-exception/) en respectant la règle des métaux : même or, même intensité de brillance. Avec un [collier de longueur princesse](/blog/collier-longueurs-formes-significations/), préférer des boucles compactes pour ne pas saturer. Avec un sautoir, les pendantes amplifient l'effet vertical.
 
-Le marche du [bijou de seconde main](/blog/bijoux-seconde-main-guide-authentification/) reserve souvent de tres belles boucles signees a des prix accessibles, particulierement sur les pendantes des annees 1950 a 1970.
+Le marché du [bijou de seconde main](/blog/bijoux-seconde-main-guide-authentification/) réserve souvent de très belles boucles signées à des prix accessibles, particulièrement sur les pendantes des années 1950 à 1970.
 
 ## L'entretien
 
-Les boucles d'oreilles s'encrassent vite par le contact avec la peau et les cosmetiques. Un nettoyage hebdomadaire au chiffon doux suffit. Les diamants peuvent passer aux ultrasons, les perles jamais. Verifier annuellement le serrage des poussoirs : c'est la cause numero un de perte.
+Les boucles d'oreilles s'encrassent vite par le contact avec la peau et les cosmétiques. Un nettoyage hebdomadaire au chiffon doux suffit. Les diamants peuvent passer aux ultrasons, les perles jamais. Vérifier annuellement le serrage des poussoirs : c'est la cause numéro un de perte.

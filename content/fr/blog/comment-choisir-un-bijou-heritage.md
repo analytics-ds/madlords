@@ -9,39 +9,39 @@ author: magalie-ergoz
 categories: ["Bijoux"]
 tags: ["bijou heritage", "transmission", "pieces iconiques", "haute joaillerie"]
 image: "/images/blog/comment-choisir-un-bijou-heritage.jpg"
-imageAlt: "Bijou heritage en or et pierres precieuses"
+imageAlt: "Bijou héritage en or et pierres précieuses"
 imageCredit: "Photo par KaylaKandzorra via Flickr (CC BY 2.0)"
 faq:
-  - question: "Quelle est la difference entre un bijou heritage et un bijou de famille ?"
-    answer: "Un bijou heritage est une piece concue des sa creation pour traverser les generations grace a la qualite de ses materiaux et la finesse de son execution. Un bijou de famille devient heritage par l'histoire qu'il porte."
-  - question: "Comment evaluer la qualite d'un bijou heritage ?"
-    answer: "Trois criteres comptent : la qualite des materiaux (or 18 carats minimum, pierres certifiees), la maitrise de la realisation (sertissage, finitions) et la signature de la maison qui en garantit la tracabilite."
-  - question: "Faut-il assurer un bijou heritage ?"
-    answer: "Oui, il est recommande de souscrire une assurance specifique pour les bijoux de valeur, basee sur une expertise recente et reactualisee tous les cinq ans environ."
+  - question: "Quelle est la différence entre un bijou héritage et un bijou de famille ?"
+    answer: "Un bijou héritage est une pièce conçue dès sa création pour traverser les générations grâce à la qualité de ses matériaux et la finesse de son exécution. Un bijou de famille devient héritage par l'histoire qu'il porte."
+  - question: "Comment évaluer la qualité d'un bijou héritage ?"
+    answer: "Trois critères comptent : la qualité des matériaux (or 18 carats minimum, pierres certifiées), la maîtrise de la réalisation (sertissage, finitions) et la signature de la maison qui en garantit la traçabilité."
+  - question: "Faut-il assurer un bijou héritage ?"
+    answer: "Oui, il est recommandé de souscrire une assurance spécifique pour les bijoux de valeur, basée sur une expertise récente et réactualisée tous les cinq ans environ."
 ---
 
-## Pourquoi choisir un bijou heritage
+## Pourquoi choisir un bijou héritage
 
-Un bijou heritage n'est pas un simple accessoire. C'est une piece pensee pour durer, pour traverser les decennies sans perdre de sa valeur ni de son emotion. Choisir un tel bijou, c'est faire le pari du temps long : un investissement dans la beaute, mais aussi dans la transmission.
+Un bijou héritage n'est pas un simple accessoire. C'est une pièce pensée pour durer, pour traverser les décennies sans perdre de sa valeur ni de son émotion. Choisir un tel bijou, c'est faire le pari du temps long : un investissement dans la beauté, mais aussi dans la transmission.
 
-## Les criteres essentiels
+## Les critères essentiels
 
-### La qualite de la matiere
+### La qualité de la matière
 
-L'or 18 carats reste le standard de la haute joaillerie. Les pierres precieuses doivent etre accompagnees d'un certificat reconnu (GIA, IGI, HRD pour les diamants). Un bijou heritage ne fait jamais l'impasse sur la matiere.
+L'or 18 carats reste le standard de la haute joaillerie. Les pierres précieuses doivent être accompagnées d'un certificat reconnu (GIA, IGI, HRD pour les diamants). Un bijou héritage ne fait jamais l'impasse sur la matière.
 
 ### Le savoir-faire
 
-Une piece d'exception se reconnait a la finesse de son sertissage, a la regularite de ses lignes, a la patine que prend l'or au fil du temps. Les grandes maisons de joaillerie maintiennent des ateliers ou les gestes se transmettent depuis des generations.
+Une pièce d'exception se reconnaît à la finesse de son sertissage, à la régularité de ses lignes, à la patine que prend l'or au fil du temps. Les grandes maisons de joaillerie maintiennent des ateliers où les gestes se transmettent depuis des générations.
 
 ### La signature
 
-Choisir une maison reconnue, c'est s'assurer d'une tracabilite et d'une revente possible. Les pieces signees conservent leur valeur, parfois meme l'augmentent au fil des annees.
+Choisir une maison reconnue, c'est s'assurer d'une traçabilité et d'une revente possible. Les pièces signées conservent leur valeur, parfois même l'augmentent au fil des années.
 
-## Bijou heritage vs bijou de famille
+## Bijou héritage vs bijou de famille
 
-Tous les bijoux de famille ne sont pas des heritages, et tous les heritages ne sont pas hereditaires. Un bijou heritage est concu pour durer ; un bijou de famille devient precieux par les histoires qu'il porte. Les deux peuvent se rejoindre, mais le premier offre une garantie objective de qualite.
+Tous les bijoux de famille ne sont pas des héritages, et tous les héritages ne sont pas héréditaires. Un bijou héritage est conçu pour durer ; un bijou de famille devient précieux par les histoires qu'il porte. Les deux peuvent se rejoindre, mais le premier offre une garantie objective de qualité.
 
-## Penser a la transmission
+## Penser à la transmission
 
-Un bijou heritage se choisit aussi en pensant aux generations qui le porteront. Il doit etre intemporel dans son design, suffisamment classique pour ne pas dater, suffisamment singulier pour ne pas etre oublie. C'est un equilibre delicat que les meilleures maisons savent trouver.
+Un bijou héritage se choisit aussi en pensant aux générations qui le porteront. Il doit être intemporel dans son design, suffisamment classique pour ne pas dater, suffisamment singulier pour ne pas être oublié. C'est un équilibre délicat que les meilleures maisons savent trouver.

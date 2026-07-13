@@ -13,37 +13,37 @@ imageAlt: "Bague en haute joaillerie avec saphir et diamants"
 imageCredit: "Photo par Koshyk via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelle est la couleur tendance en haute joaillerie en 2026 ?"
-    answer: "Le vert s'impose comme couleur de l'annee, decline en emeraude profonde, peridot lumineux et tourmaline Paraiba. Cette tendance accompagne un mouvement plus large autour des pierres de couleur certifiees non chauffees."
+    answer: "Le vert s'impose comme couleur de l'année, décliné en émeraude profonde, péridot lumineux et tourmaline Paraiba. Cette tendance accompagne un mouvement plus large autour des pierres de couleur certifiées non chauffées."
   - question: "Les bijoux en argent reviennent-ils ?"
-    answer: "Oui, l'argent revient en haute joaillerie en alternative a l'or blanc, notamment chez les createurs contemporains qui apprecient sa patine naturelle et son cout moindre permettant des pieces de plus grandes dimensions."
+    answer: "Oui, l'argent revient en haute joaillerie en alternative à l'or blanc, notamment chez les créateurs contemporains qui apprécient sa patine naturelle et son coût moindre permettant des pièces de plus grandes dimensions."
   - question: "Quelles sont les pierres qui prennent de la valeur ?"
-    answer: "Les saphirs Padparadscha, les rubis birmans non chauffes, les emeraudes colombiennes Muzo et les tourmalines Paraiba voient leur cote progresser regulierement depuis cinq ans."
+    answer: "Les saphirs Padparadscha, les rubis birmans non chauffés, les émeraudes colombiennes Muzo et les tourmalines Paraiba voient leur cote progresser régulièrement depuis cinq ans."
 ---
 
 ## Cinq tendances majeures pour 2026
 
-La haute joaillerie evolue plus lentement que la mode mais ses cycles ne s'en revelent pas moins clairs. Cinq mouvements se dessinent en 2026.
+La haute joaillerie évolue plus lentement que la mode mais ses cycles ne s'en révèlent pas moins clairs. Cinq mouvements se dessinent en 2026.
 
 ## Le retour de la couleur
 
-Apres une decennie dominee par le diamant blanc, la couleur revient en force. Le vert s'impose comme teinte de l'annee : emeraudes profondes de Colombie, peridots lumineux d'Egypte, tourmalines Paraiba. Les maisons multiplient les collections monocolores autour d'une seule pierre.
+Après une décennie dominée par le diamant blanc, la couleur revient en force. Le vert s'impose comme teinte de l'année : émeraudes profondes de Colombie, péridots lumineux d'Égypte, tourmalines Paraiba. Les maisons multiplient les collections monocolores autour d'une seule pierre.
 
-## La traçabilite comme argument
+## La traçabilité comme argument
 
-Les certificats de provenance prennent autant d'importance que les certificats gemmologiques traditionnels. Les pierres non chauffees, traçables a la mine, sont desormais valorisees jusqu'a 30% au-dessus des pierres equivalentes sans documentation complete.
+Les certificats de provenance prennent autant d'importance que les certificats gemmologiques traditionnels. Les pierres non chauffées, traçables à la mine, sont désormais valorisées jusqu'à 30% au-dessus des pierres équivalentes sans documentation complète.
 
 ## Le retour des grands volumes
 
-Les broches reviennent dans les vitrines de la place Vendome. Les colliers de cou rigides, abandonnes pendant vingt ans, font leur retour. Les bagues prennent de la hauteur. Apres des annees de minimalisme, la haute joaillerie reassume des pieces affirmees.
+Les broches reviennent dans les vitrines de la place Vendôme. Les colliers de cou rigides, abandonnés pendant vingt ans, font leur retour. Les bagues prennent de la hauteur. Après des années de minimalisme, la haute joaillerie réassume des pièces affirmées.
 
 ## Le dialogue avec l'art
 
-Plusieurs maisons collaborent avec des artistes contemporains pour creer des collections capsules. Cette tendance ouvre la haute joaillerie a un nouveau public et permet d'explorer des formes que la tradition seule n'autoriserait pas.
+Plusieurs maisons collaborent avec des artistes contemporains pour créer des collections capsules. Cette tendance ouvre la haute joaillerie à un nouveau public et permet d'explorer des formes que la tradition seule n'autoriserait pas.
 
-## L'argent en alternative serieuse
+## L'argent en alternative sérieuse
 
-Longtemps considere comme un metal de second rang, l'argent revient en haute joaillerie. Sa patine naturelle, son cout moindre permettant des pieces plus volumineuses, et l'emergence d'alliages plus durables (argent 935, argent rhodie premium) en font une option credible.
+Longtemps considéré comme un métal de second rang, l'argent revient en haute joaillerie. Sa patine naturelle, son coût moindre permettant des pièces plus volumineuses, et l'émergence d'alliages plus durables (argent 935, argent rhodié premium) en font une option crédible.
 
 ## Ce qui ne change pas
 
-Au-dela des tendances, certains fondamentaux restent. La qualite de la pierre prime sur le poids. La signature de la maison ou du createur reste la garantie de revente. Et les pieces les plus durables restent celles qui evitent precisement les modes les plus marquees, pour s'inscrire dans un classicisme reinvente.
+Au-delà des tendances, certains fondamentaux restent. La qualité de la pierre prime sur le poids. La signature de la maison ou du créateur reste la garantie de revente. Et les pièces les plus durables restent celles qui évitent précisément les modes les plus marquées, pour s'inscrire dans un classicisme réinventé.
